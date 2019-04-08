@@ -1,0 +1,88 @@
+<html lang="pt">
+  <head>
+    <meta charset="UTF-8">
+    <title>Upload</title>
+    <link rel="stylesheet" type="text/css" href="css/styles.css">
+    <link rel="stylesheet" type="text/css" href="css/dropzone.min.css">
+    <link href="https://fonts.googleapis.com/css?family=Roboto:300,400" rel="stylesheet">
+  </head>
+  <body>
+    <div class="modal-wrap">
+      <div class="modal-header"><span class="is-active"></span><span></span><span></span></div>
+      <div class="modal-bodies">
+	<div class="modal-body modal-body-step-1 is-showing">
+	  <div class="title">Passo 1</div>
+	  <div class="description">Preencha seus dados abaixo.</div>
+	  <form id="form1">
+            <input id="RA1" type="text" name="RA" placeholder="RA"/>
+	    <input id="nome1" type="text" name="nome" placeholder="Nome completo"/>
+	    <input id="turma1" type="text" name="turma" placeholder="Turma"/>
+            <div class="text-center">
+              <div class="button" id="prox1">Next</div>
+            </div>
+	  </form>
+	</div>
+	<div class="modal-body modal-body-step-2">
+	  <div class="title">Passo 2</div>
+	  <div class="description">Anexe o arquivo que deseja submeter.</div>
+	  <form id="form2" action="bin/upload.py" method="POST" class="dropzone">
+	    <input id="RA2" type="hidden" name="RA"/>
+	    <input id="nome2" type="hidden" name="nome"/>
+	    <input id="turma2" type="hidden" name="turma"/>
+            <div class="fallback">
+	      <input name="file" type="file"/>
+	      <div class="text-center fade-in">
+		<div class="button" id="btn-submit">Submit</div>
+              </div>
+	    </div>
+	  </form>
+	</div>
+	<div class="modal-body modal-body-step-3">
+	  <div class="title" id="ftitle">Sucesso!</div>
+	  <div class="description" id="fdescr">Anote seu código de submissão:</div>
+	  <div class="submission-code">
+	    
+	  </div>
+	  <div class="text-center">
+            <!--<div class="button">Pronto!</div> -->
+	     <div class="rerun-button">Nova Submissão</div>
+	  </div>
+	</div>
+      </div>
+    </div>
+    <div class="text-center">
+      <div class="rerun-button">Mais 1</div>
+    </div>
+    <script src="https://code.jquery.com/jquery-2.2.4.min.js"></script>
+    <script src="js/form.js"></script>
+    <script src="js/dropzone.min.js"></script>
+    <script>
+      // The recommended way from within the init configuration:
+
+      var go2last = function() {
+        $step = $(".modal-body-step-2"),
+	stepIndex = $step.index(),
+	$pag = $(".modal-header span").eq(stepIndex);
+        step1($step, $pag);      
+      }
+      
+      Dropzone.options.form2 = {
+      maxFilesize: 30,
+      init: function() {
+      this.on("success", function(file, msg) {
+        $("#ftitle").html("Sucesso!")
+        $(".submission-code").html(msg);
+        go2last();
+      });
+      this.on("error", function(file, msg) {  
+        $("#ftitle").html("Erro!")
+        $(".submission-code").html("");
+        $("#fdescr").html(msg);
+        go2last();
+      });
+      }
+      };
+    </script>
+  </body>
+</html>
+

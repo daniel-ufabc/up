@@ -1,0 +1,33 @@
+<html lang="pt">
+  <head>
+    <meta charset="UTF-8">
+    <title>Download</title>
+    <link rel="stylesheet" type="text/css" href="css/styles.css">
+    <link href="https://fonts.googleapis.com/css?family=Roboto:300,400" rel="stylesheet">
+  </head>
+  <body>
+    <div class="modal-wrap">
+      <!-- <div class="modal-header"><span class="is-active"></span><span></span><span></span></div> -->
+      <div class="modal-bodies">
+	<div class="modal-body modal-body-step-1 is-showing">
+	  <div class="title">Baixe seu arquivo</div>
+	  <div class="description">Preencha os dados abaixo.</div>
+	  <form id="form1" action="bin/download.py" method="GET">
+            <input id="RA" type="text" name="RA" placeholder="RA"/>
+	    <input id="code" type="text" name="code" placeholder="Código da submissão"/>
+            <div class="text-center">
+              <div class="button" id="prox1" onclick="get_file();">Download</div>
+            </div>
+	  </form>
+	</div>
+      </div>
+    </div>
+    <script>
+      // The recommended way from within the init configuration:
+      var get_file = function() {
+        document.getElementById("form1").submit();
+      }
+    </script>
+  </body>
+</html>
+

@@ -1,0 +1,9488 @@
+Modelo,Velocidade (km/h)
+Merc 280,142
+Valiant,103
+Volvo 142E,83
+Fiat 128,94
+Merc 240D,155
+Merc 280C,132
+Ford Pantera L,100
+AMC Javelin,167
+Volvo 142E,97
+Datsun 710,130
+Volvo 142E,96
+Dodge Challenger,109
+Hornet Sportabout,121
+Hornet Sportabout,132
+Merc 240D,151
+Merc 280C,142
+AMC Javelin,153
+Toyota Corolla,104
+Valiant,118
+Honda Civic,137
+Merc 230,112
+Merc 450SLC,115
+Toyota Corona,95
+Mazda RX4 Wag,107
+Merc 280,140
+Hornet Sportabout,158
+Merc 450SE,148
+Ferrari Dino,143
+Valiant,98
+Merc 280C,144
+Volvo 142E,96
+Hornet Sportabout,139
+Dodge Challenger,88
+Fiat X1-9,119
+Toyota Corona,98
+Duster 360,124
+Ford Pantera L,101
+Volvo 142E,108
+Valiant,100
+Merc 240D,138
+Fiat X1-9,119
+Lotus Europa,112
+Volvo 142E,105
+Merc 450SE,125
+Merc 450SE,145
+Merc 280C,142
+Fiat 128,93
+Camaro Z28,130
+Maserati Bora,118
+Valiant,101
+Fiat X1-9,136
+Dodge Challenger,104
+Pontiac Firebird,116
+Lotus Europa,106
+Merc 230,112
+Hornet 4 Drive,132
+Merc 280,149
+Merc 280C,115
+Toyota Corona,82
+Cadillac Fleetwood,122
+Merc 450SLC,120
+Volvo 142E,95
+Pontiac Firebird,112
+Ferrari Dino,129
+Ford Pantera L,99
+Ford Pantera L,98
+Camaro Z28,130
+Camaro Z28,161
+Hornet Sportabout,150
+Merc 280C,135
+Merc 240D,131
+Merc 280,138
+Fiat X1-9,126
+Cadillac Fleetwood,146
+Maserati Bora,135
+Porsche 914-2,95
+Duster 360,138
+Lotus Europa,84
+Merc 450SE,137
+Hornet Sportabout,122
+Valiant,87
+Camaro Z28,152
+Merc 280C,146
+Datsun 710,123
+Honda Civic,157
+Ferrari Dino,121
+Volvo 142E,103
+Toyota Corona,113
+Merc 230,120
+Honda Civic,120
+Toyota Corolla,109
+Volvo 142E,95
+Datsun 710,150
+Hornet 4 Drive,122
+Camaro Z28,141
+Honda Civic,137
+Hornet Sportabout,151
+Mazda RX4 Wag,96
+Pontiac Firebird,114
+Dodge Challenger,104
+Fiat 128,102
+Dodge Challenger,104
+Toyota Corona,77
+Valiant,97
+Merc 450SLC,129
+Merc 450SL,103
+Dodge Challenger,99
+Chrysler Imperial,141
+Merc 240D,155
+Duster 360,118
+Maserati Bora,99
+Honda Civic,136
+Maserati Bora,131
+Merc 280C,165
+Dodge Challenger,88
+Merc 450SLC,112
+Lincoln Continental,152
+Camaro Z28,147
+Mazda RX4 Wag,108
+Merc 280C,134
+Merc 280,148
+Ferrari Dino,138
+Merc 450SLC,126
+Hornet Sportabout,137
+Duster 360,156
+Mazda RX4 Wag,102
+Camaro Z28,140
+Camaro Z28,137
+Fiat X1-9,124
+Lincoln Continental,141
+Merc 230,114
+Pontiac Firebird,110
+Lincoln Continental,148
+Fiat X1-9,115
+Lincoln Continental,145
+Cadillac Fleetwood,131
+Lincoln Continental,165
+Merc 230,124
+Merc 280C,143
+Camaro Z28,141
+Merc 450SE,144
+Merc 450SE,136
+Pontiac Firebird,116
+Honda Civic,127
+Porsche 914-2,95
+Maserati Bora,134
+Lotus Europa,93
+Honda Civic,142
+Ferrari Dino,133
+Merc 450SLC,101
+Cadillac Fleetwood,146
+Honda Civic,141
+Ford Pantera L,83
+Toyota Corona,78
+Merc 240D,140
+Maserati Bora,141
+Fiat 128,95
+Merc 450SL,100
+Ferrari Dino,149
+Volvo 142E,97
+Fiat 128,113
+Pontiac Firebird,120
+Duster 360,132
+Honda Civic,117
+Toyota Corona,104
+Pontiac Firebird,127
+Lincoln Continental,154
+Fiat X1-9,105
+Merc 450SLC,112
+Ferrari Dino,140
+Merc 450SLC,117
+Valiant,110
+Merc 450SE,144
+Merc 230,138
+Dodge Challenger,109
+Merc 280,149
+Hornet Sportabout,137
+Merc 230,124
+Valiant,96
+Pontiac Firebird,112
+Camaro Z28,125
+Toyota Corolla,103
+Mazda RX4 Wag,122
+Chrysler Imperial,134
+Volvo 142E,78
+Honda Civic,134
+AMC Javelin,141
+Merc 450SE,143
+AMC Javelin,151
+Valiant,103
+Camaro Z28,150
+Lotus Europa,108
+Hornet Sportabout,121
+Merc 450SLC,113
+Merc 280,142
+Merc 450SE,129
+Camaro Z28,117
+Merc 240D,140
+Merc 280C,147
+Lotus Europa,116
+Datsun 710,139
+Merc 240D,121
+Lotus Europa,107
+Valiant,130
+Porsche 914-2,102
+Porsche 914-2,111
+Fiat X1-9,119
+Merc 450SLC,93
+Merc 240D,125
+Hornet Sportabout,147
+Camaro Z28,149
+Merc 450SE,150
+Toyota Corolla,86
+AMC Javelin,147
+Pontiac Firebird,129
+Fiat X1-9,118
+Valiant,88
+Merc 240D,142
+Hornet 4 Drive,158
+Mazda RX4 Wag,118
+Lotus Europa,100
+Merc 280,142
+Toyota Corona,96
+Merc 450SL,95
+Pontiac Firebird,124
+AMC Javelin,152
+Datsun 710,128
+Mazda RX4 Wag,100
+Ferrari Dino,150
+Ferrari Dino,130
+Camaro Z28,160
+Merc 240D,130
+Camaro Z28,154
+Fiat X1-9,111
+Datsun 710,135
+Pontiac Firebird,113
+Duster 360,127
+Merc 450SLC,118
+Volvo 142E,99
+Honda Civic,127
+Hornet Sportabout,137
+Porsche 914-2,114
+Volvo 142E,100
+Merc 450SLC,96
+Merc 230,132
+Merc 450SLC,115
+Volvo 142E,112
+Pontiac Firebird,104
+Valiant,99
+Lotus Europa,111
+Fiat X1-9,108
+Valiant,90
+Pontiac Firebird,121
+Valiant,92
+Cadillac Fleetwood,146
+Toyota Corona,83
+Merc 240D,122
+Hornet Sportabout,138
+Honda Civic,132
+Merc 280,144
+Merc 240D,157
+Hornet Sportabout,142
+Volvo 142E,112
+Hornet Sportabout,127
+Mazda RX4 Wag,111
+Hornet Sportabout,136
+Merc 230,137
+Merc 240D,141
+Camaro Z28,151
+Duster 360,111
+AMC Javelin,145
+Porsche 914-2,109
+Fiat 128,101
+Merc 230,124
+Hornet 4 Drive,115
+Ford Pantera L,95
+Camaro Z28,156
+Merc 280,142
+Mazda RX4 Wag,98
+Toyota Corolla,103
+Datsun 710,136
+Toyota Corona,96
+Porsche 914-2,120
+Dodge Challenger,103
+Dodge Challenger,91
+Maserati Bora,119
+Volvo 142E,81
+Merc 230,135
+Duster 360,145
+Porsche 914-2,112
+Dodge Challenger,105
+Duster 360,140
+Mazda RX4 Wag,115
+Hornet 4 Drive,133
+Toyota Corona,107
+Datsun 710,136
+Merc 240D,124
+Hornet Sportabout,141
+Volvo 142E,110
+Volvo 142E,98
+Merc 280,143
+Honda Civic,132
+Camaro Z28,146
+Porsche 914-2,102
+Hornet Sportabout,156
+Hornet 4 Drive,120
+Lotus Europa,120
+Dodge Challenger,105
+Hornet Sportabout,147
+Merc 230,119
+Volvo 142E,95
+Porsche 914-2,103
+Porsche 914-2,125
+Merc 280C,142
+Mazda RX4 Wag,93
+Ferrari Dino,151
+Merc 230,129
+Hornet 4 Drive,119
+Camaro Z28,153
+Maserati Bora,134
+Volvo 142E,110
+Honda Civic,144
+Hornet 4 Drive,120
+AMC Javelin,157
+Mazda RX4 Wag,100
+Fiat X1-9,107
+Porsche 914-2,96
+Lincoln Continental,145
+Toyota Corona,101
+Mazda RX4 Wag,104
+Pontiac Firebird,104
+Merc 450SL,97
+Mazda RX4 Wag,98
+Camaro Z28,139
+Ford Pantera L,91
+Honda Civic,115
+Merc 280,140
+Ferrari Dino,129
+Mazda RX4 Wag,91
+Merc 450SLC,102
+Camaro Z28,136
+Porsche 914-2,96
+Datsun 710,115
+Porsche 914-2,90
+Merc 230,127
+Merc 230,129
+Fiat X1-9,132
+Honda Civic,125
+Duster 360,134
+Lotus Europa,92
+Dodge Challenger,85
+Duster 360,124
+Honda Civic,121
+Merc 280C,152
+Merc 230,131
+Fiat X1-9,109
+Ford Pantera L,82
+Honda Civic,134
+Hornet Sportabout,115
+Camaro Z28,155
+Hornet Sportabout,136
+Toyota Corona,98
+Merc 240D,123
+Pontiac Firebird,114
+Porsche 914-2,99
+Merc 450SLC,113
+Valiant,90
+Camaro Z28,141
+Merc 280,139
+Pontiac Firebird,126
+Merc 450SE,167
+Hornet Sportabout,145
+Ford Pantera L,86
+Hornet Sportabout,135
+Cadillac Fleetwood,140
+Duster 360,130
+Merc 280,144
+Fiat X1-9,131
+Merc 450SE,138
+Pontiac Firebird,118
+Merc 450SL,113
+Honda Civic,134
+Ford Pantera L,95
+Merc 280C,153
+Porsche 914-2,92
+Dodge Challenger,122
+Pontiac Firebird,133
+Merc 280,127
+AMC Javelin,123
+Merc 280,153
+Hornet Sportabout,140
+Merc 280C,141
+Volvo 142E,94
+Dodge Challenger,122
+Toyota Corolla,114
+Mazda RX4 Wag,102
+Ford Pantera L,80
+Hornet 4 Drive,143
+Merc 450SE,146
+Dodge Challenger,105
+Cadillac Fleetwood,134
+Merc 280C,140
+Duster 360,142
+Fiat X1-9,116
+Porsche 914-2,100
+Merc 230,135
+Dodge Challenger,90
+Merc 230,133
+Pontiac Firebird,98
+Merc 280,139
+Honda Civic,142
+Honda Civic,142
+Cadillac Fleetwood,133
+Lincoln Continental,146
+Merc 230,132
+Valiant,101
+Porsche 914-2,102
+Duster 360,127
+Merc 450SE,157
+Merc 280,136
+Merc 230,116
+AMC Javelin,140
+Volvo 142E,87
+Volvo 142E,120
+Volvo 142E,89
+Lotus Europa,94
+Hornet Sportabout,125
+Merc 450SE,144
+Porsche 914-2,96
+Pontiac Firebird,120
+Merc 240D,152
+Ford Pantera L,96
+Mazda RX4 Wag,110
+Duster 360,136
+Valiant,94
+Volvo 142E,90
+Mazda RX4 Wag,106
+Merc 280C,148
+Porsche 914-2,107
+Camaro Z28,142
+Ferrari Dino,138
+Dodge Challenger,100
+Valiant,95
+Maserati Bora,126
+Maserati Bora,119
+Merc 280,142
+Hornet Sportabout,143
+Lotus Europa,111
+Cadillac Fleetwood,128
+Fiat 128,107
+Merc 280C,154
+Maserati Bora,131
+Mazda RX4 Wag,116
+Maserati Bora,132
+Camaro Z28,148
+Merc 450SLC,113
+AMC Javelin,147
+Hornet Sportabout,148
+Lotus Europa,96
+Ford Pantera L,89
+Volvo 142E,93
+Toyota Corolla,106
+Camaro Z28,154
+Camaro Z28,144
+Dodge Challenger,110
+Porsche 914-2,113
+Duster 360,132
+Datsun 710,129
+Ferrari Dino,140
+Fiat X1-9,103
+Valiant,80
+Hornet Sportabout,137
+Merc 450SE,150
+Dodge Challenger,111
+Hornet Sportabout,133
+Volvo 142E,103
+Porsche 914-2,119
+Hornet 4 Drive,130
+Volvo 142E,87
+Mazda RX4 Wag,119
+Hornet Sportabout,145
+Toyota Corona,120
+Chrysler Imperial,129
+Camaro Z28,131
+Lincoln Continental,156
+Merc 280,133
+Duster 360,130
+Camaro Z28,159
+AMC Javelin,147
+Mazda RX4 Wag,125
+Merc 280,142
+Merc 450SLC,126
+Pontiac Firebird,111
+Fiat X1-9,113
+Merc 230,127
+Pontiac Firebird,101
+Merc 450SL,96
+Pontiac Firebird,140
+Lincoln Continental,135
+Duster 360,140
+Hornet 4 Drive,124
+Merc 450SLC,105
+Lincoln Continental,143
+AMC Javelin,144
+Camaro Z28,139
+Lincoln Continental,149
+Lotus Europa,94
+Merc 230,133
+Pontiac Firebird,97
+Pontiac Firebird,130
+Volvo 142E,85
+Merc 240D,125
+Camaro Z28,147
+Fiat X1-9,137
+Merc 230,116
+Ford Pantera L,79
+Duster 360,136
+Ford Pantera L,90
+Hornet 4 Drive,139
+Hornet Sportabout,125
+Lotus Europa,92
+Honda Civic,131
+Mazda RX4 Wag,110
+Hornet Sportabout,127
+Toyota Corona,83
+Datsun 710,140
+Merc 240D,118
+Volvo 142E,96
+Merc 450SL,81
+Hornet 4 Drive,125
+Ferrari Dino,138
+Honda Civic,127
+Toyota Corona,93
+Merc 450SLC,117
+Datsun 710,140
+Maserati Bora,120
+Merc 230,125
+Hornet 4 Drive,148
+Merc 450SLC,134
+Honda Civic,134
+Maserati Bora,145
+Merc 280C,154
+Honda Civic,119
+Hornet 4 Drive,131
+Volvo 142E,101
+Pontiac Firebird,105
+Merc 280,135
+Duster 360,147
+Merc 280,166
+Hornet 4 Drive,125
+Merc 240D,153
+Pontiac Firebird,112
+Duster 360,149
+Hornet Sportabout,128
+Honda Civic,133
+AMC Javelin,150
+Honda Civic,121
+Valiant,110
+Ferrari Dino,133
+Honda Civic,129
+Merc 230,114
+Merc 450SE,149
+Dodge Challenger,87
+Merc 450SE,147
+Valiant,108
+Merc 280,135
+Camaro Z28,146
+Duster 360,127
+Hornet Sportabout,135
+Mazda RX4 Wag,120
+Cadillac Fleetwood,127
+Duster 360,125
+Merc 450SLC,132
+Hornet Sportabout,140
+Chrysler Imperial,144
+Merc 450SLC,114
+Merc 230,127
+Pontiac Firebird,106
+Camaro Z28,152
+Dodge Challenger,108
+Ford Pantera L,98
+Fiat 128,95
+Fiat 128,107
+Merc 450SLC,127
+Merc 450SE,145
+Maserati Bora,123
+Merc 280,143
+Duster 360,135
+Camaro Z28,134
+Mazda RX4 Wag,111
+Mazda RX4 Wag,88
+Duster 360,135
+Maserati Bora,129
+Merc 280,162
+Dodge Challenger,98
+Hornet 4 Drive,145
+Toyota Corolla,129
+Lotus Europa,96
+Duster 360,132
+Hornet Sportabout,132
+Merc 280,155
+Merc 450SE,125
+Valiant,89
+Hornet 4 Drive,134
+Merc 450SLC,98
+Ferrari Dino,156
+Hornet 4 Drive,138
+Hornet 4 Drive,140
+Mazda RX4 Wag,108
+Camaro Z28,133
+Fiat 128,97
+Camaro Z28,127
+Hornet Sportabout,151
+Pontiac Firebird,117
+Toyota Corolla,108
+Toyota Corona,92
+Ford Pantera L,89
+Camaro Z28,144
+Honda Civic,138
+Honda Civic,139
+Pontiac Firebird,130
+Merc 280C,150
+Toyota Corolla,111
+Merc 240D,149
+Chrysler Imperial,131
+Duster 360,134
+Datsun 710,149
+Volvo 142E,74
+Valiant,123
+Merc 230,130
+Hornet 4 Drive,135
+Merc 230,113
+Datsun 710,133
+Cadillac Fleetwood,129
+Ford Pantera L,89
+Duster 360,123
+Lotus Europa,90
+Hornet Sportabout,149
+Camaro Z28,160
+Duster 360,126
+Dodge Challenger,91
+Porsche 914-2,120
+Honda Civic,139
+Hornet Sportabout,133
+Mazda RX4 Wag,98
+Merc 240D,123
+Merc 240D,110
+Merc 240D,141
+Merc 240D,146
+Duster 360,144
+Camaro Z28,159
+Hornet Sportabout,139
+Lincoln Continental,149
+Camaro Z28,143
+Porsche 914-2,111
+Honda Civic,122
+Porsche 914-2,93
+Merc 450SLC,115
+Volvo 142E,94
+Mazda RX4 Wag,102
+Chrysler Imperial,143
+Camaro Z28,156
+Hornet 4 Drive,125
+Lincoln Continental,141
+Merc 240D,114
+Fiat 128,129
+Chrysler Imperial,120
+Maserati Bora,130
+Merc 240D,126
+Ferrari Dino,124
+Merc 280C,142
+Hornet Sportabout,143
+Volvo 142E,77
+Datsun 710,153
+Merc 230,131
+Datsun 710,135
+Dodge Challenger,124
+Pontiac Firebird,136
+Pontiac Firebird,123
+Mazda RX4 Wag,80
+Camaro Z28,150
+Pontiac Firebird,124
+Merc 230,129
+Toyota Corona,98
+Valiant,99
+Merc 230,122
+Merc 230,131
+Merc 230,134
+Toyota Corolla,114
+Merc 280,141
+Toyota Corona,95
+Merc 230,127
+Valiant,89
+Ford Pantera L,91
+Merc 230,132
+Lotus Europa,93
+Lotus Europa,101
+Dodge Challenger,100
+Toyota Corolla,92
+Duster 360,121
+Datsun 710,137
+Merc 230,129
+Volvo 142E,82
+Ferrari Dino,133
+Merc 450SLC,117
+Fiat 128,92
+Merc 450SL,103
+Porsche 914-2,113
+Mazda RX4 Wag,97
+Camaro Z28,163
+Volvo 142E,90
+Porsche 914-2,94
+AMC Javelin,146
+Merc 450SL,109
+Mazda RX4 Wag,106
+Pontiac Firebird,122
+Merc 450SLC,121
+Merc 450SLC,109
+Merc 450SE,158
+Hornet Sportabout,147
+Hornet 4 Drive,117
+Toyota Corona,104
+Merc 230,137
+AMC Javelin,161
+Merc 450SLC,127
+Merc 450SLC,111
+Merc 280,127
+Mazda RX4 Wag,105
+Lincoln Continental,143
+Camaro Z28,134
+Volvo 142E,89
+Hornet Sportabout,119
+Honda Civic,137
+Merc 450SL,118
+Merc 450SL,80
+Merc 450SLC,119
+Dodge Challenger,113
+Merc 280,146
+Fiat X1-9,100
+Hornet 4 Drive,134
+Merc 280C,143
+Merc 450SL,101
+Toyota Corolla,112
+Merc 240D,127
+Hornet 4 Drive,138
+Ford Pantera L,107
+Merc 280C,139
+Hornet Sportabout,146
+Datsun 710,140
+Fiat X1-9,122
+Ford Pantera L,98
+Merc 450SE,159
+Datsun 710,132
+Merc 280C,168
+Valiant,101
+Maserati Bora,137
+Porsche 914-2,117
+Ferrari Dino,132
+Ford Pantera L,92
+Merc 450SE,166
+Volvo 142E,74
+Lotus Europa,126
+Camaro Z28,147
+Fiat X1-9,97
+Datsun 710,121
+Camaro Z28,150
+Hornet 4 Drive,137
+Cadillac Fleetwood,121
+Merc 450SLC,114
+Valiant,107
+Duster 360,118
+Toyota Corona,103
+Merc 280C,151
+Volvo 142E,101
+Mazda RX4 Wag,107
+Ford Pantera L,84
+AMC Javelin,154
+Porsche 914-2,85
+Merc 230,127
+Valiant,100
+Fiat X1-9,119
+Toyota Corona,94
+Porsche 914-2,103
+Merc 240D,137
+Hornet 4 Drive,132
+Lotus Europa,98
+Toyota Corolla,98
+Datsun 710,131
+Merc 450SL,90
+Hornet Sportabout,143
+Lincoln Continental,121
+Honda Civic,131
+Mazda RX4 Wag,94
+Fiat 128,98
+Lotus Europa,104
+Camaro Z28,159
+Camaro Z28,163
+Toyota Corona,100
+Merc 280C,146
+Merc 450SLC,129
+Merc 280,138
+Lotus Europa,114
+Honda Civic,139
+Lotus Europa,116
+Merc 450SLC,129
+Maserati Bora,122
+Merc 450SL,104
+Valiant,93
+Duster 360,141
+Mazda RX4 Wag,86
+Toyota Corona,109
+Merc 450SLC,113
+Pontiac Firebird,130
+AMC Javelin,146
+Lotus Europa,102
+Merc 230,117
+Hornet 4 Drive,145
+Hornet 4 Drive,128
+Hornet Sportabout,129
+Fiat X1-9,121
+Merc 450SE,146
+Porsche 914-2,136
+Porsche 914-2,108
+Merc 450SE,166
+Maserati Bora,124
+Hornet Sportabout,128
+Camaro Z28,138
+Merc 230,128
+Mazda RX4 Wag,99
+Merc 280,140
+Fiat X1-9,111
+Porsche 914-2,120
+Datsun 710,133
+Volvo 142E,111
+Merc 450SLC,125
+Ferrari Dino,142
+Pontiac Firebird,124
+Merc 230,127
+Merc 450SL,101
+Merc 280,134
+Merc 240D,138
+Volvo 142E,89
+Hornet Sportabout,135
+Duster 360,141
+Cadillac Fleetwood,149
+Hornet Sportabout,140
+Lincoln Continental,144
+Merc 280C,138
+Merc 280,136
+Datsun 710,144
+Merc 450SLC,131
+Porsche 914-2,105
+Hornet Sportabout,152
+Dodge Challenger,104
+Valiant,96
+Hornet Sportabout,150
+Pontiac Firebird,123
+Merc 230,120
+Datsun 710,116
+Merc 450SLC,106
+Merc 450SLC,121
+Honda Civic,118
+Fiat X1-9,114
+Merc 280,125
+Merc 240D,120
+Mazda RX4 Wag,99
+Fiat X1-9,116
+Merc 280,125
+Pontiac Firebird,123
+Cadillac Fleetwood,140
+Honda Civic,134
+Toyota Corolla,86
+Dodge Challenger,95
+Merc 280C,133
+Ferrari Dino,140
+Porsche 914-2,106
+Mazda RX4 Wag,92
+Merc 280,142
+Toyota Corolla,118
+Lotus Europa,107
+Camaro Z28,158
+Merc 450SLC,121
+Merc 280,130
+Datsun 710,131
+Merc 450SE,155
+Cadillac Fleetwood,138
+Chrysler Imperial,113
+Merc 450SE,158
+Maserati Bora,123
+Cadillac Fleetwood,130
+Pontiac Firebird,119
+Toyota Corolla,113
+Fiat 128,94
+Fiat X1-9,128
+Maserati Bora,116
+Merc 280,139
+Merc 450SE,165
+Toyota Corolla,105
+Valiant,91
+Lincoln Continental,145
+Merc 450SLC,134
+Merc 230,125
+Merc 450SLC,111
+Volvo 142E,84
+Duster 360,150
+Duster 360,132
+Duster 360,152
+Dodge Challenger,101
+Merc 450SE,127
+Hornet 4 Drive,123
+Lotus Europa,100
+Honda Civic,138
+AMC Javelin,163
+Pontiac Firebird,125
+Duster 360,137
+AMC Javelin,151
+Lotus Europa,92
+Mazda RX4 Wag,115
+Pontiac Firebird,142
+Ford Pantera L,92
+Valiant,101
+Merc 240D,135
+Hornet Sportabout,154
+Fiat 128,88
+Hornet Sportabout,139
+Duster 360,143
+Merc 280,144
+Mazda RX4 Wag,92
+Fiat X1-9,112
+Maserati Bora,117
+Toyota Corona,86
+Merc 280,134
+Hornet 4 Drive,134
+Merc 450SE,141
+Mazda RX4 Wag,105
+Honda Civic,123
+Pontiac Firebird,111
+Merc 450SE,141
+Ferrari Dino,139
+Fiat X1-9,98
+AMC Javelin,145
+Porsche 914-2,103
+Merc 240D,139
+Valiant,93
+Toyota Corona,109
+Merc 450SLC,127
+Toyota Corona,92
+Merc 280C,138
+Honda Civic,136
+Camaro Z28,143
+Maserati Bora,138
+Merc 450SE,148
+Fiat X1-9,101
+Duster 360,117
+Merc 280,122
+Merc 450SLC,117
+Duster 360,120
+Datsun 710,140
+Mazda RX4 Wag,89
+Merc 280C,153
+Ferrari Dino,155
+Merc 280C,143
+Toyota Corona,85
+Merc 450SL,83
+Valiant,106
+Hornet 4 Drive,123
+Hornet Sportabout,141
+Valiant,108
+AMC Javelin,133
+Duster 360,125
+Volvo 142E,93
+Valiant,111
+Camaro Z28,144
+Volvo 142E,94
+Merc 450SLC,130
+Ferrari Dino,140
+Merc 280,142
+Honda Civic,137
+Porsche 914-2,111
+Hornet Sportabout,149
+Porsche 914-2,106
+Merc 450SLC,120
+Lincoln Continental,134
+Merc 280,153
+Merc 450SL,107
+Valiant,110
+Datsun 710,134
+Merc 280,129
+Duster 360,125
+Datsun 710,133
+Pontiac Firebird,115
+Cadillac Fleetwood,123
+Merc 280,147
+Merc 450SE,149
+Maserati Bora,118
+Chrysler Imperial,112
+Pontiac Firebird,111
+Merc 240D,144
+Merc 450SE,125
+Ferrari Dino,119
+Pontiac Firebird,141
+Hornet Sportabout,129
+Merc 450SL,94
+Merc 450SLC,122
+Merc 280C,148
+Merc 230,113
+Hornet Sportabout,130
+Merc 230,134
+AMC Javelin,136
+Camaro Z28,159
+Duster 360,126
+Ford Pantera L,85
+Merc 450SLC,116
+Hornet 4 Drive,115
+Lincoln Continental,132
+Merc 280C,140
+Merc 450SL,82
+Merc 240D,124
+Datsun 710,127
+Toyota Corolla,100
+Hornet 4 Drive,142
+Honda Civic,140
+AMC Javelin,158
+Merc 450SL,112
+Hornet Sportabout,122
+Merc 450SE,138
+Volvo 142E,89
+Ford Pantera L,99
+Valiant,110
+Merc 280,141
+Ford Pantera L,91
+Hornet Sportabout,121
+Datsun 710,133
+Honda Civic,138
+Merc 230,117
+AMC Javelin,145
+Merc 280C,145
+Lotus Europa,80
+Hornet Sportabout,147
+Honda Civic,131
+Valiant,104
+Toyota Corolla,107
+Maserati Bora,120
+Honda Civic,135
+Maserati Bora,112
+Toyota Corona,75
+Volvo 142E,90
+Chrysler Imperial,136
+Merc 230,144
+Valiant,106
+Duster 360,122
+Merc 450SL,88
+Valiant,80
+Merc 280,128
+Duster 360,119
+Camaro Z28,132
+Lotus Europa,102
+Fiat 128,114
+Duster 360,133
+Merc 450SE,133
+Camaro Z28,145
+Merc 450SE,127
+Fiat X1-9,115
+Merc 240D,128
+Lotus Europa,108
+Merc 450SLC,91
+Volvo 142E,96
+Lotus Europa,94
+Merc 230,118
+Merc 230,130
+Honda Civic,133
+Honda Civic,112
+Duster 360,144
+Merc 230,137
+Pontiac Firebird,117
+Merc 280,152
+Cadillac Fleetwood,118
+Ferrari Dino,119
+Merc 240D,146
+Dodge Challenger,118
+Merc 450SLC,110
+Chrysler Imperial,133
+Ford Pantera L,90
+Datsun 710,129
+Pontiac Firebird,121
+Cadillac Fleetwood,110
+Mazda RX4 Wag,105
+Dodge Challenger,131
+Toyota Corona,89
+Porsche 914-2,109
+Duster 360,128
+Merc 230,134
+Merc 280,130
+Ford Pantera L,78
+Merc 280,142
+Valiant,107
+Cadillac Fleetwood,125
+Lotus Europa,98
+Duster 360,140
+Camaro Z28,138
+Hornet Sportabout,143
+Maserati Bora,134
+Honda Civic,127
+Toyota Corona,79
+Hornet 4 Drive,128
+Honda Civic,146
+Fiat X1-9,124
+Merc 450SE,139
+Honda Civic,137
+Merc 450SL,98
+Lincoln Continental,140
+Lotus Europa,117
+Merc 230,125
+Hornet 4 Drive,121
+Camaro Z28,141
+Chrysler Imperial,127
+Merc 450SE,162
+Merc 240D,134
+Hornet 4 Drive,131
+Dodge Challenger,124
+Porsche 914-2,103
+Ferrari Dino,143
+Chrysler Imperial,128
+Toyota Corolla,103
+Volvo 142E,94
+Valiant,103
+Merc 450SE,138
+Datsun 710,145
+Lincoln Continental,138
+Ferrari Dino,131
+Duster 360,137
+Merc 450SLC,114
+Duster 360,127
+Fiat X1-9,103
+Honda Civic,140
+Porsche 914-2,111
+Mazda RX4 Wag,116
+Honda Civic,137
+Lotus Europa,111
+Merc 450SLC,122
+Duster 360,119
+Lotus Europa,109
+Merc 280C,132
+Fiat X1-9,104
+Camaro Z28,156
+Pontiac Firebird,117
+Cadillac Fleetwood,128
+Camaro Z28,159
+Camaro Z28,148
+Mazda RX4 Wag,114
+Hornet Sportabout,134
+AMC Javelin,144
+Dodge Challenger,107
+Porsche 914-2,106
+Pontiac Firebird,123
+Ford Pantera L,83
+Duster 360,121
+Duster 360,131
+Honda Civic,139
+Valiant,92
+Toyota Corolla,94
+Ford Pantera L,105
+Ford Pantera L,93
+Hornet Sportabout,136
+Toyota Corona,96
+Mazda RX4 Wag,100
+Honda Civic,110
+Hornet Sportabout,134
+AMC Javelin,156
+Dodge Challenger,113
+Merc 280C,142
+Dodge Challenger,105
+Merc 280,152
+Pontiac Firebird,118
+Valiant,108
+Merc 280,138
+Ford Pantera L,86
+Pontiac Firebird,102
+Merc 450SL,114
+Honda Civic,149
+Merc 450SE,139
+Hornet 4 Drive,137
+Merc 450SL,99
+Porsche 914-2,109
+Hornet Sportabout,165
+Fiat X1-9,115
+Porsche 914-2,104
+Volvo 142E,106
+AMC Javelin,137
+Merc 230,130
+Valiant,98
+Volvo 142E,85
+Pontiac Firebird,114
+Honda Civic,131
+Ford Pantera L,104
+Porsche 914-2,114
+Honda Civic,149
+Volvo 142E,93
+AMC Javelin,146
+Dodge Challenger,105
+Duster 360,131
+Merc 450SL,112
+Merc 280,130
+Hornet Sportabout,148
+Datsun 710,141
+Volvo 142E,90
+Dodge Challenger,94
+Merc 450SLC,128
+Lincoln Continental,138
+Merc 450SE,157
+Valiant,106
+Merc 280C,139
+Cadillac Fleetwood,137
+Fiat X1-9,102
+Ferrari Dino,154
+Pontiac Firebird,111
+Mazda RX4 Wag,104
+Merc 450SLC,135
+Lotus Europa,89
+Pontiac Firebird,123
+Hornet Sportabout,153
+Merc 280,145
+Lotus Europa,109
+Chrysler Imperial,133
+Ford Pantera L,109
+Ford Pantera L,74
+Maserati Bora,122
+Merc 450SL,100
+Merc 230,118
+Merc 230,107
+Hornet Sportabout,156
+Porsche 914-2,97
+Duster 360,130
+Ford Pantera L,95
+Ford Pantera L,80
+Porsche 914-2,106
+Lotus Europa,106
+Duster 360,123
+Merc 240D,156
+Fiat X1-9,104
+Lotus Europa,108
+Merc 450SE,141
+Merc 230,139
+Fiat X1-9,122
+Merc 240D,125
+Pontiac Firebird,118
+Merc 280C,150
+Dodge Challenger,107
+Merc 450SL,108
+Mazda RX4 Wag,109
+Volvo 142E,91
+Hornet Sportabout,153
+Merc 280,139
+Merc 450SL,97
+Merc 450SLC,118
+Merc 230,123
+Maserati Bora,117
+Fiat 128,114
+Merc 450SLC,87
+Pontiac Firebird,120
+Merc 450SE,140
+Camaro Z28,157
+Fiat X1-9,96
+Pontiac Firebird,108
+Pontiac Firebird,144
+Pontiac Firebird,118
+Hornet Sportabout,137
+Merc 280C,148
+Honda Civic,120
+Hornet 4 Drive,122
+Valiant,108
+Merc 280C,146
+Merc 450SL,88
+Valiant,101
+Hornet Sportabout,135
+Hornet Sportabout,146
+Camaro Z28,140
+Dodge Challenger,94
+Camaro Z28,135
+Merc 280C,155
+Ferrari Dino,144
+Pontiac Firebird,106
+Dodge Challenger,120
+Fiat X1-9,112
+AMC Javelin,152
+Merc 280C,148
+Merc 230,128
+Pontiac Firebird,138
+Datsun 710,139
+Volvo 142E,109
+Merc 280,120
+Hornet Sportabout,143
+AMC Javelin,142
+Camaro Z28,142
+Volvo 142E,103
+Hornet Sportabout,140
+Porsche 914-2,119
+Cadillac Fleetwood,121
+Ford Pantera L,78
+Merc 240D,141
+Merc 280C,130
+Porsche 914-2,101
+Pontiac Firebird,127
+Honda Civic,130
+Merc 230,108
+Merc 450SE,160
+Ferrari Dino,118
+Duster 360,141
+Datsun 710,137
+Lotus Europa,98
+Hornet 4 Drive,135
+Merc 280,135
+Mazda RX4 Wag,123
+Datsun 710,131
+Fiat X1-9,106
+Duster 360,141
+Camaro Z28,138
+Toyota Corona,88
+Mazda RX4 Wag,103
+Duster 360,136
+Duster 360,138
+Merc 450SL,88
+Merc 280,131
+Pontiac Firebird,105
+Hornet 4 Drive,145
+Merc 280C,140
+Ferrari Dino,124
+Hornet 4 Drive,132
+Porsche 914-2,98
+Hornet 4 Drive,140
+Maserati Bora,89
+Toyota Corona,79
+Datsun 710,136
+Duster 360,130
+Merc 280C,138
+Dodge Challenger,106
+Fiat 128,98
+Dodge Challenger,117
+Pontiac Firebird,120
+Honda Civic,124
+Hornet 4 Drive,136
+Merc 230,118
+Maserati Bora,125
+Honda Civic,143
+Maserati Bora,141
+Merc 230,120
+Honda Civic,138
+Merc 280,147
+Hornet Sportabout,145
+Merc 240D,145
+Mazda RX4 Wag,108
+Cadillac Fleetwood,137
+Valiant,104
+Merc 450SLC,127
+Volvo 142E,114
+Hornet Sportabout,144
+Merc 280C,153
+Hornet Sportabout,143
+Hornet 4 Drive,133
+Fiat X1-9,125
+Volvo 142E,110
+Dodge Challenger,129
+Toyota Corona,101
+Porsche 914-2,91
+Merc 450SL,106
+Hornet Sportabout,147
+Cadillac Fleetwood,139
+AMC Javelin,168
+Merc 450SLC,122
+Merc 450SLC,124
+Ford Pantera L,79
+Toyota Corona,95
+Merc 450SL,114
+Volvo 142E,103
+Hornet 4 Drive,143
+Lotus Europa,117
+Merc 240D,130
+Fiat X1-9,106
+Duster 360,121
+Merc 280,145
+AMC Javelin,152
+Lotus Europa,103
+Hornet Sportabout,137
+Toyota Corolla,92
+Merc 450SE,142
+Valiant,114
+Datsun 710,124
+Cadillac Fleetwood,137
+Merc 280C,150
+Datsun 710,138
+Merc 450SLC,120
+Merc 450SL,80
+Merc 280C,148
+Merc 450SE,142
+Fiat X1-9,125
+AMC Javelin,166
+Valiant,97
+Merc 450SLC,138
+Hornet 4 Drive,118
+Merc 280C,146
+Honda Civic,137
+Merc 280,132
+Mazda RX4 Wag,110
+Toyota Corolla,79
+Merc 230,117
+Merc 230,143
+Merc 450SE,147
+Valiant,85
+Honda Civic,138
+Valiant,93
+Ford Pantera L,89
+Cadillac Fleetwood,121
+Toyota Corona,92
+Fiat X1-9,123
+Cadillac Fleetwood,128
+Pontiac Firebird,116
+Merc 280C,155
+Merc 450SLC,116
+Toyota Corona,105
+Merc 280,121
+Merc 450SE,154
+Honda Civic,137
+Valiant,99
+Duster 360,119
+Lincoln Continental,160
+Merc 280C,145
+Merc 450SE,125
+Valiant,106
+Merc 450SLC,97
+Merc 280,133
+Dodge Challenger,93
+Honda Civic,152
+Lotus Europa,104
+Dodge Challenger,96
+Hornet Sportabout,126
+Merc 280,137
+Porsche 914-2,108
+Duster 360,139
+AMC Javelin,145
+Ford Pantera L,93
+Porsche 914-2,104
+Toyota Corolla,101
+Merc 230,110
+Hornet 4 Drive,139
+Toyota Corolla,120
+Merc 450SLC,114
+Dodge Challenger,104
+Lincoln Continental,147
+Lotus Europa,105
+Fiat 128,108
+Merc 280,151
+Lotus Europa,112
+AMC Javelin,146
+Hornet Sportabout,133
+Fiat X1-9,110
+Merc 230,123
+Merc 450SL,107
+Fiat X1-9,114
+Duster 360,142
+Toyota Corolla,90
+Lotus Europa,104
+Dodge Challenger,116
+Lincoln Continental,131
+AMC Javelin,144
+Pontiac Firebird,99
+Pontiac Firebird,116
+Hornet 4 Drive,119
+Duster 360,141
+Fiat X1-9,127
+Hornet 4 Drive,145
+Maserati Bora,120
+Fiat X1-9,103
+Datsun 710,136
+Lincoln Continental,147
+Camaro Z28,148
+Merc 280C,153
+Toyota Corona,100
+Honda Civic,138
+Merc 280,134
+Datsun 710,127
+Mazda RX4 Wag,103
+Merc 450SE,147
+Pontiac Firebird,129
+Duster 360,123
+Mazda RX4 Wag,99
+Ferrari Dino,141
+Merc 450SL,104
+Lotus Europa,108
+Merc 240D,143
+Merc 280C,139
+Fiat X1-9,103
+Porsche 914-2,91
+Merc 240D,143
+Merc 230,127
+Pontiac Firebird,117
+Merc 280C,161
+Hornet 4 Drive,130
+Honda Civic,132
+Merc 280,138
+Duster 360,126
+Mazda RX4 Wag,100
+Pontiac Firebird,109
+Ford Pantera L,105
+Duster 360,150
+Dodge Challenger,110
+Merc 450SE,140
+Hornet 4 Drive,143
+Merc 240D,144
+Cadillac Fleetwood,141
+Merc 280,141
+Duster 360,146
+Fiat X1-9,123
+Fiat X1-9,112
+Duster 360,150
+Duster 360,111
+Merc 280C,148
+Valiant,99
+Merc 280,124
+Maserati Bora,117
+Duster 360,130
+Honda Civic,124
+Valiant,95
+Maserati Bora,119
+Valiant,110
+Hornet 4 Drive,120
+Dodge Challenger,103
+Duster 360,142
+Lotus Europa,91
+AMC Javelin,145
+Hornet Sportabout,152
+Merc 450SE,141
+Merc 280,137
+Cadillac Fleetwood,112
+Mazda RX4 Wag,122
+Camaro Z28,155
+Fiat 128,79
+Merc 450SE,133
+Camaro Z28,143
+Toyota Corona,88
+Toyota Corona,82
+Merc 230,106
+Valiant,101
+Hornet Sportabout,147
+Merc 450SE,161
+Merc 450SE,153
+Hornet Sportabout,143
+Merc 280,141
+Toyota Corolla,117
+Merc 450SE,149
+Valiant,87
+Honda Civic,137
+Datsun 710,142
+AMC Javelin,150
+Hornet Sportabout,127
+Merc 450SLC,108
+Merc 280C,142
+Porsche 914-2,113
+Merc 280C,142
+Valiant,99
+Lincoln Continental,148
+Ford Pantera L,93
+Lincoln Continental,157
+Merc 230,147
+Hornet Sportabout,128
+Merc 450SE,142
+Hornet 4 Drive,119
+Hornet 4 Drive,119
+Merc 450SL,95
+Chrysler Imperial,138
+Cadillac Fleetwood,129
+Mazda RX4 Wag,104
+Duster 360,130
+Merc 280,157
+Merc 450SLC,119
+Merc 240D,117
+Hornet Sportabout,134
+Merc 450SE,137
+Fiat 128,95
+Merc 280,128
+Lotus Europa,105
+Merc 450SE,141
+Datsun 710,135
+Maserati Bora,128
+Dodge Challenger,101
+Chrysler Imperial,145
+Volvo 142E,90
+Toyota Corona,88
+Lincoln Continental,135
+Ferrari Dino,142
+Merc 240D,132
+Toyota Corona,92
+Valiant,89
+Datsun 710,142
+Cadillac Fleetwood,146
+Pontiac Firebird,97
+Lotus Europa,107
+Toyota Corona,97
+Volvo 142E,86
+Dodge Challenger,109
+Valiant,104
+Porsche 914-2,91
+Ferrari Dino,135
+Merc 230,123
+Volvo 142E,94
+Lincoln Continental,130
+Mazda RX4 Wag,120
+Ferrari Dino,142
+Camaro Z28,150
+Cadillac Fleetwood,128
+Merc 450SE,138
+Fiat 128,74
+Cadillac Fleetwood,133
+Valiant,96
+Merc 280C,140
+Merc 450SLC,120
+Merc 450SLC,130
+Merc 230,134
+Toyota Corona,97
+Merc 240D,160
+Merc 240D,136
+Merc 450SLC,122
+Lotus Europa,113
+Mazda RX4 Wag,110
+Honda Civic,155
+Toyota Corolla,98
+Honda Civic,137
+Porsche 914-2,100
+AMC Javelin,158
+Lincoln Continental,143
+Merc 280,149
+Pontiac Firebird,114
+Camaro Z28,156
+Valiant,93
+Merc 450SLC,133
+Fiat X1-9,100
+Ford Pantera L,88
+Valiant,94
+Hornet 4 Drive,123
+Valiant,103
+Hornet Sportabout,138
+Hornet Sportabout,143
+Lotus Europa,89
+Pontiac Firebird,113
+Merc 280C,136
+Merc 280,144
+Fiat 128,106
+Hornet 4 Drive,109
+Volvo 142E,87
+Pontiac Firebird,122
+Merc 230,123
+Hornet Sportabout,132
+Maserati Bora,126
+Ferrari Dino,123
+Volvo 142E,93
+Lincoln Continental,136
+Merc 280,134
+Dodge Challenger,97
+Toyota Corona,88
+Fiat X1-9,121
+Merc 450SE,143
+Datsun 710,140
+Hornet Sportabout,144
+Merc 280,138
+Cadillac Fleetwood,161
+Hornet 4 Drive,128
+Ferrari Dino,141
+Lotus Europa,125
+Chrysler Imperial,133
+Porsche 914-2,83
+Lincoln Continental,148
+Porsche 914-2,98
+Ferrari Dino,146
+Merc 450SE,156
+Mazda RX4 Wag,101
+Datsun 710,120
+AMC Javelin,145
+Duster 360,126
+Volvo 142E,87
+Merc 450SLC,130
+Hornet Sportabout,136
+Merc 450SE,153
+Lotus Europa,106
+Maserati Bora,133
+Ferrari Dino,142
+Hornet 4 Drive,129
+Lotus Europa,92
+Hornet 4 Drive,132
+Honda Civic,121
+Valiant,128
+Pontiac Firebird,112
+Lotus Europa,90
+Ferrari Dino,150
+Pontiac Firebird,110
+Dodge Challenger,89
+Mazda RX4 Wag,98
+Volvo 142E,91
+Merc 230,132
+Toyota Corona,110
+Valiant,97
+Volvo 142E,98
+Honda Civic,142
+Ford Pantera L,78
+Valiant,110
+Pontiac Firebird,123
+Volvo 142E,85
+Merc 450SE,125
+Mazda RX4 Wag,115
+Dodge Challenger,84
+Merc 280C,140
+Pontiac Firebird,108
+Ford Pantera L,85
+Merc 450SE,155
+Porsche 914-2,106
+Dodge Challenger,97
+Ford Pantera L,87
+Porsche 914-2,95
+Hornet Sportabout,152
+Porsche 914-2,97
+Merc 230,131
+Mazda RX4 Wag,100
+Hornet Sportabout,138
+Ford Pantera L,90
+Ford Pantera L,88
+Merc 280C,148
+Merc 280C,136
+Camaro Z28,143
+Pontiac Firebird,120
+Maserati Bora,127
+Merc 230,120
+Camaro Z28,140
+Duster 360,122
+Volvo 142E,105
+Pontiac Firebird,114
+Ford Pantera L,99
+Merc 230,123
+Volvo 142E,96
+Hornet Sportabout,136
+Hornet 4 Drive,137
+Merc 280C,134
+Merc 230,123
+Honda Civic,113
+Merc 280,137
+Merc 280,137
+Camaro Z28,148
+Pontiac Firebird,132
+Mazda RX4 Wag,94
+Duster 360,121
+Porsche 914-2,86
+Merc 230,135
+Merc 230,108
+Fiat X1-9,131
+Hornet 4 Drive,132
+Merc 280,138
+Porsche 914-2,97
+Merc 280,151
+Valiant,106
+Duster 360,112
+Merc 240D,141
+Maserati Bora,123
+Lotus Europa,105
+Toyota Corona,82
+Pontiac Firebird,113
+Toyota Corona,101
+Chrysler Imperial,140
+Toyota Corolla,101
+Honda Civic,135
+Maserati Bora,129
+Porsche 914-2,109
+Hornet Sportabout,130
+AMC Javelin,152
+Fiat 128,110
+Toyota Corona,96
+Merc 450SLC,115
+Merc 280C,140
+Volvo 142E,85
+Hornet Sportabout,141
+Merc 450SLC,120
+Cadillac Fleetwood,116
+Datsun 710,136
+Merc 280,113
+Ferrari Dino,123
+Volvo 142E,97
+Merc 240D,149
+Merc 450SLC,121
+Volvo 142E,104
+Ford Pantera L,89
+Mazda RX4 Wag,107
+Merc 450SLC,111
+Hornet 4 Drive,122
+Fiat X1-9,122
+Merc 450SL,97
+Valiant,105
+Fiat X1-9,125
+Mazda RX4 Wag,89
+Duster 360,151
+Camaro Z28,128
+Toyota Corona,87
+Ford Pantera L,99
+Dodge Challenger,109
+Merc 450SE,136
+Volvo 142E,101
+Ford Pantera L,99
+Datsun 710,141
+Camaro Z28,147
+Merc 450SLC,123
+Merc 450SE,149
+Porsche 914-2,104
+Toyota Corolla,101
+Lotus Europa,96
+Dodge Challenger,105
+Maserati Bora,118
+Toyota Corona,100
+Valiant,109
+AMC Javelin,140
+Mazda RX4 Wag,110
+Fiat X1-9,120
+Hornet Sportabout,127
+Honda Civic,147
+Merc 450SE,149
+Fiat X1-9,98
+Hornet Sportabout,137
+Chrysler Imperial,132
+Pontiac Firebird,126
+Dodge Challenger,115
+Datsun 710,118
+Ford Pantera L,114
+Honda Civic,134
+Merc 450SL,99
+Fiat X1-9,130
+Merc 450SE,140
+Maserati Bora,129
+Merc 280,114
+Merc 280,135
+Merc 280C,143
+Honda Civic,127
+Merc 280C,154
+Valiant,92
+AMC Javelin,147
+Hornet 4 Drive,146
+Merc 450SL,99
+Lotus Europa,100
+Hornet Sportabout,148
+Hornet Sportabout,133
+Cadillac Fleetwood,122
+Honda Civic,130
+Fiat X1-9,95
+Duster 360,128
+Fiat 128,94
+Pontiac Firebird,113
+Cadillac Fleetwood,127
+Merc 280,144
+Maserati Bora,136
+Fiat 128,122
+Merc 280,123
+Honda Civic,135
+Merc 280,145
+Hornet 4 Drive,128
+Camaro Z28,126
+Merc 230,122
+AMC Javelin,129
+Merc 280,155
+Merc 240D,124
+Cadillac Fleetwood,135
+Ford Pantera L,80
+Lotus Europa,84
+Ford Pantera L,104
+Toyota Corolla,83
+Honda Civic,147
+Lincoln Continental,144
+Honda Civic,146
+Pontiac Firebird,129
+Toyota Corona,111
+Honda Civic,130
+Fiat 128,84
+Ferrari Dino,133
+Pontiac Firebird,135
+Cadillac Fleetwood,133
+Toyota Corolla,83
+Toyota Corona,91
+Fiat X1-9,120
+Merc 450SE,163
+Volvo 142E,87
+Valiant,93
+Maserati Bora,123
+Hornet Sportabout,121
+Merc 280C,144
+Fiat X1-9,108
+Mazda RX4 Wag,90
+Valiant,98
+Hornet Sportabout,151
+Porsche 914-2,96
+Fiat X1-9,114
+Valiant,98
+AMC Javelin,144
+Chrysler Imperial,131
+Merc 240D,153
+Merc 450SE,143
+Pontiac Firebird,112
+Merc 230,135
+Merc 450SLC,106
+Volvo 142E,93
+Volvo 142E,101
+Cadillac Fleetwood,133
+Cadillac Fleetwood,138
+Chrysler Imperial,143
+Hornet Sportabout,135
+Porsche 914-2,107
+Cadillac Fleetwood,127
+Merc 280C,173
+Dodge Challenger,105
+Merc 450SE,127
+Maserati Bora,114
+Merc 450SLC,115
+Pontiac Firebird,127
+Merc 240D,114
+Porsche 914-2,98
+Camaro Z28,148
+Camaro Z28,132
+Toyota Corolla,93
+Volvo 142E,102
+Ford Pantera L,87
+Fiat X1-9,104
+Maserati Bora,121
+Porsche 914-2,105
+Ferrari Dino,131
+Duster 360,129
+Duster 360,141
+Merc 230,118
+Porsche 914-2,103
+Camaro Z28,143
+Lotus Europa,102
+Merc 240D,118
+Mazda RX4 Wag,98
+Toyota Corolla,107
+Lincoln Continental,145
+Honda Civic,138
+Merc 230,118
+Toyota Corona,100
+Merc 230,137
+Datsun 710,136
+Valiant,94
+Valiant,110
+Merc 230,103
+Lotus Europa,89
+Ford Pantera L,71
+Merc 280C,151
+Pontiac Firebird,124
+Merc 240D,142
+Merc 280,143
+Maserati Bora,125
+Merc 280C,133
+Merc 280,139
+Camaro Z28,164
+Merc 280C,130
+Dodge Challenger,118
+Hornet 4 Drive,140
+Maserati Bora,129
+Porsche 914-2,99
+Hornet 4 Drive,122
+Hornet Sportabout,146
+Dodge Challenger,103
+Fiat 128,101
+Valiant,98
+Datsun 710,128
+Dodge Challenger,104
+Camaro Z28,165
+Lotus Europa,101
+Mazda RX4 Wag,112
+Toyota Corolla,108
+Merc 450SE,140
+Camaro Z28,152
+Merc 450SE,134
+Hornet Sportabout,158
+Fiat 128,91
+Camaro Z28,136
+Merc 450SLC,134
+Merc 450SL,116
+Cadillac Fleetwood,130
+Merc 450SLC,130
+Cadillac Fleetwood,147
+Lincoln Continental,148
+Ferrari Dino,135
+Honda Civic,138
+Duster 360,143
+Toyota Corona,87
+Mazda RX4 Wag,82
+Mazda RX4 Wag,106
+Chrysler Imperial,135
+AMC Javelin,144
+Volvo 142E,99
+Toyota Corona,96
+Toyota Corona,91
+Pontiac Firebird,114
+AMC Javelin,139
+Camaro Z28,166
+Hornet Sportabout,150
+Mazda RX4 Wag,102
+AMC Javelin,147
+Merc 450SE,144
+Toyota Corona,91
+Fiat X1-9,113
+Datsun 710,127
+Merc 280,124
+Merc 230,128
+Merc 450SE,158
+Camaro Z28,144
+Maserati Bora,120
+Fiat 128,96
+Valiant,95
+Mazda RX4 Wag,101
+Volvo 142E,93
+Volvo 142E,121
+Lincoln Continental,153
+Lotus Europa,101
+Pontiac Firebird,109
+Duster 360,126
+Camaro Z28,132
+Hornet 4 Drive,130
+Hornet 4 Drive,130
+Hornet Sportabout,139
+Lincoln Continental,130
+Valiant,109
+Merc 230,133
+Merc 450SL,98
+Hornet 4 Drive,125
+Merc 240D,141
+Honda Civic,153
+Merc 450SLC,90
+Honda Civic,146
+Hornet Sportabout,136
+Mazda RX4 Wag,96
+Toyota Corolla,102
+Pontiac Firebird,119
+Hornet Sportabout,155
+Fiat X1-9,99
+Duster 360,145
+Datsun 710,132
+AMC Javelin,158
+Pontiac Firebird,119
+Ferrari Dino,126
+Toyota Corolla,104
+Merc 280C,134
+Dodge Challenger,105
+Valiant,107
+Merc 280,126
+Merc 240D,118
+Duster 360,138
+AMC Javelin,136
+Volvo 142E,92
+Datsun 710,125
+Toyota Corona,84
+Merc 240D,139
+Merc 450SLC,125
+Pontiac Firebird,112
+Cadillac Fleetwood,129
+Hornet 4 Drive,122
+Volvo 142E,78
+Honda Civic,117
+Maserati Bora,122
+AMC Javelin,142
+Honda Civic,123
+Volvo 142E,95
+Honda Civic,144
+Merc 230,137
+Pontiac Firebird,132
+Merc 450SE,143
+Toyota Corona,103
+Lotus Europa,103
+Volvo 142E,93
+Merc 450SE,146
+Merc 280,141
+Lotus Europa,104
+Toyota Corona,109
+Merc 450SE,136
+Merc 280C,146
+Lincoln Continental,140
+Ferrari Dino,123
+Volvo 142E,94
+Merc 450SL,95
+Hornet Sportabout,149
+Mazda RX4 Wag,102
+Merc 450SLC,134
+Merc 240D,141
+Merc 450SE,153
+Merc 450SLC,108
+Maserati Bora,111
+Camaro Z28,163
+Mazda RX4 Wag,112
+Porsche 914-2,108
+Volvo 142E,114
+Duster 360,142
+Merc 230,125
+Porsche 914-2,99
+Volvo 142E,97
+Fiat X1-9,112
+Ferrari Dino,130
+Hornet 4 Drive,136
+AMC Javelin,154
+Ferrari Dino,134
+Merc 450SLC,107
+Pontiac Firebird,111
+Merc 280C,140
+Maserati Bora,124
+Pontiac Firebird,124
+Cadillac Fleetwood,119
+Fiat X1-9,125
+Mazda RX4 Wag,93
+Camaro Z28,134
+Valiant,116
+AMC Javelin,154
+Datsun 710,139
+Hornet Sportabout,143
+Fiat X1-9,79
+Merc 450SL,100
+Lotus Europa,117
+Merc 450SE,156
+Fiat 128,94
+Volvo 142E,101
+Valiant,95
+Valiant,97
+Merc 450SL,90
+Hornet 4 Drive,135
+Merc 280C,157
+Hornet 4 Drive,123
+Pontiac Firebird,120
+Datsun 710,120
+Duster 360,131
+Mazda RX4 Wag,107
+Duster 360,121
+Merc 280,151
+Lincoln Continental,161
+Valiant,101
+Merc 280,135
+Merc 280,127
+Merc 450SL,105
+Pontiac Firebird,111
+Ford Pantera L,106
+Ferrari Dino,125
+Datsun 710,143
+Merc 450SE,149
+Mazda RX4 Wag,116
+Duster 360,142
+Honda Civic,138
+Toyota Corona,118
+Hornet Sportabout,120
+Pontiac Firebird,118
+Cadillac Fleetwood,137
+Honda Civic,141
+AMC Javelin,142
+Merc 450SLC,101
+Honda Civic,141
+Merc 230,133
+Cadillac Fleetwood,141
+Ferrari Dino,122
+Merc 450SLC,108
+Volvo 142E,73
+Hornet Sportabout,129
+Fiat 128,98
+Merc 280,152
+Ferrari Dino,146
+AMC Javelin,146
+Lotus Europa,97
+Valiant,110
+Pontiac Firebird,115
+Merc 280,141
+Chrysler Imperial,141
+Merc 230,105
+Volvo 142E,108
+Valiant,116
+Merc 280,142
+Merc 450SL,102
+Merc 240D,131
+Chrysler Imperial,140
+Merc 280,142
+Hornet Sportabout,140
+Camaro Z28,128
+Fiat 128,118
+Pontiac Firebird,120
+Fiat X1-9,112
+AMC Javelin,166
+Camaro Z28,131
+Porsche 914-2,122
+Honda Civic,120
+Merc 450SLC,92
+Porsche 914-2,104
+Chrysler Imperial,135
+Duster 360,130
+Pontiac Firebird,115
+Merc 280,153
+Merc 450SE,146
+Chrysler Imperial,141
+Ford Pantera L,81
+Merc 450SL,91
+Merc 280,137
+Camaro Z28,153
+Valiant,86
+Merc 450SE,160
+Ford Pantera L,107
+Ford Pantera L,116
+Hornet 4 Drive,112
+Toyota Corona,108
+Merc 280,133
+Fiat X1-9,101
+Merc 450SLC,105
+Mazda RX4 Wag,109
+Merc 450SE,148
+Fiat 128,91
+Mazda RX4 Wag,94
+Duster 360,156
+Merc 240D,150
+Porsche 914-2,105
+Toyota Corolla,101
+Merc 230,115
+Honda Civic,137
+Porsche 914-2,91
+Cadillac Fleetwood,145
+Volvo 142E,98
+Lincoln Continental,143
+Dodge Challenger,88
+Merc 450SLC,110
+Fiat 128,97
+Duster 360,143
+Merc 240D,144
+Merc 240D,141
+Merc 450SLC,122
+Volvo 142E,99
+Honda Civic,130
+Lotus Europa,107
+Ferrari Dino,136
+Merc 450SL,86
+AMC Javelin,145
+Merc 240D,130
+Camaro Z28,129
+Chrysler Imperial,137
+Valiant,98
+Valiant,94
+Maserati Bora,127
+Datsun 710,132
+Cadillac Fleetwood,124
+Duster 360,123
+Mazda RX4 Wag,108
+Valiant,89
+Camaro Z28,149
+AMC Javelin,148
+Pontiac Firebird,111
+Hornet 4 Drive,134
+Merc 450SE,154
+Merc 230,121
+Valiant,105
+Pontiac Firebird,115
+Merc 280,136
+Lotus Europa,111
+Valiant,97
+Toyota Corona,98
+Merc 280,139
+Pontiac Firebird,116
+Merc 450SE,160
+Datsun 710,129
+Merc 240D,135
+Merc 280C,147
+Merc 240D,140
+Porsche 914-2,105
+Merc 230,131
+Honda Civic,151
+Lotus Europa,95
+Fiat X1-9,122
+Toyota Corona,88
+Hornet Sportabout,141
+Pontiac Firebird,131
+Lincoln Continental,143
+Dodge Challenger,100
+Fiat 128,105
+Merc 450SLC,126
+Fiat X1-9,95
+Camaro Z28,134
+Datsun 710,128
+Merc 280C,136
+AMC Javelin,154
+Mazda RX4 Wag,109
+Toyota Corona,94
+Valiant,98
+Chrysler Imperial,134
+Merc 450SLC,116
+Valiant,113
+Porsche 914-2,91
+Lincoln Continental,129
+Datsun 710,132
+Merc 450SE,115
+Pontiac Firebird,133
+Cadillac Fleetwood,131
+AMC Javelin,166
+Lincoln Continental,138
+Duster 360,134
+Merc 450SLC,124
+Merc 280C,146
+Honda Civic,132
+Merc 280C,160
+Camaro Z28,149
+Toyota Corolla,101
+AMC Javelin,153
+Dodge Challenger,94
+AMC Javelin,148
+Merc 450SE,144
+Honda Civic,129
+Merc 450SLC,111
+Porsche 914-2,105
+Cadillac Fleetwood,130
+Duster 360,147
+Duster 360,149
+Hornet Sportabout,142
+Merc 280,137
+Duster 360,137
+Honda Civic,126
+Maserati Bora,118
+Honda Civic,126
+Datsun 710,148
+Mazda RX4 Wag,105
+Hornet Sportabout,130
+Merc 450SE,144
+Ferrari Dino,134
+Hornet Sportabout,146
+Pontiac Firebird,125
+Merc 280,127
+Camaro Z28,139
+Maserati Bora,116
+Porsche 914-2,118
+Lotus Europa,95
+Pontiac Firebird,115
+Lotus Europa,94
+Valiant,110
+Maserati Bora,133
+Merc 450SLC,126
+Dodge Challenger,114
+Fiat X1-9,103
+Duster 360,135
+Toyota Corona,100
+Merc 280,125
+Ferrari Dino,135
+Merc 240D,136
+Merc 280,128
+Datsun 710,140
+AMC Javelin,146
+Lincoln Continental,134
+Merc 450SLC,127
+Datsun 710,131
+Mazda RX4 Wag,105
+Merc 240D,120
+Duster 360,125
+Dodge Challenger,93
+Camaro Z28,147
+Ferrari Dino,133
+Hornet 4 Drive,127
+Hornet 4 Drive,135
+Merc 450SE,132
+Cadillac Fleetwood,127
+Hornet Sportabout,116
+Merc 280C,144
+Fiat 128,86
+Datsun 710,138
+Valiant,104
+Lotus Europa,98
+Merc 280,152
+Merc 450SL,114
+Merc 450SLC,110
+Toyota Corolla,93
+Merc 280,141
+Hornet Sportabout,146
+Fiat X1-9,115
+Mazda RX4 Wag,110
+Merc 450SLC,120
+Ferrari Dino,129
+Merc 230,131
+Merc 450SL,92
+Cadillac Fleetwood,145
+Duster 360,145
+Ferrari Dino,127
+Porsche 914-2,99
+Dodge Challenger,102
+Valiant,77
+Maserati Bora,132
+Ford Pantera L,89
+Merc 450SL,99
+Maserati Bora,106
+Porsche 914-2,124
+AMC Javelin,140
+Pontiac Firebird,115
+Merc 450SLC,130
+Valiant,91
+Volvo 142E,96
+Porsche 914-2,114
+Hornet Sportabout,110
+Merc 280C,156
+Toyota Corona,85
+Honda Civic,130
+Merc 230,126
+Valiant,95
+Valiant,74
+Porsche 914-2,102
+Merc 230,137
+Datsun 710,125
+Valiant,114
+Volvo 142E,83
+Pontiac Firebird,110
+Valiant,82
+Merc 450SLC,130
+Honda Civic,153
+AMC Javelin,147
+Merc 450SE,144
+Valiant,107
+Merc 450SL,86
+Hornet Sportabout,139
+Merc 450SLC,119
+Merc 450SLC,113
+Datsun 710,120
+Maserati Bora,125
+Valiant,89
+Valiant,99
+Merc 450SL,90
+Lincoln Continental,148
+Merc 450SLC,120
+Dodge Challenger,103
+Ferrari Dino,139
+Toyota Corona,105
+Hornet 4 Drive,131
+Mazda RX4 Wag,89
+AMC Javelin,138
+Pontiac Firebird,122
+Hornet Sportabout,140
+Merc 280,133
+Merc 450SE,128
+Merc 450SLC,121
+Pontiac Firebird,117
+Pontiac Firebird,107
+Duster 360,128
+Honda Civic,110
+Cadillac Fleetwood,144
+Ford Pantera L,93
+Hornet Sportabout,128
+Fiat 128,93
+Duster 360,128
+Lotus Europa,88
+Maserati Bora,119
+Merc 450SLC,121
+Merc 450SLC,110
+Volvo 142E,96
+Ford Pantera L,99
+Chrysler Imperial,149
+Mazda RX4 Wag,118
+Hornet Sportabout,143
+Valiant,100
+Chrysler Imperial,125
+Ford Pantera L,94
+Fiat 128,89
+Toyota Corona,86
+Mazda RX4 Wag,109
+Duster 360,138
+Honda Civic,135
+Duster 360,134
+Honda Civic,142
+Porsche 914-2,105
+Duster 360,130
+Mazda RX4 Wag,98
+Duster 360,144
+Merc 450SLC,113
+Mazda RX4 Wag,100
+Merc 450SL,99
+Valiant,89
+Hornet Sportabout,135
+Volvo 142E,91
+Ferrari Dino,151
+Merc 280,132
+Camaro Z28,138
+Honda Civic,141
+Toyota Corona,89
+Dodge Challenger,102
+Honda Civic,143
+Hornet 4 Drive,136
+Merc 450SLC,114
+Valiant,103
+Valiant,120
+Maserati Bora,120
+Merc 280C,127
+Valiant,106
+Lotus Europa,87
+Dodge Challenger,99
+Volvo 142E,92
+AMC Javelin,138
+Merc 230,99
+Merc 450SLC,128
+Ford Pantera L,114
+Duster 360,128
+Merc 230,120
+Datsun 710,145
+Ferrari Dino,122
+Merc 450SLC,117
+Valiant,101
+Chrysler Imperial,149
+Ferrari Dino,156
+Lotus Europa,100
+Datsun 710,118
+Mazda RX4 Wag,102
+Camaro Z28,147
+Merc 450SE,136
+Merc 450SE,146
+AMC Javelin,156
+Pontiac Firebird,109
+Toyota Corona,89
+Merc 450SLC,97
+Fiat X1-9,111
+Mazda RX4 Wag,98
+Duster 360,136
+AMC Javelin,133
+Dodge Challenger,103
+Volvo 142E,125
+Porsche 914-2,101
+Merc 280C,137
+Toyota Corona,85
+Mazda RX4 Wag,87
+Merc 230,98
+Volvo 142E,73
+Merc 450SL,87
+Merc 450SE,154
+Merc 230,120
+Merc 450SE,155
+Maserati Bora,121
+Lincoln Continental,164
+Merc 230,115
+Toyota Corolla,113
+Volvo 142E,105
+Merc 450SLC,117
+Toyota Corolla,110
+Cadillac Fleetwood,131
+Porsche 914-2,90
+Fiat X1-9,110
+Merc 240D,132
+Volvo 142E,108
+Fiat X1-9,96
+Merc 450SE,143
+Hornet 4 Drive,119
+Ferrari Dino,157
+Merc 450SE,164
+Volvo 142E,84
+Honda Civic,139
+AMC Javelin,163
+Merc 450SLC,116
+Pontiac Firebird,111
+Maserati Bora,131
+Merc 280,143
+Mazda RX4 Wag,101
+Honda Civic,145
+Toyota Corona,96
+Duster 360,150
+Dodge Challenger,98
+Pontiac Firebird,101
+Fiat X1-9,110
+Hornet Sportabout,148
+Merc 240D,151
+Hornet Sportabout,122
+Merc 280,152
+Camaro Z28,140
+Merc 450SE,153
+Pontiac Firebird,107
+Hornet 4 Drive,137
+Duster 360,128
+Duster 360,122
+Maserati Bora,139
+Toyota Corona,89
+Pontiac Firebird,119
+Merc 450SLC,123
+Valiant,100
+Hornet 4 Drive,140
+Duster 360,124
+Merc 450SLC,124
+Hornet Sportabout,139
+Lotus Europa,104
+Ford Pantera L,84
+Ferrari Dino,148
+Merc 450SE,143
+Dodge Challenger,98
+Hornet Sportabout,141
+AMC Javelin,165
+Dodge Challenger,113
+Toyota Corona,90
+Mazda RX4 Wag,120
+Merc 280C,137
+Fiat X1-9,127
+Duster 360,121
+Hornet Sportabout,144
+Merc 450SL,95
+Hornet 4 Drive,136
+Hornet Sportabout,122
+Hornet Sportabout,146
+Porsche 914-2,119
+Lotus Europa,104
+Datsun 710,145
+Volvo 142E,90
+Duster 360,146
+Hornet 4 Drive,133
+Mazda RX4 Wag,108
+Lotus Europa,91
+Volvo 142E,75
+Cadillac Fleetwood,135
+Lotus Europa,110
+Duster 360,125
+Merc 450SE,165
+Merc 240D,151
+Toyota Corona,89
+Merc 230,137
+Toyota Corolla,100
+Toyota Corolla,109
+AMC Javelin,135
+Ford Pantera L,87
+Duster 360,138
+Ford Pantera L,109
+Porsche 914-2,120
+Merc 280C,134
+Merc 240D,144
+Datsun 710,155
+Chrysler Imperial,121
+Porsche 914-2,85
+Hornet 4 Drive,139
+Camaro Z28,151
+Fiat 128,90
+Maserati Bora,118
+Merc 280C,142
+AMC Javelin,153
+Toyota Corona,103
+Merc 450SLC,124
+Valiant,94
+Merc 230,108
+AMC Javelin,126
+Camaro Z28,139
+Fiat X1-9,95
+Hornet Sportabout,137
+Hornet Sportabout,137
+Merc 280C,159
+Ford Pantera L,71
+Lotus Europa,87
+Porsche 914-2,94
+Toyota Corona,96
+Hornet Sportabout,154
+Datsun 710,131
+Dodge Challenger,110
+Hornet 4 Drive,132
+Porsche 914-2,103
+Hornet Sportabout,142
+Duster 360,142
+Dodge Challenger,96
+Merc 450SLC,97
+Hornet Sportabout,127
+Datsun 710,152
+Merc 240D,138
+Camaro Z28,119
+Valiant,100
+Porsche 914-2,86
+Ferrari Dino,117
+Fiat 128,88
+Fiat 128,120
+AMC Javelin,149
+Lincoln Continental,136
+Merc 280,161
+Merc 280C,128
+Ferrari Dino,121
+Merc 280C,150
+Toyota Corona,102
+Merc 280,166
+Camaro Z28,142
+Merc 240D,127
+Merc 450SLC,96
+Valiant,86
+Merc 450SLC,138
+Duster 360,133
+Volvo 142E,111
+Merc 450SL,103
+Dodge Challenger,103
+Ford Pantera L,93
+Mazda RX4 Wag,105
+Ferrari Dino,143
+Lotus Europa,102
+Volvo 142E,99
+Merc 240D,126
+Dodge Challenger,116
+Porsche 914-2,99
+Toyota Corona,98
+Hornet Sportabout,126
+Duster 360,125
+Valiant,94
+Volvo 142E,83
+Fiat X1-9,93
+Datsun 710,144
+Merc 240D,137
+Mazda RX4 Wag,108
+Toyota Corona,86
+Valiant,110
+Merc 280C,155
+Hornet Sportabout,146
+Volvo 142E,96
+Toyota Corona,98
+Merc 450SL,96
+Hornet Sportabout,137
+Merc 280C,152
+Merc 280,154
+Mazda RX4 Wag,111
+AMC Javelin,137
+Merc 450SE,135
+Hornet Sportabout,153
+Hornet Sportabout,145
+Toyota Corolla,108
+Merc 450SLC,110
+Duster 360,131
+Ferrari Dino,105
+Dodge Challenger,117
+Mazda RX4 Wag,97
+Duster 360,139
+Honda Civic,129
+Duster 360,127
+Dodge Challenger,129
+Honda Civic,137
+Ferrari Dino,153
+Mazda RX4 Wag,96
+AMC Javelin,156
+AMC Javelin,144
+Lotus Europa,124
+Merc 230,139
+Ferrari Dino,125
+Honda Civic,125
+AMC Javelin,169
+Merc 450SE,161
+Merc 450SE,134
+Camaro Z28,148
+Merc 230,124
+Pontiac Firebird,129
+Hornet Sportabout,149
+Duster 360,126
+Lotus Europa,105
+Maserati Bora,120
+Hornet Sportabout,128
+Fiat X1-9,118
+Merc 280C,153
+Merc 280C,153
+Merc 280,142
+Ford Pantera L,88
+Honda Civic,115
+AMC Javelin,159
+Camaro Z28,136
+Porsche 914-2,105
+Hornet Sportabout,141
+Hornet 4 Drive,137
+Merc 450SL,95
+Porsche 914-2,100
+Lotus Europa,116
+Camaro Z28,132
+Ferrari Dino,172
+Datsun 710,124
+Ferrari Dino,153
+Ferrari Dino,134
+Toyota Corona,96
+Pontiac Firebird,108
+Hornet 4 Drive,140
+Mazda RX4 Wag,104
+Datsun 710,136
+Merc 230,132
+Pontiac Firebird,112
+Duster 360,119
+Dodge Challenger,101
+Duster 360,139
+Valiant,79
+Maserati Bora,128
+Merc 240D,133
+Porsche 914-2,98
+Cadillac Fleetwood,119
+Duster 360,127
+Porsche 914-2,117
+Camaro Z28,147
+Merc 230,127
+Merc 230,117
+Lotus Europa,117
+Porsche 914-2,102
+Merc 230,149
+Pontiac Firebird,125
+Merc 450SLC,105
+Cadillac Fleetwood,128
+Merc 450SL,93
+Merc 450SLC,119
+Merc 280C,162
+Lotus Europa,87
+Chrysler Imperial,132
+Merc 280,143
+Cadillac Fleetwood,139
+Cadillac Fleetwood,119
+Merc 230,120
+Volvo 142E,113
+Datsun 710,132
+Valiant,100
+Merc 230,126
+Duster 360,147
+Camaro Z28,154
+Pontiac Firebird,126
+Fiat X1-9,113
+Ford Pantera L,84
+Merc 450SLC,126
+Fiat 128,103
+Merc 450SL,99
+Ford Pantera L,83
+Merc 450SE,153
+Merc 280,132
+Fiat X1-9,101
+Dodge Challenger,90
+Honda Civic,121
+Merc 280C,159
+Merc 230,126
+Toyota Corona,112
+Volvo 142E,102
+Merc 450SE,146
+Camaro Z28,148
+Fiat X1-9,123
+Merc 230,115
+Maserati Bora,121
+Merc 450SE,147
+Volvo 142E,94
+Lincoln Continental,141
+Merc 450SLC,130
+Datsun 710,135
+Merc 450SE,146
+Ferrari Dino,121
+Hornet 4 Drive,137
+Lotus Europa,108
+Merc 450SL,88
+Volvo 142E,107
+Merc 280C,159
+Toyota Corolla,103
+Dodge Challenger,107
+Toyota Corona,83
+Mazda RX4 Wag,100
+Pontiac Firebird,101
+Merc 450SE,150
+Porsche 914-2,115
+Fiat 128,97
+Pontiac Firebird,107
+Merc 280C,130
+Cadillac Fleetwood,144
+Ferrari Dino,131
+Pontiac Firebird,124
+Mazda RX4 Wag,96
+Lincoln Continental,138
+Duster 360,130
+Camaro Z28,154
+Merc 230,119
+Valiant,77
+Fiat X1-9,134
+Hornet Sportabout,137
+Hornet Sportabout,135
+Hornet Sportabout,125
+Datsun 710,129
+Merc 240D,141
+Lincoln Continental,141
+Cadillac Fleetwood,130
+Fiat X1-9,101
+Valiant,82
+Ford Pantera L,79
+Valiant,104
+Ford Pantera L,109
+Merc 230,114
+Datsun 710,123
+Duster 360,143
+Hornet 4 Drive,140
+Datsun 710,138
+Lotus Europa,92
+Duster 360,130
+Merc 280,132
+Pontiac Firebird,126
+Hornet 4 Drive,121
+Toyota Corona,108
+Merc 280,140
+Mazda RX4 Wag,126
+Mazda RX4 Wag,103
+Mazda RX4 Wag,104
+Cadillac Fleetwood,149
+Hornet 4 Drive,126
+Camaro Z28,154
+Merc 230,120
+Merc 450SE,143
+Merc 280,150
+Pontiac Firebird,131
+Volvo 142E,89
+Datsun 710,136
+Valiant,89
+Hornet Sportabout,152
+Merc 240D,136
+Fiat 128,107
+Toyota Corona,101
+Fiat X1-9,114
+Lotus Europa,117
+Merc 450SLC,113
+Mazda RX4 Wag,107
+Hornet Sportabout,138
+Fiat 128,99
+Valiant,95
+Merc 240D,134
+Merc 280,151
+Dodge Challenger,112
+Toyota Corona,89
+Merc 450SL,87
+Camaro Z28,126
+Mazda RX4 Wag,105
+Merc 450SL,102
+Merc 280,137
+Volvo 142E,91
+Pontiac Firebird,104
+Fiat X1-9,128
+AMC Javelin,151
+Camaro Z28,147
+Merc 280,147
+Datsun 710,146
+Lotus Europa,85
+Maserati Bora,114
+Merc 450SE,138
+Toyota Corona,110
+Merc 280,162
+Merc 280,131
+Merc 450SL,89
+Cadillac Fleetwood,154
+Hornet 4 Drive,125
+Merc 450SLC,123
+Volvo 142E,93
+Lotus Europa,102
+Ford Pantera L,97
+Duster 360,135
+Merc 230,105
+Merc 230,103
+Volvo 142E,87
+Honda Civic,139
+Datsun 710,140
+Datsun 710,124
+Ferrari Dino,135
+Merc 450SL,104
+Porsche 914-2,107
+Volvo 142E,85
+Pontiac Firebird,139
+Merc 450SL,88
+Hornet 4 Drive,151
+Merc 240D,148
+Fiat X1-9,116
+Duster 360,147
+Duster 360,129
+Volvo 142E,116
+Lotus Europa,106
+Hornet Sportabout,132
+Volvo 142E,103
+Valiant,99
+Merc 240D,146
+Fiat X1-9,114
+Fiat X1-9,92
+Cadillac Fleetwood,146
+Pontiac Firebird,112
+Merc 450SE,152
+Hornet 4 Drive,117
+Datsun 710,148
+Camaro Z28,138
+Maserati Bora,132
+Camaro Z28,152
+Honda Civic,161
+Merc 240D,134
+Merc 450SLC,102
+Datsun 710,127
+Fiat X1-9,95
+Merc 450SLC,143
+Camaro Z28,136
+Honda Civic,133
+Duster 360,145
+Merc 450SE,138
+Fiat X1-9,98
+Pontiac Firebird,132
+Fiat X1-9,109
+Camaro Z28,137
+Hornet 4 Drive,130
+Merc 230,116
+Merc 450SLC,97
+Merc 280,134
+Dodge Challenger,118
+Merc 450SLC,118
+Hornet 4 Drive,150
+Merc 240D,127
+Lotus Europa,104
+Fiat X1-9,96
+Lotus Europa,109
+Lincoln Continental,160
+Hornet Sportabout,139
+Camaro Z28,166
+Merc 230,128
+Merc 280,133
+Dodge Challenger,97
+Merc 240D,149
+Hornet Sportabout,137
+Hornet Sportabout,129
+Mazda RX4 Wag,102
+Merc 450SL,88
+Hornet 4 Drive,134
+Porsche 914-2,106
+Valiant,94
+Merc 450SL,92
+Mazda RX4 Wag,98
+Merc 450SL,87
+Mazda RX4 Wag,121
+Toyota Corolla,111
+Camaro Z28,133
+Dodge Challenger,105
+Toyota Corolla,111
+Pontiac Firebird,125
+Fiat X1-9,111
+Pontiac Firebird,110
+Merc 450SLC,112
+Dodge Challenger,107
+Merc 450SLC,122
+Pontiac Firebird,109
+Honda Civic,149
+Merc 450SLC,104
+Merc 230,112
+Merc 280C,165
+Pontiac Firebird,118
+Hornet Sportabout,144
+Hornet 4 Drive,119
+Valiant,132
+Camaro Z28,157
+Lincoln Continental,141
+Merc 450SE,162
+Cadillac Fleetwood,132
+Volvo 142E,97
+Honda Civic,127
+Volvo 142E,96
+Honda Civic,137
+Maserati Bora,121
+Valiant,81
+Dodge Challenger,123
+Merc 230,139
+Valiant,95
+Fiat X1-9,93
+Datsun 710,134
+Merc 450SLC,109
+Ferrari Dino,152
+AMC Javelin,151
+Valiant,88
+Chrysler Imperial,135
+Lotus Europa,107
+Valiant,98
+Hornet 4 Drive,138
+Merc 450SLC,127
+Mazda RX4 Wag,89
+Merc 450SLC,127
+Ford Pantera L,87
+Lotus Europa,97
+Merc 450SLC,130
+Hornet Sportabout,137
+Dodge Challenger,99
+Hornet Sportabout,144
+Merc 280C,136
+Merc 450SE,129
+Fiat X1-9,95
+Merc 280,144
+Lotus Europa,115
+Pontiac Firebird,130
+Lotus Europa,103
+Lotus Europa,105
+Hornet Sportabout,137
+Lotus Europa,89
+Toyota Corona,101
+Honda Civic,135
+Lotus Europa,118
+Camaro Z28,139
+Honda Civic,125
+Merc 230,125
+Hornet 4 Drive,155
+Merc 230,114
+Ferrari Dino,138
+Dodge Challenger,95
+Duster 360,137
+Mazda RX4 Wag,106
+Duster 360,150
+Ferrari Dino,141
+Merc 230,131
+Maserati Bora,110
+Merc 450SL,84
+Merc 280C,141
+Pontiac Firebird,113
+Hornet Sportabout,136
+Duster 360,136
+Chrysler Imperial,138
+Ferrari Dino,135
+Merc 280C,149
+Dodge Challenger,122
+Hornet Sportabout,146
+Lincoln Continental,157
+Datsun 710,123
+Merc 230,115
+Maserati Bora,134
+Valiant,103
+Merc 450SE,152
+Lotus Europa,111
+Merc 230,117
+Hornet Sportabout,144
+Honda Civic,136
+Merc 230,126
+Volvo 142E,95
+Porsche 914-2,104
+Merc 280,129
+Honda Civic,128
+Porsche 914-2,100
+Merc 450SLC,113
+Camaro Z28,168
+Lotus Europa,100
+Honda Civic,131
+Volvo 142E,95
+Honda Civic,138
+Valiant,101
+Merc 240D,127
+Pontiac Firebird,127
+Merc 240D,136
+Pontiac Firebird,106
+Merc 450SL,105
+Merc 450SL,94
+Duster 360,149
+Merc 450SE,147
+Camaro Z28,147
+Volvo 142E,99
+Datsun 710,137
+Hornet 4 Drive,130
+Duster 360,116
+Datsun 710,122
+Porsche 914-2,109
+Dodge Challenger,84
+Lincoln Continental,140
+Honda Civic,130
+Merc 450SE,153
+Cadillac Fleetwood,125
+Fiat 128,97
+Cadillac Fleetwood,117
+Dodge Challenger,100
+Merc 450SE,141
+Honda Civic,112
+Ford Pantera L,88
+Ford Pantera L,88
+Honda Civic,143
+Pontiac Firebird,106
+Dodge Challenger,92
+Merc 280C,146
+Camaro Z28,150
+Honda Civic,140
+Hornet 4 Drive,137
+Merc 280C,153
+Hornet Sportabout,139
+Valiant,115
+Maserati Bora,131
+Fiat 128,107
+Ford Pantera L,104
+Camaro Z28,140
+Valiant,104
+Valiant,105
+Ferrari Dino,144
+Maserati Bora,131
+Cadillac Fleetwood,126
+Merc 230,121
+Hornet 4 Drive,143
+Dodge Challenger,126
+Merc 450SE,147
+Hornet 4 Drive,142
+Fiat 128,87
+Volvo 142E,108
+AMC Javelin,157
+Toyota Corona,99
+Merc 280C,138
+Dodge Challenger,87
+Toyota Corolla,100
+Hornet 4 Drive,128
+Merc 280,136
+Valiant,102
+Honda Civic,145
+Pontiac Firebird,126
+Valiant,98
+Merc 450SL,74
+Merc 280,156
+Pontiac Firebird,117
+Merc 280,149
+Hornet Sportabout,143
+Pontiac Firebird,122
+AMC Javelin,148
+Lotus Europa,90
+Dodge Challenger,84
+Mazda RX4 Wag,97
+Merc 280C,138
+Duster 360,141
+Merc 450SL,72
+Ford Pantera L,109
+Merc 240D,122
+Merc 230,120
+Lincoln Continental,142
+Merc 230,129
+Valiant,93
+Chrysler Imperial,121
+Chrysler Imperial,141
+Fiat X1-9,119
+Lincoln Continental,147
+Valiant,90
+Fiat 128,90
+Ferrari Dino,143
+Duster 360,136
+Camaro Z28,144
+Camaro Z28,146
+Merc 450SE,150
+Duster 360,129
+Mazda RX4 Wag,103
+Pontiac Firebird,109
+Dodge Challenger,108
+Lotus Europa,100
+Mazda RX4 Wag,106
+Merc 280,134
+Datsun 710,146
+AMC Javelin,136
+Ferrari Dino,138
+Lotus Europa,120
+Dodge Challenger,100
+Valiant,108
+Mazda RX4 Wag,109
+Duster 360,119
+Hornet Sportabout,136
+Ford Pantera L,107
+Hornet 4 Drive,124
+Mazda RX4 Wag,121
+Toyota Corona,94
+Lotus Europa,102
+Mazda RX4 Wag,100
+Hornet Sportabout,136
+Pontiac Firebird,116
+Merc 450SE,136
+Merc 230,137
+Ford Pantera L,87
+Dodge Challenger,108
+Merc 280C,143
+Pontiac Firebird,109
+Cadillac Fleetwood,138
+Dodge Challenger,100
+Merc 450SLC,111
+Merc 230,148
+Merc 280,159
+Maserati Bora,116
+Cadillac Fleetwood,131
+Toyota Corona,93
+Fiat 128,102
+Chrysler Imperial,133
+Ford Pantera L,86
+Merc 230,109
+Merc 230,117
+Chrysler Imperial,145
+Datsun 710,132
+Ferrari Dino,125
+AMC Javelin,135
+Datsun 710,122
+Camaro Z28,159
+Camaro Z28,163
+Ford Pantera L,78
+Hornet Sportabout,129
+Volvo 142E,94
+Pontiac Firebird,130
+Merc 450SE,144
+Dodge Challenger,101
+Honda Civic,140
+Hornet Sportabout,147
+Dodge Challenger,114
+Fiat X1-9,116
+Chrysler Imperial,147
+Volvo 142E,96
+Merc 230,133
+Maserati Bora,130
+Lincoln Continental,140
+Toyota Corona,91
+Merc 450SE,150
+Hornet Sportabout,133
+Camaro Z28,151
+Fiat X1-9,91
+Honda Civic,137
+Cadillac Fleetwood,145
+Duster 360,128
+Merc 240D,119
+Honda Civic,137
+Hornet Sportabout,136
+Lincoln Continental,126
+Ford Pantera L,99
+Hornet 4 Drive,116
+Mazda RX4 Wag,100
+Valiant,114
+Volvo 142E,99
+Fiat X1-9,112
+Lincoln Continental,146
+Fiat X1-9,129
+Hornet Sportabout,127
+Ford Pantera L,70
+Hornet 4 Drive,132
+Merc 230,126
+Lotus Europa,105
+Porsche 914-2,118
+Merc 450SE,146
+Valiant,99
+Volvo 142E,90
+AMC Javelin,164
+Duster 360,134
+Datsun 710,132
+Lincoln Continental,139
+Merc 280,149
+Merc 280C,132
+Maserati Bora,132
+Merc 450SE,137
+Merc 280C,139
+Camaro Z28,151
+Camaro Z28,145
+Volvo 142E,106
+Merc 230,126
+Cadillac Fleetwood,135
+Merc 240D,137
+Merc 280,151
+Ford Pantera L,91
+Fiat X1-9,116
+Mazda RX4 Wag,103
+AMC Javelin,130
+Merc 230,128
+Camaro Z28,162
+Lotus Europa,94
+Hornet 4 Drive,146
+Hornet 4 Drive,130
+Merc 230,124
+Mazda RX4 Wag,92
+Hornet 4 Drive,133
+Merc 240D,124
+Valiant,102
+Mazda RX4 Wag,105
+Valiant,112
+Merc 280,135
+Mazda RX4 Wag,105
+Volvo 142E,98
+Cadillac Fleetwood,117
+Hornet Sportabout,127
+Toyota Corona,91
+Merc 230,117
+Merc 280,144
+Hornet 4 Drive,126
+Hornet Sportabout,141
+Chrysler Imperial,134
+Merc 280,131
+Porsche 914-2,107
+Volvo 142E,88
+Ford Pantera L,98
+Toyota Corolla,107
+Datsun 710,139
+Merc 450SE,148
+Datsun 710,136
+Merc 230,122
+Cadillac Fleetwood,127
+Merc 450SE,144
+Ford Pantera L,100
+Merc 240D,126
+Valiant,103
+Merc 450SE,140
+Porsche 914-2,108
+Merc 450SLC,114
+Merc 280C,145
+Duster 360,149
+Ford Pantera L,82
+Toyota Corona,91
+Chrysler Imperial,131
+Toyota Corolla,114
+Volvo 142E,108
+Hornet Sportabout,144
+Datsun 710,142
+Cadillac Fleetwood,139
+Valiant,104
+Lincoln Continental,151
+Lincoln Continental,156
+Duster 360,103
+Chrysler Imperial,118
+Honda Civic,139
+Maserati Bora,127
+Lotus Europa,105
+Pontiac Firebird,115
+Ferrari Dino,152
+Ford Pantera L,97
+Merc 230,135
+AMC Javelin,151
+Toyota Corolla,110
+Lotus Europa,112
+Dodge Challenger,108
+Merc 450SLC,123
+Pontiac Firebird,96
+Porsche 914-2,119
+Merc 450SE,134
+Pontiac Firebird,137
+Merc 450SE,134
+Fiat 128,96
+Maserati Bora,110
+Camaro Z28,140
+Maserati Bora,145
+Dodge Challenger,122
+Volvo 142E,85
+Ferrari Dino,120
+Merc 280C,145
+Lotus Europa,110
+Honda Civic,123
+Duster 360,144
+Merc 450SL,98
+Merc 280,142
+Maserati Bora,120
+Ferrari Dino,141
+Datsun 710,132
+Merc 230,109
+Camaro Z28,146
+Merc 240D,141
+Merc 240D,121
+Merc 450SE,141
+Lincoln Continental,133
+Ford Pantera L,105
+Merc 280,160
+Maserati Bora,155
+Merc 450SE,151
+Porsche 914-2,102
+Valiant,90
+Merc 450SLC,118
+Cadillac Fleetwood,140
+Merc 230,126
+Mazda RX4 Wag,100
+Merc 450SLC,124
+AMC Javelin,158
+Hornet Sportabout,153
+Ford Pantera L,98
+Datsun 710,130
+Merc 280,160
+Pontiac Firebird,120
+Merc 240D,124
+Volvo 142E,87
+Ford Pantera L,98
+Chrysler Imperial,141
+Pontiac Firebird,103
+Pontiac Firebird,126
+Porsche 914-2,100
+Honda Civic,142
+Valiant,95
+Merc 450SL,107
+Porsche 914-2,115
+Merc 280,149
+Merc 450SE,158
+Toyota Corona,92
+Lotus Europa,98
+Honda Civic,130
+Duster 360,112
+AMC Javelin,144
+Merc 450SL,103
+Cadillac Fleetwood,141
+Merc 450SLC,127
+Camaro Z28,139
+Mazda RX4 Wag,92
+Merc 230,136
+Chrysler Imperial,121
+Camaro Z28,136
+Hornet Sportabout,143
+Lotus Europa,97
+Lincoln Continental,150
+AMC Javelin,149
+Porsche 914-2,116
+Valiant,108
+Porsche 914-2,119
+Duster 360,114
+Lincoln Continental,147
+Cadillac Fleetwood,132
+Porsche 914-2,115
+Merc 450SE,144
+Volvo 142E,91
+Hornet 4 Drive,129
+Merc 450SL,90
+Merc 280,136
+Duster 360,131
+Datsun 710,137
+Toyota Corona,98
+Lotus Europa,108
+Merc 450SE,145
+Cadillac Fleetwood,135
+Merc 450SLC,112
+Camaro Z28,130
+Hornet Sportabout,125
+Merc 450SE,151
+Fiat 128,92
+Porsche 914-2,106
+Volvo 142E,93
+Merc 450SE,140
+Merc 280C,134
+Hornet Sportabout,126
+Ferrari Dino,138
+Merc 280,138
+Merc 450SLC,107
+Merc 450SL,100
+Cadillac Fleetwood,138
+Porsche 914-2,105
+Cadillac Fleetwood,137
+Hornet Sportabout,149
+Porsche 914-2,110
+Valiant,97
+Merc 240D,144
+Merc 230,126
+Volvo 142E,110
+Merc 240D,138
+Pontiac Firebird,92
+Datsun 710,158
+Merc 280,137
+Hornet Sportabout,143
+Merc 240D,137
+Camaro Z28,144
+Merc 280,134
+Datsun 710,147
+Lotus Europa,92
+Volvo 142E,84
+Honda Civic,134
+Camaro Z28,155
+Pontiac Firebird,127
+Toyota Corona,115
+AMC Javelin,143
+Merc 280,148
+Volvo 142E,86
+Dodge Challenger,105
+Merc 280,143
+Merc 230,130
+Maserati Bora,117
+Volvo 142E,101
+Porsche 914-2,101
+Dodge Challenger,105
+Pontiac Firebird,118
+Camaro Z28,134
+Duster 360,115
+Cadillac Fleetwood,138
+Lincoln Continental,140
+Hornet 4 Drive,135
+Ford Pantera L,92
+Dodge Challenger,104
+Merc 280,132
+Volvo 142E,96
+Merc 280,140
+Maserati Bora,132
+Valiant,98
+Volvo 142E,94
+Merc 280,148
+Porsche 914-2,102
+Merc 450SE,140
+Volvo 142E,91
+AMC Javelin,154
+Hornet Sportabout,120
+Merc 240D,155
+Merc 280C,162
+Ferrari Dino,128
+Dodge Challenger,97
+Maserati Bora,135
+Merc 450SE,126
+Hornet 4 Drive,124
+Merc 450SE,134
+Merc 450SLC,112
+Pontiac Firebird,121
+Merc 450SE,135
+Merc 280C,151
+Duster 360,134
+Ferrari Dino,136
+Datsun 710,137
+Toyota Corona,77
+Toyota Corolla,117
+Mazda RX4 Wag,90
+Ford Pantera L,98
+Hornet 4 Drive,137
+Datsun 710,150
+Toyota Corona,88
+Camaro Z28,153
+Chrysler Imperial,133
+Dodge Challenger,118
+Toyota Corona,102
+Merc 280,151
+AMC Javelin,145
+Camaro Z28,132
+Duster 360,129
+Merc 450SE,128
+Duster 360,126
+Porsche 914-2,110
+Merc 450SE,150
+Fiat 128,94
+AMC Javelin,134
+Honda Civic,134
+Toyota Corona,87
+Lincoln Continental,155
+Duster 360,129
+Porsche 914-2,107
+Dodge Challenger,88
+Porsche 914-2,94
+Pontiac Firebird,138
+Merc 450SLC,119
+Honda Civic,146
+Merc 450SE,152
+Mazda RX4 Wag,120
+Merc 450SLC,120
+Fiat 128,109
+Merc 230,140
+Datsun 710,140
+Cadillac Fleetwood,137
+Fiat X1-9,112
+Pontiac Firebird,128
+Porsche 914-2,98
+Volvo 142E,95
+Fiat 128,106
+Fiat X1-9,122
+Toyota Corona,80
+Hornet Sportabout,139
+Cadillac Fleetwood,125
+Volvo 142E,88
+Merc 240D,147
+Merc 450SE,152
+Maserati Bora,120
+Toyota Corona,100
+Dodge Challenger,111
+Datsun 710,123
+Hornet Sportabout,151
+Lotus Europa,119
+Merc 450SLC,107
+Merc 450SLC,130
+Merc 450SE,152
+Fiat X1-9,115
+Lincoln Continental,133
+Dodge Challenger,101
+Merc 450SE,146
+Duster 360,132
+Merc 450SE,139
+Volvo 142E,101
+Fiat X1-9,101
+Merc 280,147
+Duster 360,141
+Merc 450SE,154
+Lincoln Continental,151
+Hornet Sportabout,128
+Mazda RX4 Wag,107
+Merc 230,124
+Camaro Z28,143
+Merc 280C,136
+Merc 280C,142
+Ferrari Dino,130
+Pontiac Firebird,100
+Fiat 128,83
+Pontiac Firebird,138
+Lotus Europa,88
+Lotus Europa,106
+Camaro Z28,149
+Valiant,113
+Valiant,111
+Lotus Europa,97
+Mazda RX4 Wag,102
+Hornet Sportabout,144
+Maserati Bora,140
+AMC Javelin,135
+Cadillac Fleetwood,155
+Porsche 914-2,98
+Merc 450SE,141
+Maserati Bora,121
+Fiat 128,98
+Ford Pantera L,105
+Hornet Sportabout,151
+Merc 230,143
+Fiat X1-9,112
+Ford Pantera L,93
+Merc 280C,134
+Ford Pantera L,93
+Volvo 142E,104
+Volvo 142E,97
+Merc 450SL,99
+Merc 230,119
+Volvo 142E,98
+Valiant,113
+Merc 230,136
+Dodge Challenger,121
+Merc 280C,135
+Mazda RX4 Wag,113
+Hornet 4 Drive,137
+Camaro Z28,150
+Chrysler Imperial,119
+Chrysler Imperial,125
+Duster 360,135
+Mazda RX4 Wag,96
+Porsche 914-2,97
+Fiat 128,101
+Lotus Europa,92
+Hornet 4 Drive,129
+Toyota Corona,96
+Merc 280,144
+Merc 240D,132
+Porsche 914-2,112
+Chrysler Imperial,136
+Merc 280C,133
+AMC Javelin,133
+Merc 280C,158
+Valiant,87
+Toyota Corona,88
+Merc 280C,140
+Merc 450SLC,101
+Camaro Z28,150
+Chrysler Imperial,120
+Merc 240D,146
+Duster 360,138
+Volvo 142E,89
+Fiat X1-9,100
+Toyota Corona,95
+Mazda RX4 Wag,105
+Mazda RX4 Wag,114
+Merc 280C,147
+Honda Civic,131
+Valiant,115
+Camaro Z28,153
+Fiat X1-9,127
+Volvo 142E,101
+Merc 280,156
+Camaro Z28,140
+Merc 280,149
+Merc 450SL,95
+Merc 280,147
+Toyota Corona,94
+Fiat X1-9,96
+Hornet Sportabout,144
+Porsche 914-2,85
+Merc 230,121
+Porsche 914-2,97
+Lincoln Continental,145
+Merc 280C,136
+Lotus Europa,112
+Camaro Z28,149
+Camaro Z28,134
+Ford Pantera L,91
+Hornet Sportabout,136
+Duster 360,144
+Ford Pantera L,89
+Merc 280C,138
+Merc 450SLC,99
+Duster 360,128
+Merc 280,151
+Merc 240D,133
+Valiant,95
+Valiant,114
+Hornet Sportabout,145
+Duster 360,106
+Maserati Bora,125
+Pontiac Firebird,114
+Datsun 710,148
+Volvo 142E,88
+Pontiac Firebird,123
+Merc 450SE,150
+AMC Javelin,132
+Volvo 142E,86
+Valiant,86
+Merc 280C,159
+Porsche 914-2,92
+Merc 280,132
+Duster 360,147
+Hornet Sportabout,149
+Fiat 128,97
+AMC Javelin,164
+Hornet Sportabout,125
+Dodge Challenger,121
+Volvo 142E,89
+Pontiac Firebird,118
+Dodge Challenger,128
+Toyota Corolla,93
+Ford Pantera L,91
+Merc 450SLC,129
+Ford Pantera L,100
+Merc 280,138
+Ferrari Dino,144
+Valiant,102
+Dodge Challenger,111
+Hornet 4 Drive,138
+Ford Pantera L,84
+Porsche 914-2,110
+Maserati Bora,139
+Duster 360,133
+Fiat 128,104
+Lincoln Continental,161
+Cadillac Fleetwood,142
+Merc 240D,141
+Hornet Sportabout,130
+Fiat X1-9,113
+Merc 450SLC,113
+Merc 280,125
+Camaro Z28,140
+Pontiac Firebird,131
+Toyota Corolla,99
+Merc 280C,115
+Honda Civic,142
+Mazda RX4 Wag,99
+Merc 280,131
+Dodge Challenger,79
+AMC Javelin,156
+Datsun 710,144
+Valiant,102
+Merc 240D,128
+Dodge Challenger,121
+Valiant,89
+Duster 360,129
+Maserati Bora,122
+Merc 450SLC,122
+Merc 240D,129
+Pontiac Firebird,132
+Merc 450SE,137
+Merc 450SLC,119
+Hornet Sportabout,130
+Merc 450SE,152
+Datsun 710,148
+Hornet 4 Drive,137
+Hornet 4 Drive,151
+Merc 280,124
+Pontiac Firebird,129
+Fiat X1-9,116
+Datsun 710,128
+Mazda RX4 Wag,100
+Merc 230,104
+Datsun 710,127
+Toyota Corona,89
+Merc 450SE,133
+Merc 280,129
+Lotus Europa,89
+Hornet 4 Drive,134
+Ferrari Dino,122
+Toyota Corona,89
+Lotus Europa,108
+AMC Javelin,151
+Camaro Z28,134
+Merc 450SL,98
+AMC Javelin,158
+Toyota Corona,86
+Mazda RX4 Wag,100
+Fiat X1-9,95
+Lincoln Continental,134
+Toyota Corolla,107
+Dodge Challenger,100
+Fiat X1-9,100
+Merc 240D,127
+Merc 450SLC,120
+Valiant,86
+Camaro Z28,137
+Duster 360,143
+Volvo 142E,100
+Ferrari Dino,136
+Toyota Corona,88
+AMC Javelin,148
+Merc 240D,134
+Merc 450SE,158
+AMC Javelin,147
+Merc 240D,121
+Mazda RX4 Wag,97
+Merc 450SE,144
+Ferrari Dino,131
+Merc 230,112
+Volvo 142E,119
+Merc 230,122
+Mazda RX4 Wag,100
+Pontiac Firebird,114
+Hornet 4 Drive,151
+Mazda RX4 Wag,104
+Dodge Challenger,105
+Porsche 914-2,106
+Valiant,101
+Ford Pantera L,122
+Honda Civic,150
+Porsche 914-2,104
+Merc 280,140
+Chrysler Imperial,124
+Pontiac Firebird,105
+Pontiac Firebird,125
+Duster 360,139
+Datsun 710,145
+Merc 240D,150
+Fiat 128,75
+Camaro Z28,117
+Toyota Corolla,96
+Honda Civic,134
+Fiat X1-9,106
+Merc 230,114
+Fiat 128,106
+Datsun 710,126
+Merc 280C,156
+Pontiac Firebird,100
+Duster 360,127
+Merc 240D,145
+Merc 280,156
+Fiat X1-9,105
+AMC Javelin,160
+Chrysler Imperial,124
+Ferrari Dino,137
+Merc 240D,141
+Hornet Sportabout,153
+Merc 450SLC,126
+Merc 230,112
+Merc 450SLC,128
+Lotus Europa,100
+Lotus Europa,98
+Toyota Corona,112
+Merc 450SLC,101
+Camaro Z28,154
+Porsche 914-2,100
+Volvo 142E,72
+Honda Civic,143
+Fiat 128,86
+Camaro Z28,157
+Lotus Europa,114
+Merc 450SL,95
+Dodge Challenger,93
+Merc 450SLC,135
+Merc 450SE,141
+Merc 450SLC,115
+Toyota Corona,81
+Merc 280,137
+Volvo 142E,113
+Lotus Europa,106
+Maserati Bora,133
+Duster 360,127
+Mazda RX4 Wag,96
+Chrysler Imperial,124
+Ford Pantera L,76
+Fiat X1-9,87
+Merc 450SL,97
+Merc 280C,144
+Merc 450SLC,117
+Merc 280,133
+Honda Civic,134
+Merc 450SLC,112
+Hornet 4 Drive,119
+Toyota Corona,106
+Merc 450SE,141
+Merc 450SE,135
+Dodge Challenger,106
+Mazda RX4 Wag,101
+Camaro Z28,145
+Datsun 710,115
+Merc 240D,128
+Lotus Europa,107
+Merc 450SLC,111
+Pontiac Firebird,116
+Merc 230,131
+Hornet Sportabout,151
+Volvo 142E,92
+Merc 230,114
+Merc 450SL,102
+Porsche 914-2,98
+Hornet 4 Drive,144
+Honda Civic,140
+Merc 450SE,164
+Merc 230,108
+Camaro Z28,135
+Merc 450SE,144
+Mazda RX4 Wag,114
+Merc 450SL,100
+Hornet Sportabout,142
+Datsun 710,158
+Fiat 128,121
+Dodge Challenger,107
+Duster 360,131
+Merc 230,136
+Maserati Bora,121
+Merc 230,123
+Duster 360,148
+Pontiac Firebird,113
+Honda Civic,143
+Ferrari Dino,125
+Merc 240D,135
+Pontiac Firebird,139
+Dodge Challenger,88
+Fiat X1-9,115
+Datsun 710,125
+Dodge Challenger,100
+Maserati Bora,120
+Fiat X1-9,119
+Merc 280C,148
+Toyota Corona,109
+Valiant,117
+Merc 280,139
+Lotus Europa,97
+Toyota Corolla,119
+Toyota Corona,90
+Hornet 4 Drive,124
+AMC Javelin,143
+Merc 230,111
+Fiat 128,104
+Fiat 128,99
+Merc 450SE,133
+Porsche 914-2,102
+AMC Javelin,155
+AMC Javelin,144
+Merc 240D,130
+Dodge Challenger,113
+Volvo 142E,110
+Merc 450SE,145
+Valiant,109
+Merc 450SE,142
+Camaro Z28,149
+Toyota Corolla,92
+Hornet Sportabout,126
+Lotus Europa,120
+Merc 450SE,151
+Honda Civic,126
+Merc 240D,141
+Toyota Corolla,96
+Mazda RX4 Wag,93
+Volvo 142E,106
+Hornet Sportabout,125
+Lotus Europa,96
+AMC Javelin,152
+Merc 280,135
+Merc 240D,137
+Duster 360,139
+Datsun 710,154
+Merc 450SE,156
+Merc 450SE,146
+Ford Pantera L,93
+Lotus Europa,109
+Honda Civic,128
+Hornet Sportabout,126
+Mazda RX4 Wag,86
+Merc 280,162
+Maserati Bora,130
+Dodge Challenger,90
+Merc 280,135
+Merc 230,134
+Honda Civic,131
+Valiant,100
+Ferrari Dino,131
+Mazda RX4 Wag,111
+Volvo 142E,88
+Hornet Sportabout,157
+Merc 450SL,98
+Porsche 914-2,100
+Merc 450SL,95
+Merc 280C,152
+Lotus Europa,93
+Mazda RX4 Wag,108
+Merc 240D,118
+Cadillac Fleetwood,142
+Mazda RX4 Wag,108
+Honda Civic,158
+Merc 240D,147
+Fiat 128,92
+Hornet Sportabout,127
+Duster 360,116
+Valiant,111
+Cadillac Fleetwood,133
+Valiant,99
+Pontiac Firebird,111
+Camaro Z28,129
+Lincoln Continental,141
+Duster 360,132
+Mazda RX4 Wag,90
+Cadillac Fleetwood,158
+Merc 230,127
+Dodge Challenger,121
+Ford Pantera L,100
+Honda Civic,139
+Merc 450SLC,106
+Merc 280C,139
+Mazda RX4 Wag,101
+Honda Civic,134
+Lotus Europa,106
+Lincoln Continental,158
+Hornet Sportabout,152
+Pontiac Firebird,124
+Mazda RX4 Wag,99
+Toyota Corolla,106
+Lotus Europa,106
+Dodge Challenger,82
+Merc 280,143
+Merc 230,107
+Dodge Challenger,75
+Valiant,118
+Duster 360,138
+Hornet Sportabout,162
+Merc 280,168
+Duster 360,140
+Mazda RX4 Wag,95
+Chrysler Imperial,129
+Merc 450SLC,112
+Merc 450SE,143
+Merc 280,158
+Duster 360,138
+Valiant,115
+Dodge Challenger,95
+Toyota Corona,80
+Mazda RX4 Wag,106
+Merc 280C,155
+Volvo 142E,100
+Dodge Challenger,86
+Merc 450SE,137
+Merc 450SE,163
+Ford Pantera L,94
+Volvo 142E,103
+AMC Javelin,167
+Toyota Corolla,99
+Duster 360,128
+Lincoln Continental,139
+Fiat X1-9,120
+Honda Civic,142
+Merc 280C,150
+Valiant,101
+Ferrari Dino,126
+Merc 450SE,122
+Porsche 914-2,89
+Camaro Z28,135
+Merc 450SLC,118
+Duster 360,139
+Dodge Challenger,111
+Toyota Corona,90
+Porsche 914-2,110
+Merc 280,146
+Datsun 710,125
+Camaro Z28,163
+Hornet Sportabout,148
+AMC Javelin,160
+Toyota Corolla,105
+Merc 450SE,137
+Maserati Bora,128
+Merc 230,125
+Hornet Sportabout,141
+Toyota Corona,107
+Porsche 914-2,100
+AMC Javelin,173
+Fiat X1-9,114
+Merc 450SLC,121
+Merc 450SLC,107
+Pontiac Firebird,122
+Ferrari Dino,128
+Honda Civic,141
+Merc 240D,126
+Merc 230,139
+Hornet 4 Drive,127
+Honda Civic,121
+Camaro Z28,148
+Hornet Sportabout,145
+Merc 280,129
+Merc 450SE,162
+Porsche 914-2,87
+Honda Civic,148
+Valiant,112
+Pontiac Firebird,117
+Merc 280C,145
+Ferrari Dino,119
+Duster 360,139
+Honda Civic,109
+Valiant,107
+Merc 450SLC,124
+Honda Civic,146
+Merc 280,135
+Valiant,101
+Hornet Sportabout,145
+Camaro Z28,141
+Hornet 4 Drive,136
+Merc 450SL,72
+Maserati Bora,143
+Merc 450SLC,125
+Porsche 914-2,100
+Valiant,81
+Camaro Z28,139
+Volvo 142E,113
+Chrysler Imperial,118
+Maserati Bora,135
+AMC Javelin,150
+Lincoln Continental,117
+Merc 280C,144
+Porsche 914-2,104
+Porsche 914-2,88
+Merc 240D,118
+Fiat 128,92
+Maserati Bora,132
+Hornet Sportabout,151
+Merc 240D,147
+Merc 450SE,133
+Pontiac Firebird,114
+Hornet Sportabout,113
+Valiant,91
+Merc 280C,150
+Pontiac Firebird,119
+Lotus Europa,97
+Honda Civic,143
+Chrysler Imperial,136
+Ferrari Dino,135
+Datsun 710,121
+Hornet Sportabout,140
+Pontiac Firebird,123
+Merc 450SE,135
+Merc 450SLC,129
+Ford Pantera L,92
+Duster 360,118
+Merc 280,133
+Pontiac Firebird,123
+Fiat X1-9,110
+Dodge Challenger,117
+Merc 230,112
+Toyota Corona,94
+Chrysler Imperial,144
+Merc 450SL,97
+Mazda RX4 Wag,101
+Dodge Challenger,105
+Dodge Challenger,87
+Hornet 4 Drive,124
+Mazda RX4 Wag,89
+Valiant,120
+Merc 450SLC,111
+Pontiac Firebird,122
+Merc 450SLC,100
+Volvo 142E,71
+Mazda RX4 Wag,114
+Merc 450SE,135
+Porsche 914-2,105
+Fiat X1-9,97
+Maserati Bora,127
+Lotus Europa,108
+Camaro Z28,145
+Hornet Sportabout,137
+Merc 450SE,154
+Cadillac Fleetwood,124
+Merc 450SE,144
+Merc 240D,161
+Ferrari Dino,145
+Pontiac Firebird,114
+Merc 280C,144
+Merc 280,147
+Merc 240D,130
+Merc 240D,157
+Merc 230,137
+Hornet 4 Drive,127
+Merc 240D,137
+Merc 280,133
+Cadillac Fleetwood,136
+Toyota Corona,101
+Merc 280,146
+AMC Javelin,150
+Merc 280,133
+Duster 360,126
+Merc 230,126
+Ford Pantera L,107
+Camaro Z28,154
+Merc 450SLC,129
+Valiant,101
+Fiat X1-9,113
+Ferrari Dino,128
+Porsche 914-2,110
+Valiant,109
+Camaro Z28,149
+Hornet 4 Drive,128
+Hornet Sportabout,135
+Mazda RX4 Wag,98
+Merc 450SLC,123
+Hornet Sportabout,139
+Merc 240D,129
+Merc 240D,140
+Merc 450SE,128
+Hornet Sportabout,141
+Toyota Corona,96
+Ford Pantera L,81
+Merc 230,123
+Duster 360,157
+Merc 240D,123
+Ferrari Dino,120
+Merc 230,132
+Honda Civic,145
+Merc 450SE,141
+Merc 230,131
+Ford Pantera L,90
+Toyota Corona,90
+Lotus Europa,117
+Honda Civic,132
+Merc 450SLC,114
+Porsche 914-2,106
+Porsche 914-2,114
+Cadillac Fleetwood,144
+Lotus Europa,96
+Pontiac Firebird,119
+Hornet Sportabout,146
+Dodge Challenger,111
+Hornet 4 Drive,126
+Honda Civic,126
+Duster 360,144
+Porsche 914-2,105
+Hornet 4 Drive,116
+Ford Pantera L,87
+Camaro Z28,160
+Camaro Z28,160
+Merc 230,126
+Cadillac Fleetwood,146
+Fiat X1-9,109
+Merc 450SLC,123
+Merc 280,138
+Duster 360,138
+Honda Civic,131
+Pontiac Firebird,114
+Merc 450SL,85
+Mazda RX4 Wag,118
+Fiat 128,97
+Merc 450SE,146
+Ferrari Dino,147
+Fiat X1-9,108
+Ferrari Dino,134
+Dodge Challenger,92
+Merc 240D,147
+Volvo 142E,93
+Ferrari Dino,136
+Toyota Corona,96
+Toyota Corona,83
+Duster 360,106
+Merc 450SL,89
+Hornet Sportabout,142
+Camaro Z28,148
+Lotus Europa,87
+Lotus Europa,108
+Merc 230,138
+Merc 280,140
+Ferrari Dino,144
+Merc 230,113
+Merc 450SE,142
+Lotus Europa,96
+Ferrari Dino,137
+Camaro Z28,146
+Ferrari Dino,132
+Volvo 142E,101
+Dodge Challenger,103
+Honda Civic,126
+Toyota Corolla,112
+Valiant,101
+Datsun 710,136
+Duster 360,131
+AMC Javelin,144
+Ford Pantera L,94
+Valiant,94
+Honda Civic,144
+Merc 280,134
+Honda Civic,125
+Toyota Corona,94
+Honda Civic,160
+Merc 280,148
+Hornet 4 Drive,123
+Merc 450SL,105
+Toyota Corolla,107
+Duster 360,131
+Merc 230,133
+Merc 280,120
+Mazda RX4 Wag,120
+Merc 230,141
+Hornet Sportabout,153
+Honda Civic,130
+Ferrari Dino,127
+Datsun 710,142
+Cadillac Fleetwood,144
+Merc 230,124
+Fiat X1-9,108
+Valiant,91
+Pontiac Firebird,107
+Lotus Europa,108
+Merc 230,119
+Merc 280,148
+Duster 360,137
+AMC Javelin,147
+Merc 450SLC,113
+Valiant,90
+Datsun 710,124
+Camaro Z28,145
+Maserati Bora,117
+Merc 280C,161
+Fiat 128,95
+Pontiac Firebird,129
+Valiant,94
+AMC Javelin,145
+Mazda RX4 Wag,86
+Ferrari Dino,144
+Merc 450SLC,123
+Toyota Corolla,89
+Camaro Z28,157
+Merc 450SE,153
+Merc 240D,140
+Merc 450SE,145
+Ferrari Dino,144
+Fiat X1-9,130
+Merc 240D,144
+Cadillac Fleetwood,134
+Hornet Sportabout,144
+Datsun 710,143
+Merc 450SL,106
+Merc 230,122
+AMC Javelin,141
+Datsun 710,134
+Duster 360,137
+AMC Javelin,149
+Merc 230,114
+Hornet Sportabout,130
+Datsun 710,150
+Merc 280C,160
+Pontiac Firebird,136
+Merc 240D,126
+Volvo 142E,90
+Ferrari Dino,138
+Honda Civic,143
+Dodge Challenger,118
+Hornet 4 Drive,140
+Fiat 128,108
+Honda Civic,126
+Ferrari Dino,133
+Merc 280C,136
+Valiant,108
+Porsche 914-2,109
+Duster 360,116
+Ferrari Dino,150
+Camaro Z28,166
+Volvo 142E,108
+Toyota Corolla,111
+Fiat X1-9,86
+Fiat X1-9,107
+Merc 230,124
+Merc 450SE,126
+Cadillac Fleetwood,133
+Fiat X1-9,110
+Lotus Europa,104
+Toyota Corona,105
+Camaro Z28,146
+Camaro Z28,149
+Toyota Corona,106
+Camaro Z28,154
+Lotus Europa,99
+Lotus Europa,113
+Merc 280,144
+Merc 450SLC,117
+Pontiac Firebird,115
+Merc 280,135
+Maserati Bora,134
+Valiant,100
+Maserati Bora,120
+Cadillac Fleetwood,132
+Merc 280C,146
+Merc 280,132
+Merc 280,138
+Merc 240D,153
+Merc 280,119
+Merc 450SE,148
+Ford Pantera L,77
+Merc 450SLC,126
+Valiant,86
+Merc 450SE,138
+Toyota Corona,105
+Merc 230,122
+Toyota Corona,115
+Ferrari Dino,152
+Merc 450SE,152
+Duster 360,135
+Duster 360,145
+Hornet Sportabout,142
+Mazda RX4 Wag,118
+Merc 240D,152
+Volvo 142E,94
+Valiant,113
+Fiat X1-9,116
+Mazda RX4 Wag,116
+Merc 240D,151
+Honda Civic,139
+Merc 280,146
+Camaro Z28,148
+Merc 450SLC,114
+Merc 450SLC,117
+Pontiac Firebird,121
+Toyota Corona,73
+Mazda RX4 Wag,106
+Merc 280C,132
+Duster 360,118
+Hornet Sportabout,137
+Merc 450SL,99
+Porsche 914-2,88
+Merc 450SLC,143
+Pontiac Firebird,120
+Toyota Corolla,94
+Hornet Sportabout,140
+Ford Pantera L,97
+Toyota Corona,78
+Honda Civic,150
+Fiat 128,100
+Lotus Europa,90
+Honda Civic,138
+Fiat 128,111
+Volvo 142E,103
+Pontiac Firebird,110
+Pontiac Firebird,121
+Porsche 914-2,107
+Merc 450SLC,104
+Honda Civic,125
+Merc 450SE,155
+Toyota Corolla,100
+Merc 280C,131
+Honda Civic,134
+Merc 240D,138
+Pontiac Firebird,127
+Pontiac Firebird,113
+Porsche 914-2,97
+Lotus Europa,111
+Merc 280,145
+Valiant,105
+Maserati Bora,149
+Merc 280,140
+Ford Pantera L,96
+Lotus Europa,105
+Fiat 128,129
+Lincoln Continental,162
+Merc 280,144
+Merc 280,144
+Merc 240D,134
+Pontiac Firebird,116
+Merc 230,129
+Merc 240D,151
+Fiat 128,120
+Lincoln Continental,145
+Pontiac Firebird,102
+Merc 240D,137
+Merc 280,139
+Hornet Sportabout,153
+Merc 450SLC,100
+Valiant,113
+Mazda RX4 Wag,113
+Porsche 914-2,104
+Fiat X1-9,98
+Merc 280,159
+Merc 450SL,86
+Merc 450SE,152
+Ford Pantera L,96
+Datsun 710,126
+Mazda RX4 Wag,102
+Camaro Z28,148
+Merc 450SE,149
+Merc 230,119
+Porsche 914-2,102
+Hornet 4 Drive,119
+Lotus Europa,101
+Pontiac Firebird,112
+Cadillac Fleetwood,133
+Merc 240D,151
+Fiat X1-9,107
+Duster 360,141
+Duster 360,127
+Valiant,85
+Duster 360,148
+Mazda RX4 Wag,112
+Mazda RX4 Wag,117
+Merc 450SL,93
+Volvo 142E,87
+Fiat 128,99
+Chrysler Imperial,105
+Merc 240D,141
+Ferrari Dino,134
+Volvo 142E,84
+Merc 280,134
+Mazda RX4 Wag,106
+Merc 450SE,120
+Camaro Z28,135
+Merc 280C,152
+Merc 450SE,149
+Merc 240D,116
+Honda Civic,141
+Datsun 710,133
+Dodge Challenger,101
+Duster 360,127
+Datsun 710,134
+Porsche 914-2,124
+Merc 240D,137
+Toyota Corona,128
+Merc 450SE,143
+Merc 280C,141
+Dodge Challenger,110
+Valiant,109
+Duster 360,146
+Dodge Challenger,102
+Merc 450SL,94
+Honda Civic,131
+Maserati Bora,129
+Merc 450SLC,135
+Cadillac Fleetwood,145
+Camaro Z28,128
+Hornet Sportabout,130
+Hornet Sportabout,149
+Merc 230,134
+Dodge Challenger,103
+Merc 450SE,136
+AMC Javelin,158
+Hornet 4 Drive,110
+Merc 280C,160
+Hornet 4 Drive,133
+Merc 280C,155
+Cadillac Fleetwood,129
+AMC Javelin,158
+Merc 280C,137
+Hornet Sportabout,155
+Lotus Europa,117
+Ferrari Dino,114
+Pontiac Firebird,133
+Pontiac Firebird,123
+Hornet Sportabout,154
+Valiant,89
+Dodge Challenger,95
+Toyota Corolla,113
+AMC Javelin,153
+Toyota Corolla,87
+Merc 280,142
+Hornet 4 Drive,136
+Lotus Europa,100
+Fiat X1-9,118
+Merc 280,134
+Dodge Challenger,93
+Merc 240D,144
+Datsun 710,151
+Merc 280,134
+Merc 280,133
+Valiant,102
+Honda Civic,136
+Porsche 914-2,116
+Volvo 142E,88
+Merc 280,132
+Merc 230,115
+Ford Pantera L,94
+Mazda RX4 Wag,105
+Merc 450SLC,130
+Merc 280,161
+Toyota Corona,79
+Porsche 914-2,120
+Datsun 710,133
+Valiant,93
+Chrysler Imperial,132
+Hornet Sportabout,136
+Honda Civic,136
+Merc 240D,127
+Merc 450SL,121
+Hornet Sportabout,134
+Merc 450SLC,121
+Datsun 710,136
+Volvo 142E,99
+Merc 450SLC,116
+Mazda RX4 Wag,107
+Cadillac Fleetwood,138
+Merc 280C,153
+Lincoln Continental,133
+Honda Civic,122
+Fiat 128,103
+Datsun 710,132
+Ferrari Dino,131
+Camaro Z28,130
+Merc 450SLC,104
+Datsun 710,136
+Porsche 914-2,85
+Lotus Europa,102
+Mazda RX4 Wag,116
+Merc 280,141
+Pontiac Firebird,121
+Honda Civic,135
+Lotus Europa,100
+Fiat 128,97
+Merc 230,106
+Ferrari Dino,144
+Merc 240D,143
+Chrysler Imperial,146
+Dodge Challenger,98
+Maserati Bora,128
+Merc 240D,144
+Honda Civic,131
+Honda Civic,125
+Volvo 142E,96
+Mazda RX4 Wag,84
+Duster 360,131
+Honda Civic,123
+Volvo 142E,104
+Toyota Corolla,96
+Datsun 710,133
+Porsche 914-2,106
+Duster 360,126
+Honda Civic,137
+Porsche 914-2,112
+Dodge Challenger,116
+Merc 450SE,142
+Toyota Corolla,102
+Hornet 4 Drive,131
+Merc 450SLC,132
+Hornet Sportabout,139
+Volvo 142E,81
+Dodge Challenger,104
+Mazda RX4 Wag,115
+Cadillac Fleetwood,134
+Datsun 710,147
+Merc 280C,138
+Merc 280,117
+Camaro Z28,150
+Volvo 142E,116
+Merc 230,128
+Hornet 4 Drive,149
+Ferrari Dino,145
+Lotus Europa,94
+Cadillac Fleetwood,129
+Hornet 4 Drive,132
+Ferrari Dino,141
+Merc 450SLC,113
+Pontiac Firebird,116
+Camaro Z28,133
+Maserati Bora,135
+Merc 230,109
+Hornet 4 Drive,142
+Merc 240D,146
+Merc 280,141
+Merc 230,140
+Camaro Z28,122
+Pontiac Firebird,112
+Merc 450SE,142
+Lincoln Continental,129
+Datsun 710,145
+Merc 450SLC,90
+Merc 240D,149
+Porsche 914-2,105
+Lotus Europa,99
+Merc 450SLC,135
+Camaro Z28,154
+Camaro Z28,149
+Merc 280C,145
+Cadillac Fleetwood,138
+Hornet 4 Drive,128
+Valiant,104
+Hornet 4 Drive,116
+Cadillac Fleetwood,127
+Merc 450SLC,116
+Ford Pantera L,96
+Duster 360,126
+Honda Civic,141
+Merc 450SE,140
+Lincoln Continental,131
+Lincoln Continental,144
+Merc 280,134
+Merc 450SLC,118
+Camaro Z28,143
+Merc 240D,146
+Merc 280C,118
+Cadillac Fleetwood,169
+Hornet Sportabout,136
+Merc 450SL,92
+Camaro Z28,174
+Fiat 128,91
+Merc 450SE,142
+Volvo 142E,96
+Hornet 4 Drive,142
+Merc 450SL,94
+Merc 280C,147
+Ferrari Dino,121
+Hornet Sportabout,137
+AMC Javelin,147
+Fiat X1-9,110
+Hornet 4 Drive,142
+Valiant,92
+Lincoln Continental,138
+Hornet 4 Drive,128
+Ford Pantera L,87
+Merc 280C,154
+Merc 450SLC,107
+Hornet Sportabout,125
+Lincoln Continental,136
+Mazda RX4 Wag,73
+Fiat X1-9,116
+Dodge Challenger,105
+Merc 280,159
+Pontiac Firebird,120
+Pontiac Firebird,120
+Pontiac Firebird,113
+Pontiac Firebird,120
+AMC Javelin,150
+Duster 360,132
+AMC Javelin,140
+Porsche 914-2,99
+Pontiac Firebird,122
+Valiant,90
+Pontiac Firebird,136
+Merc 280C,133
+Duster 360,133
+Datsun 710,124
+Hornet Sportabout,151
+Merc 280,151
+Merc 450SE,143
+Camaro Z28,139
+Honda Civic,133
+Duster 360,136
+Mazda RX4 Wag,105
+Camaro Z28,163
+Volvo 142E,100
+Hornet Sportabout,127
+Camaro Z28,147
+Volvo 142E,96
+Valiant,94
+Merc 280,161
+Datsun 710,158
+Hornet Sportabout,152
+Ford Pantera L,80
+Ferrari Dino,132
+Pontiac Firebird,122
+Hornet Sportabout,132
+AMC Javelin,130
+Merc 450SLC,114
+Pontiac Firebird,122
+Ferrari Dino,126
+Porsche 914-2,100
+Duster 360,128
+Valiant,88
+Volvo 142E,110
+Merc 450SE,145
+Lotus Europa,112
+Honda Civic,148
+Merc 280,137
+Merc 230,113
+Fiat X1-9,116
+Porsche 914-2,115
+Lotus Europa,100
+Honda Civic,123
+Porsche 914-2,90
+Pontiac Firebird,114
+Fiat X1-9,138
+Fiat 128,78
+Merc 230,133
+Fiat X1-9,116
+Porsche 914-2,76
+Datsun 710,146
+Lotus Europa,118
+Ferrari Dino,154
+Lotus Europa,106
+Duster 360,124
+Fiat X1-9,105
+Pontiac Firebird,111
+Dodge Challenger,110
+Fiat 128,92
+Pontiac Firebird,105
+Datsun 710,134
+Mazda RX4 Wag,91
+Pontiac Firebird,120
+Lotus Europa,109
+Camaro Z28,117
+Pontiac Firebird,121
+Lotus Europa,102
+Merc 230,135
+Valiant,106
+Merc 450SE,145
+Merc 280C,153
+Porsche 914-2,92
+Valiant,94
+Datsun 710,143
+Camaro Z28,146
+Lotus Europa,106
+Camaro Z28,153
+Merc 280,148
+Merc 240D,129
+Honda Civic,127
+Datsun 710,125
+Merc 280,143
+Fiat X1-9,119
+Maserati Bora,134
+Ferrari Dino,138
+Cadillac Fleetwood,132
+Lincoln Continental,169
+Maserati Bora,142
+Duster 360,124
+Volvo 142E,106
+Toyota Corolla,84
+Porsche 914-2,98
+Toyota Corona,89
+Fiat X1-9,123
+Merc 240D,137
+Camaro Z28,146
+Merc 280C,142
+Ford Pantera L,106
+Merc 450SLC,116
+Hornet Sportabout,139
+Ferrari Dino,150
+Porsche 914-2,88
+Toyota Corona,100
+Valiant,103
+Merc 280C,134
+Merc 240D,140
+Merc 450SE,156
+Mazda RX4 Wag,110
+Fiat 128,95
+Merc 230,124
+Fiat X1-9,115
+Volvo 142E,96
+Duster 360,135
+Valiant,93
+Lotus Europa,86
+Pontiac Firebird,108
+Merc 230,109
+Valiant,123
+Dodge Challenger,103
+Cadillac Fleetwood,146
+Merc 280,138
+Pontiac Firebird,129
+Lotus Europa,101
+Porsche 914-2,109
+Fiat X1-9,121
+Duster 360,118
+Volvo 142E,104
+Merc 280,140
+Pontiac Firebird,131
+Merc 230,127
+Merc 450SE,132
+Mazda RX4 Wag,105
+Hornet Sportabout,129
+Hornet Sportabout,150
+Hornet 4 Drive,124
+Valiant,110
+Hornet 4 Drive,139
+Lotus Europa,110
+Merc 280C,151
+Volvo 142E,97
+Fiat X1-9,102
+Fiat X1-9,104
+Pontiac Firebird,118
+Fiat X1-9,99
+Honda Civic,122
+Merc 230,110
+Toyota Corolla,104
+Ford Pantera L,91
+Valiant,117
+Camaro Z28,137
+Camaro Z28,147
+Volvo 142E,107
+Lotus Europa,103
+Camaro Z28,141
+Duster 360,101
+Lincoln Continental,157
+Toyota Corolla,106
+Datsun 710,141
+Merc 280C,128
+Merc 280C,151
+Merc 280,150
+Valiant,75
+Duster 360,135
+Hornet Sportabout,145
+Chrysler Imperial,125
+Volvo 142E,95
+Lincoln Continental,147
+Honda Civic,142
+Honda Civic,112
+AMC Javelin,142
+Merc 450SL,100
+Valiant,111
+Mazda RX4 Wag,118
+Volvo 142E,112
+Honda Civic,148
+Merc 280C,143
+AMC Javelin,141
+Duster 360,138
+Merc 450SL,91
+Merc 450SLC,114
+Ferrari Dino,135
+Honda Civic,115
+Fiat 128,118
+Porsche 914-2,105
+Merc 450SE,146
+Pontiac Firebird,121
+Merc 450SL,101
+Mazda RX4 Wag,106
+Hornet Sportabout,118
+Toyota Corona,88
+Lotus Europa,97
+Camaro Z28,157
+Cadillac Fleetwood,127
+Dodge Challenger,128
+Fiat X1-9,107
+Pontiac Firebird,116
+Valiant,107
+AMC Javelin,135
+Honda Civic,134
+Merc 280C,123
+Duster 360,128
+Valiant,102
+Toyota Corona,90
+Dodge Challenger,111
+Ferrari Dino,129
+Honda Civic,153
+Hornet Sportabout,155
+Cadillac Fleetwood,127
+Merc 280C,137
+Merc 240D,130
+Lincoln Continental,137
+Dodge Challenger,104
+Dodge Challenger,113
+Cadillac Fleetwood,116
+Hornet 4 Drive,131
+Chrysler Imperial,152
+Valiant,112
+Porsche 914-2,110
+Merc 450SL,96
+Honda Civic,136
+Camaro Z28,140
+Pontiac Firebird,119
+Ferrari Dino,139
+Lincoln Continental,141
+Hornet 4 Drive,139
+Merc 280C,148
+Maserati Bora,142
+Valiant,87
+Merc 240D,145
+Volvo 142E,100
+Cadillac Fleetwood,135
+Hornet 4 Drive,140
+Volvo 142E,96
+Porsche 914-2,83
+Honda Civic,121
+Valiant,112
+Valiant,97
+Cadillac Fleetwood,133
+Ford Pantera L,84
+AMC Javelin,149
+Merc 450SL,102
+Mazda RX4 Wag,99
+Duster 360,116
+Honda Civic,139
+Pontiac Firebird,108
+Maserati Bora,128
+Maserati Bora,127
+Chrysler Imperial,110
+Hornet Sportabout,141
+Merc 280C,168
+Ford Pantera L,100
+Mazda RX4 Wag,118
+Pontiac Firebird,113
+Merc 240D,129
+Honda Civic,124
+Hornet Sportabout,136
+Maserati Bora,120
+Merc 450SLC,120
+Hornet Sportabout,144
+Dodge Challenger,96
+Lincoln Continental,158
+Ferrari Dino,139
+Dodge Challenger,106
+Ford Pantera L,85
+Duster 360,123
+Dodge Challenger,99
+Hornet 4 Drive,130
+Toyota Corona,99
+Maserati Bora,127
+Maserati Bora,128
+Hornet Sportabout,140
+Hornet Sportabout,132
+Merc 280C,149
+Merc 450SE,175
+Fiat X1-9,84
+Merc 280C,138
+Pontiac Firebird,109
+Dodge Challenger,111
+Porsche 914-2,106
+Maserati Bora,139
+Volvo 142E,106
+AMC Javelin,153
+Dodge Challenger,93
+Dodge Challenger,111
+Ferrari Dino,140
+Datsun 710,151
+Ferrari Dino,133
+Porsche 914-2,98
+Volvo 142E,102
+Volvo 142E,112
+Merc 280C,141
+Dodge Challenger,111
+Valiant,99
+AMC Javelin,149
+Fiat 128,81
+Pontiac Firebird,127
+Valiant,89
+Mazda RX4 Wag,113
+Honda Civic,148
+Pontiac Firebird,117
+Valiant,104
+Hornet 4 Drive,144
+Honda Civic,118
+Ford Pantera L,100
+Lotus Europa,114
+Dodge Challenger,98
+Fiat X1-9,119
+Porsche 914-2,113
+Merc 450SLC,115
+Lotus Europa,92
+Porsche 914-2,112
+Valiant,113
+Toyota Corona,92
+Pontiac Firebird,119
+Pontiac Firebird,109
+Ferrari Dino,140
+Duster 360,127
+Merc 240D,128
+Honda Civic,134
+Ferrari Dino,144
+Hornet 4 Drive,113
+Merc 280,133
+Datsun 710,147
+Camaro Z28,155
+Hornet 4 Drive,118
+Mazda RX4 Wag,122
+Lincoln Continental,138
+Merc 280C,131
+Dodge Challenger,94
+Hornet Sportabout,142
+Merc 230,138
+Duster 360,151
+Merc 450SLC,129
+Duster 360,142
+Toyota Corona,96
+Datsun 710,123
+Merc 230,116
+Merc 450SLC,124
+Merc 240D,149
+Volvo 142E,83
+Merc 240D,138
+Lotus Europa,98
+Lincoln Continental,138
+Pontiac Firebird,98
+Merc 450SLC,101
+Datsun 710,119
+Cadillac Fleetwood,118
+Hornet Sportabout,142
+Merc 280C,145
+Datsun 710,124
+Hornet 4 Drive,149
+Lincoln Continental,156
+Hornet 4 Drive,122
+Dodge Challenger,91
+Merc 450SLC,102
+Merc 450SL,84
+Fiat X1-9,117
+Porsche 914-2,113
+Lotus Europa,79
+Hornet 4 Drive,137
+Lotus Europa,92
+Porsche 914-2,90
+Camaro Z28,156
+Merc 280C,147
+Maserati Bora,122
+Honda Civic,124
+Fiat X1-9,102
+Merc 450SE,127
+Hornet 4 Drive,139
+Lincoln Continental,154
+Mazda RX4 Wag,113
+Maserati Bora,131
+Merc 240D,136
+Merc 230,127
+Fiat X1-9,120
+Cadillac Fleetwood,154
+Hornet 4 Drive,130
+Camaro Z28,141
+Mazda RX4 Wag,110
+Fiat 128,113
+Camaro Z28,133
+Dodge Challenger,104
+Ferrari Dino,138
+Volvo 142E,88
+Porsche 914-2,100
+Porsche 914-2,106
+Fiat X1-9,112
+Merc 280,132
+Valiant,115
+Duster 360,156
+Merc 450SLC,133
+Maserati Bora,143
+Pontiac Firebird,120
+Merc 280,146
+Valiant,89
+Merc 240D,125
+Lotus Europa,98
+Honda Civic,140
+Camaro Z28,142
+Merc 230,114
+Toyota Corolla,90
+Porsche 914-2,117
+Honda Civic,138
+Merc 280C,141
+Merc 230,112
+Merc 280,158
+Ferrari Dino,140
+Hornet 4 Drive,126
+Merc 450SE,144
+Merc 280,145
+Fiat X1-9,116
+Hornet 4 Drive,128
+Merc 450SLC,103
+Dodge Challenger,99
+Pontiac Firebird,108
+Honda Civic,123
+Merc 230,112
+Duster 360,133
+Lincoln Continental,143
+Mazda RX4 Wag,96
+Duster 360,139
+Merc 450SLC,136
+Merc 450SE,158
+Datsun 710,133
+Merc 280,150
+Lotus Europa,103
+Duster 360,128
+Pontiac Firebird,112
+Merc 280,152
+Maserati Bora,127
+Merc 230,149
+Cadillac Fleetwood,130
+Hornet Sportabout,131
+Honda Civic,141
+Hornet 4 Drive,146
+Lotus Europa,113
+Lotus Europa,119
+Honda Civic,141
+AMC Javelin,150
+Datsun 710,148
+Pontiac Firebird,105
+Datsun 710,136
+Hornet 4 Drive,114
+Merc 230,138
+AMC Javelin,156
+Camaro Z28,145
+Ford Pantera L,93
+Lotus Europa,90
+Valiant,98
+Duster 360,126
+Fiat X1-9,122
+Fiat 128,101
+Merc 230,118
+Maserati Bora,109
+Toyota Corona,108
+Merc 280,138
+Lotus Europa,107
+Merc 450SL,99
+Cadillac Fleetwood,129
+Duster 360,106
+Lincoln Continental,159
+Fiat X1-9,130
+Volvo 142E,91
+Camaro Z28,164
+Hornet Sportabout,136
+Hornet 4 Drive,114
+Valiant,108
+Pontiac Firebird,110
+Merc 280,154
+Dodge Challenger,109
+Toyota Corolla,97
+Hornet Sportabout,134
+Fiat X1-9,115
+Maserati Bora,124
+Merc 240D,120
+Ford Pantera L,91
+Merc 280C,152
+Merc 450SL,69
+Merc 450SE,149
+Merc 450SL,104
+Volvo 142E,97
+Merc 450SLC,100
+Hornet Sportabout,134
+Porsche 914-2,107
+Honda Civic,125
+Cadillac Fleetwood,119
+Merc 450SE,147
+Volvo 142E,101
+Dodge Challenger,92
+Lincoln Continental,138
+Merc 450SLC,121
+Porsche 914-2,92
+Lotus Europa,102
+Merc 230,113
+Lotus Europa,90
+Datsun 710,130
+Lotus Europa,98
+Lincoln Continental,145
+Dodge Challenger,94
+Dodge Challenger,96
+Fiat X1-9,111
+Valiant,111
+Merc 450SLC,130
+Mazda RX4 Wag,92
+Toyota Corona,106
+Ferrari Dino,127
+Merc 240D,157
+Camaro Z28,142
+Volvo 142E,76
+Volvo 142E,84
+Fiat X1-9,129
+Valiant,114
+Pontiac Firebird,138
+Dodge Challenger,99
+Merc 240D,127
+Merc 280,138
+AMC Javelin,150
+Merc 230,114
+Cadillac Fleetwood,136
+Ford Pantera L,107
+Merc 450SE,157
+Fiat X1-9,108
+Hornet 4 Drive,128
+Volvo 142E,103
+Valiant,97
+Hornet Sportabout,139
+AMC Javelin,152
+Toyota Corolla,100
+Merc 280,143
+Honda Civic,140
+Merc 280,153
+Merc 450SL,103
+Chrysler Imperial,141
+Hornet 4 Drive,146
+Ferrari Dino,135
+Toyota Corona,84
+Volvo 142E,96
+Merc 450SE,145
+Camaro Z28,143
+Maserati Bora,124
+Toyota Corona,91
+AMC Javelin,150
+Valiant,90
+Chrysler Imperial,138
+Honda Civic,145
+Merc 240D,141
+Duster 360,117
+Mazda RX4 Wag,89
+Volvo 142E,96
+Volvo 142E,97
+Cadillac Fleetwood,141
+Merc 280C,148
+Duster 360,132
+Merc 280C,153
+Merc 230,118
+Hornet Sportabout,124
+Ferrari Dino,138
+Datsun 710,133
+Maserati Bora,121
+Merc 450SL,97
+Hornet Sportabout,149
+Ford Pantera L,85
+Hornet Sportabout,143
+Camaro Z28,133
+Ford Pantera L,88
+Volvo 142E,102
+Valiant,82
+Maserati Bora,130
+Mazda RX4 Wag,102
+Ford Pantera L,100
+Datsun 710,138
+Merc 450SE,137
+Hornet Sportabout,140
+Camaro Z28,157
+Pontiac Firebird,110
+Camaro Z28,151
+Pontiac Firebird,117
+Merc 280,152
+Honda Civic,122
+Honda Civic,139
+Mazda RX4 Wag,122
+Ferrari Dino,139
+Volvo 142E,94
+Hornet Sportabout,138
+Porsche 914-2,106
+Ford Pantera L,88
+Valiant,87
+Merc 450SL,86
+Merc 450SE,132
+Maserati Bora,113
+Ford Pantera L,102
+Camaro Z28,149
+Dodge Challenger,109
+Merc 230,125
+Honda Civic,134
+Lotus Europa,105
+Camaro Z28,135
+Merc 230,137
+Pontiac Firebird,103
+Toyota Corolla,107
+Hornet Sportabout,144
+Lotus Europa,109
+Merc 450SLC,120
+Merc 230,130
+Fiat 128,106
+Hornet Sportabout,130
+Fiat 128,100
+Duster 360,135
+Valiant,97
+Volvo 142E,105
+Mazda RX4 Wag,126
+Volvo 142E,105
+Hornet 4 Drive,132
+Merc 280C,148
+Pontiac Firebird,127
+Fiat X1-9,109
+Datsun 710,142
+Volvo 142E,109
+Ferrari Dino,139
+Merc 450SLC,110
+Mazda RX4 Wag,107
+Merc 450SLC,124
+Merc 280,139
+Merc 450SL,81
+Ford Pantera L,94
+Hornet Sportabout,142
+Pontiac Firebird,115
+Hornet 4 Drive,119
+Camaro Z28,128
+Hornet 4 Drive,138
+Volvo 142E,95
+Toyota Corona,92
+Ford Pantera L,110
+Lotus Europa,106
+Ferrari Dino,118
+Merc 280C,142
+Hornet Sportabout,126
+Hornet Sportabout,121
+Merc 450SLC,115
+Merc 280C,153
+Hornet 4 Drive,117
+Pontiac Firebird,123
+Mazda RX4 Wag,83
+Toyota Corona,112
+Merc 230,134
+Hornet 4 Drive,133
+AMC Javelin,154
+Merc 450SL,103
+Ford Pantera L,75
+Lotus Europa,96
+Volvo 142E,94
+Valiant,102
+Toyota Corona,104
+Dodge Challenger,103
+Duster 360,116
+Ford Pantera L,94
+Merc 450SLC,119
+Merc 280C,141
+Datsun 710,131
+Cadillac Fleetwood,142
+Dodge Challenger,104
+Valiant,93
+Porsche 914-2,115
+Toyota Corona,86
+Toyota Corona,105
+Ford Pantera L,117
+Merc 450SE,147
+Honda Civic,120
+Dodge Challenger,102
+Valiant,107
+Fiat 128,96
+Honda Civic,137
+Merc 230,128
+Mazda RX4 Wag,108
+Camaro Z28,146
+Duster 360,135
+Ford Pantera L,79
+Merc 450SE,157
+Merc 240D,119
+Fiat X1-9,101
+Ferrari Dino,137
+Hornet Sportabout,147
+Duster 360,139
+Ferrari Dino,124
+Cadillac Fleetwood,157
+Merc 450SE,146
+Merc 280,142
+Merc 280C,139
+Porsche 914-2,110
+Merc 230,124
+Merc 450SE,143
+Camaro Z28,141
+Ferrari Dino,150
+Ferrari Dino,133
+Merc 450SE,137
+Cadillac Fleetwood,145
+Mazda RX4 Wag,119
+Merc 230,139
+Toyota Corona,93
+Hornet 4 Drive,136
+Datsun 710,146
+Mazda RX4 Wag,121
+Volvo 142E,94
+Fiat X1-9,120
+Duster 360,125
+Merc 450SL,100
+Valiant,103
+Camaro Z28,149
+Pontiac Firebird,117
+Valiant,99
+Merc 230,139
+Merc 230,122
+Camaro Z28,152
+Dodge Challenger,103
+Merc 280,148
+Valiant,107
+Pontiac Firebird,125
+Lotus Europa,111
+Hornet 4 Drive,136
+Merc 450SL,93
+Valiant,107
+Toyota Corolla,114
+Valiant,91
+Fiat X1-9,125
+Fiat 128,89
+Hornet Sportabout,137
+Merc 450SLC,106
+Chrysler Imperial,122
+Cadillac Fleetwood,130
+Merc 240D,125
+Duster 360,134
+Merc 450SLC,129
+Merc 450SLC,131
+Cadillac Fleetwood,120
+Valiant,86
+Lotus Europa,100
+Merc 450SLC,124
+Toyota Corolla,98
+Camaro Z28,159
+Fiat X1-9,124
+Datsun 710,140
+Hornet Sportabout,124
+Camaro Z28,163
+Merc 450SL,102
+Fiat X1-9,102
+Duster 360,130
+Lotus Europa,96
+Mazda RX4 Wag,97
+Cadillac Fleetwood,134
+Honda Civic,142
+Lincoln Continental,155
+Merc 450SE,135
+Pontiac Firebird,108
+Merc 240D,139
+Chrysler Imperial,132
+Volvo 142E,97
+Chrysler Imperial,124
+Porsche 914-2,113
+Porsche 914-2,99
+Datsun 710,148
+Lotus Europa,80
+Duster 360,131
+Duster 360,143
+Porsche 914-2,106
+Volvo 142E,103
+Porsche 914-2,103
+AMC Javelin,166
+Merc 230,111
+Fiat X1-9,102
+Mazda RX4 Wag,120
+Volvo 142E,103
+Merc 280C,127
+Pontiac Firebird,103
+Mazda RX4 Wag,110
+Duster 360,128
+Pontiac Firebird,108
+Merc 230,125
+Dodge Challenger,95
+Lotus Europa,94
+Cadillac Fleetwood,143
+Dodge Challenger,99
+Pontiac Firebird,125
+Ford Pantera L,101
+Mazda RX4 Wag,112
+Merc 280C,149
+Dodge Challenger,104
+Merc 230,119
+Merc 450SE,145
+Datsun 710,136
+Camaro Z28,156
+Merc 450SE,146
+Fiat X1-9,92
+Volvo 142E,96
+Merc 230,112
+Cadillac Fleetwood,131
+Merc 280,134
+Merc 230,126
+Porsche 914-2,121
+Mazda RX4 Wag,83
+Merc 450SE,147
+Fiat X1-9,113
+Honda Civic,117
+Merc 450SL,95
+Maserati Bora,127
+Merc 240D,128
+Mazda RX4 Wag,99
+Hornet 4 Drive,113
+Merc 280C,158
+Volvo 142E,99
+Duster 360,143
+Duster 360,128
+Honda Civic,146
+Merc 450SLC,130
+Datsun 710,128
+Dodge Challenger,124
+Duster 360,145
+Lotus Europa,113
+Hornet 4 Drive,126
+Volvo 142E,96
+Pontiac Firebird,132
+Merc 450SE,132
+AMC Javelin,143
+Datsun 710,144
+Ferrari Dino,143
+Merc 230,124
+Maserati Bora,124
+Fiat X1-9,119
+Merc 230,125
+Lotus Europa,105
+AMC Javelin,148
+Fiat 128,105
+Porsche 914-2,93
+Merc 450SE,141
+Merc 240D,141
+Datsun 710,137
+Merc 280,123
+Volvo 142E,87
+Merc 450SE,142
+Mazda RX4 Wag,115
+Datsun 710,121
+Lotus Europa,118
+Merc 450SE,149
+Pontiac Firebird,123
+Merc 230,122
+Merc 230,134
+Toyota Corona,94
+Datsun 710,136
+Toyota Corona,101
+Valiant,97
+Camaro Z28,133
+Camaro Z28,130
+Mazda RX4 Wag,107
+Volvo 142E,92
+Merc 280C,160
+Pontiac Firebird,122
+AMC Javelin,151
+Merc 240D,133
+Fiat 128,102
+Pontiac Firebird,110
+Duster 360,138
+Merc 230,140
+Cadillac Fleetwood,129
+Porsche 914-2,103
+Volvo 142E,94
+Pontiac Firebird,108
+Fiat X1-9,111
+Hornet Sportabout,138
+Valiant,102
+Camaro Z28,144
+Duster 360,146
+Merc 240D,138
+Porsche 914-2,109
+Valiant,104
+Maserati Bora,121
+Cadillac Fleetwood,134
+Honda Civic,117
+Cadillac Fleetwood,128
+Honda Civic,145
+Valiant,109
+Fiat X1-9,119
+AMC Javelin,150
+Lotus Europa,114
+Datsun 710,146
+Volvo 142E,102
+Merc 280,145
+Hornet Sportabout,124
+Pontiac Firebird,113
+AMC Javelin,148
+AMC Javelin,150
+Chrysler Imperial,118
+Merc 240D,139
+Toyota Corolla,117
+Fiat X1-9,97
+Merc 230,114
+Lotus Europa,113
+Merc 240D,145
+Merc 240D,121
+Mazda RX4 Wag,116
+Merc 450SE,161
+Merc 450SLC,120
+Hornet 4 Drive,126
+Merc 450SE,146
+Fiat X1-9,110
+Porsche 914-2,108
+Dodge Challenger,85
+Merc 230,135
+Fiat X1-9,110
+Ferrari Dino,121
+Datsun 710,124
+Porsche 914-2,104
+Hornet 4 Drive,130
+Dodge Challenger,109
+Hornet Sportabout,149
+Merc 450SE,145
+Duster 360,133
+Ferrari Dino,126
+Valiant,113
+Valiant,112
+Camaro Z28,132
+Merc 280C,142
+Ferrari Dino,143
+Merc 450SE,132
+Hornet Sportabout,143
+Dodge Challenger,105
+Merc 280,155
+Porsche 914-2,110
+Ford Pantera L,90
+Porsche 914-2,94
+Merc 230,121
+Pontiac Firebird,140
+Honda Civic,133
+Cadillac Fleetwood,115
+Merc 230,136
+Porsche 914-2,101
+Merc 230,116
+Camaro Z28,149
+Porsche 914-2,90
+Hornet Sportabout,154
+Merc 450SL,98
+Datsun 710,120
+Merc 450SLC,129
+Merc 450SE,129
+Hornet Sportabout,128
+Toyota Corolla,83
+Merc 450SLC,107
+Pontiac Firebird,139
+Pontiac Firebird,132
+Valiant,99
+Hornet Sportabout,120
+Ford Pantera L,93
+Mazda RX4 Wag,104
+Merc 450SLC,96
+Toyota Corona,100
+Cadillac Fleetwood,147
+Pontiac Firebird,120
+Lotus Europa,112
+Mazda RX4 Wag,111
+Dodge Challenger,93
+Volvo 142E,89
+Merc 280C,130
+Merc 240D,151
+Toyota Corona,81
+Hornet Sportabout,150
+Merc 240D,128
+Pontiac Firebird,113
+Cadillac Fleetwood,142
+Mazda RX4 Wag,97
+Mazda RX4 Wag,95
+Hornet Sportabout,132
+Camaro Z28,149
+Volvo 142E,90
+Pontiac Firebird,120
+Lotus Europa,104
+Duster 360,143
+Duster 360,150
+AMC Javelin,136
+AMC Javelin,147
+Maserati Bora,109
+Merc 450SLC,128
+Merc 450SLC,130
+Fiat X1-9,101
+Datsun 710,151
+Ford Pantera L,99
+Valiant,102
+Valiant,93
+Ford Pantera L,82
+Pontiac Firebird,118
+Hornet Sportabout,163
+Duster 360,148
+Merc 450SL,85
+Porsche 914-2,108
+Merc 230,145
+Volvo 142E,96
+AMC Javelin,141
+Pontiac Firebird,130
+Merc 450SL,101
+Merc 280,134
+Cadillac Fleetwood,114
+Valiant,71
+Lotus Europa,105
+Camaro Z28,142
+Datsun 710,129
+Merc 450SL,92
+Chrysler Imperial,107
+Chrysler Imperial,120
+Volvo 142E,95
+Maserati Bora,120
+Toyota Corolla,106
+Pontiac Firebird,105
+Merc 280,149
+Pontiac Firebird,134
+Hornet 4 Drive,122
+Merc 230,127
+Merc 280C,142
+Merc 450SE,132
+Lincoln Continental,141
+Datsun 710,152
+Toyota Corolla,116
+Ferrari Dino,148
+Volvo 142E,79
+Toyota Corona,104
+Fiat 128,116
+Merc 280,142
+Pontiac Firebird,134
+Honda Civic,119
+Merc 280C,141
+Volvo 142E,89
+Merc 450SLC,129
+Pontiac Firebird,113
+AMC Javelin,146
+Honda Civic,146
+Maserati Bora,135
+Merc 450SL,89
+Pontiac Firebird,123
+Merc 450SLC,133
+Merc 230,120
+Porsche 914-2,103
+Datsun 710,125
+Cadillac Fleetwood,130
+Camaro Z28,154
+Porsche 914-2,104
+Merc 230,112
+Chrysler Imperial,140
+Valiant,103
+Volvo 142E,86
+Valiant,104
+Merc 280,129
+Porsche 914-2,107
+Merc 450SLC,108
+Porsche 914-2,103
+Lincoln Continental,158
+Merc 280C,144
+Fiat X1-9,114
+Duster 360,135
+Merc 230,119
+Merc 240D,135
+Hornet Sportabout,137
+Pontiac Firebird,119
+Cadillac Fleetwood,126
+Dodge Challenger,111
+Valiant,94
+Toyota Corona,98
+Merc 450SLC,127
+Pontiac Firebird,117
+Valiant,101
+Merc 240D,135
+Datsun 710,144
+Camaro Z28,153
+Dodge Challenger,104
+Duster 360,124
+Hornet Sportabout,142
+Toyota Corolla,105
+Fiat X1-9,121
+Pontiac Firebird,111
+Datsun 710,108
+Ferrari Dino,146
+Fiat X1-9,86
+Merc 450SL,99
+Ferrari Dino,143
+Mazda RX4 Wag,111
+Pontiac Firebird,112
+Merc 450SLC,133
+Porsche 914-2,105
+Toyota Corona,116
+Merc 450SLC,112
+Fiat X1-9,109
+Volvo 142E,82
+Merc 450SLC,99
+Hornet Sportabout,149
+AMC Javelin,144
+Merc 280C,141
+Datsun 710,125
+Mazda RX4 Wag,104
+Merc 230,132
+Merc 280,147
+AMC Javelin,165
+Merc 450SE,142
+Honda Civic,119
+Fiat X1-9,97
+Lotus Europa,103
+Volvo 142E,103
+Hornet Sportabout,153
+Lotus Europa,111
+Camaro Z28,150
+AMC Javelin,148
+Duster 360,130
+Merc 240D,160
+Merc 280,149
+Merc 240D,136
+Cadillac Fleetwood,148
+Fiat X1-9,100
+Maserati Bora,127
+Camaro Z28,138
+Porsche 914-2,112
+Camaro Z28,145
+Merc 450SL,89
+Merc 280,139
+Fiat X1-9,122
+Merc 240D,119
+Dodge Challenger,112
+Dodge Challenger,90
+Duster 360,129
+Merc 450SLC,121
+Hornet 4 Drive,155
+Camaro Z28,135
+Hornet 4 Drive,135
+Volvo 142E,77
+Chrysler Imperial,126
+Merc 240D,122
+Ferrari Dino,141
+Porsche 914-2,96
+Hornet Sportabout,146
+Merc 240D,136
+Lotus Europa,89
+Dodge Challenger,113
+Fiat X1-9,89
+Merc 280,144
+Honda Civic,145
+Merc 450SE,155
+Porsche 914-2,99
+Dodge Challenger,122
+Merc 450SL,101
+Volvo 142E,89
+Duster 360,131
+Ford Pantera L,91
+Duster 360,139
+Duster 360,127
+Merc 240D,154
+Hornet 4 Drive,120
+Cadillac Fleetwood,121
+Maserati Bora,114
+Pontiac Firebird,114
+Porsche 914-2,104
+Porsche 914-2,97
+Chrysler Imperial,137
+Merc 230,119
+Merc 230,111
+Merc 280,132
+Merc 450SE,116
+Volvo 142E,114
+Merc 280C,167
+Maserati Bora,140
+Fiat X1-9,117
+Cadillac Fleetwood,115
+Hornet 4 Drive,130
+Dodge Challenger,95
+Merc 280C,126
+Merc 450SLC,147
+Maserati Bora,126
+Merc 230,146
+Volvo 142E,88
+Camaro Z28,135
+Cadillac Fleetwood,118
+Mazda RX4 Wag,102
+Ford Pantera L,93
+AMC Javelin,134
+Hornet Sportabout,148
+Duster 360,125
+Maserati Bora,125
+Merc 450SLC,110
+Merc 230,115
+Hornet Sportabout,138
+Chrysler Imperial,147
+Porsche 914-2,118
+Camaro Z28,140
+Ford Pantera L,99
+Ferrari Dino,135
+Merc 240D,129
+Merc 450SLC,104
+Merc 450SLC,120
+Honda Civic,143
+Duster 360,130
+Valiant,94
+Fiat X1-9,111
+Pontiac Firebird,112
+Merc 230,124
+Hornet 4 Drive,129
+Ford Pantera L,87
+Valiant,98
+Fiat 128,96
+Hornet 4 Drive,119
+Merc 240D,159
+Lotus Europa,94
+Camaro Z28,158
+Fiat X1-9,116
+Pontiac Firebird,115
+Merc 280,146
+Maserati Bora,127
+Camaro Z28,141
+Porsche 914-2,86
+Fiat X1-9,103
+Merc 280,134
+Lotus Europa,88
+Cadillac Fleetwood,143
+Camaro Z28,144
+Merc 450SLC,107
+Pontiac Firebird,113
+Merc 280C,149
+Fiat 128,95
+Mazda RX4 Wag,125
+Fiat 128,119
+Datsun 710,135
+Lotus Europa,114
+Merc 450SE,140
+Pontiac Firebird,140
+Chrysler Imperial,129
+Datsun 710,137
+Toyota Corona,94
+Dodge Challenger,98
+Dodge Challenger,97
+Chrysler Imperial,128
+Honda Civic,122
+Merc 240D,146
+Porsche 914-2,100
+Merc 280,151
+Merc 240D,139
+Volvo 142E,91
+Maserati Bora,127
+Merc 450SE,140
+Lotus Europa,118
+Merc 450SE,146
+Toyota Corolla,92
+Merc 450SE,145
+Fiat 128,82
+Merc 450SLC,122
+Merc 280,135
+Merc 240D,138
+Merc 230,139
+Pontiac Firebird,119
+Hornet Sportabout,139
+Datsun 710,143
+Lincoln Continental,131
+Mazda RX4 Wag,112
+Maserati Bora,132
+Honda Civic,142
+Volvo 142E,92
+Merc 230,114
+Fiat 128,108
+Merc 280C,151
+AMC Javelin,156
+Merc 280,127
+Merc 280C,147
+Camaro Z28,142
+Chrysler Imperial,117
+Merc 240D,126
+Honda Civic,146
+Lotus Europa,100
+Datsun 710,145
+Hornet Sportabout,137
+Hornet Sportabout,121
+Porsche 914-2,110
+Merc 450SLC,110
+Cadillac Fleetwood,138
+Toyota Corona,113
+Fiat X1-9,112
+Maserati Bora,136
+AMC Javelin,137
+Fiat 128,113
+Pontiac Firebird,146
+Datsun 710,140
+Merc 280C,133
+Lotus Europa,104
+Pontiac Firebird,111
+Maserati Bora,147
+Duster 360,133
+Fiat X1-9,119
+Toyota Corolla,102
+Merc 450SE,141
+Lincoln Continental,141
+Hornet Sportabout,139
+Ferrari Dino,119
+Valiant,118
+AMC Javelin,144
+Duster 360,120
+Merc 230,119
+Porsche 914-2,81
+Pontiac Firebird,138
+Lotus Europa,89
+AMC Javelin,148
+Porsche 914-2,118
+Duster 360,132
+Honda Civic,133
+Cadillac Fleetwood,133
+Volvo 142E,82
+Lotus Europa,102
+Mazda RX4 Wag,113
+Lincoln Continental,147
+Cadillac Fleetwood,139
+Merc 230,118
+Mazda RX4 Wag,102
+Honda Civic,141
+Dodge Challenger,89
+Merc 450SE,142
+Honda Civic,133
+Porsche 914-2,103
+Valiant,123
+Hornet Sportabout,131
+Merc 230,117
+Ferrari Dino,136
+Fiat 128,94
+Merc 280,143
+Fiat 128,104
+Porsche 914-2,109
+Porsche 914-2,107
+Ferrari Dino,141
+Merc 450SLC,132
+Valiant,104
+Fiat X1-9,110
+Valiant,100
+Fiat X1-9,123
+Hornet Sportabout,140
+Fiat X1-9,131
+Duster 360,113
+Pontiac Firebird,105
+Merc 450SLC,111
+Lotus Europa,98
+Merc 450SE,160
+Maserati Bora,130
+Cadillac Fleetwood,133
+Merc 230,144
+Ferrari Dino,144
+Ferrari Dino,129
+Merc 280,142
+Merc 450SL,91
+Honda Civic,138
+Duster 360,144
+Duster 360,136
+Merc 450SL,113
+Merc 230,121
+Camaro Z28,150
+AMC Javelin,146
+Dodge Challenger,114
+Camaro Z28,155
+Datsun 710,123
+Cadillac Fleetwood,142
+Chrysler Imperial,132
+Pontiac Firebird,134
+Datsun 710,131
+Merc 450SL,84
+Pontiac Firebird,122
+Hornet Sportabout,140
+Merc 450SLC,125
+Honda Civic,141
+AMC Javelin,160
+Valiant,117
+Merc 280,156
+Camaro Z28,156
+Duster 360,134
+Merc 450SL,122
+AMC Javelin,141
+Pontiac Firebird,98
+Lotus Europa,108
+Camaro Z28,140
+Hornet 4 Drive,136
+Merc 450SL,102
+Mazda RX4 Wag,95
+Hornet Sportabout,159
+Pontiac Firebird,118
+Merc 450SLC,123
+Toyota Corona,86
+Camaro Z28,144
+Merc 450SLC,117
+Merc 280C,142
+Hornet Sportabout,131
+Merc 450SLC,120
+Honda Civic,145
+Duster 360,131
+Honda Civic,124
+Mazda RX4 Wag,89
+Honda Civic,145
+Cadillac Fleetwood,133
+Cadillac Fleetwood,148
+Merc 240D,141
+Honda Civic,127
+Dodge Challenger,113
+Porsche 914-2,95
+Merc 280,132
+AMC Javelin,139
+Honda Civic,140
+Ferrari Dino,138
+Duster 360,112
+Dodge Challenger,98
+Valiant,117
+Lincoln Continental,152
+Merc 240D,146
+Merc 280C,141
+AMC Javelin,140
+Ferrari Dino,125
+Camaro Z28,126
+Lotus Europa,87
+Ford Pantera L,102
+Merc 230,130
+Merc 450SE,150
+Toyota Corolla,114
+Ford Pantera L,85
+Ferrari Dino,152
+Fiat X1-9,116
+Merc 450SLC,128
+Hornet Sportabout,139
+Honda Civic,137
+Valiant,77
+Hornet Sportabout,115
+Fiat 128,103
+Fiat X1-9,113
+Merc 280,146
+Maserati Bora,112
+Fiat X1-9,101
+Ferrari Dino,132
+Merc 280C,147
+Maserati Bora,131
+AMC Javelin,157
+Honda Civic,135
+Merc 450SE,138
+Datsun 710,129
+Porsche 914-2,107
+Merc 450SE,139
+Cadillac Fleetwood,130
+Fiat X1-9,107
+Lincoln Continental,153
+Hornet Sportabout,150
+Merc 280C,144
+Merc 280,115
+Dodge Challenger,102
+Camaro Z28,137
+Merc 230,122
+Fiat 128,92
+Mazda RX4 Wag,100
+Duster 360,145
+Maserati Bora,122
+Chrysler Imperial,131
+Ford Pantera L,99
+Merc 280C,143
+Datsun 710,137
+Maserati Bora,141
+Lotus Europa,103
+Merc 450SL,84
+Hornet Sportabout,143
+Pontiac Firebird,106
+Mazda RX4 Wag,107
+Hornet Sportabout,156
+Dodge Challenger,84
+Merc 240D,129
+Ferrari Dino,134
+Merc 280C,129
+Valiant,77
+Merc 240D,132
+Camaro Z28,142
+Merc 280C,158
+Hornet 4 Drive,129
+Ford Pantera L,94
+Valiant,99
+Lotus Europa,111
+Ferrari Dino,138
+Valiant,110
+Hornet 4 Drive,122
+Hornet Sportabout,152
+Camaro Z28,149
+Volvo 142E,102
+Ford Pantera L,88
+Cadillac Fleetwood,139
+Merc 230,124
+Chrysler Imperial,135
+Ford Pantera L,108
+Datsun 710,142
+Honda Civic,146
+Mazda RX4 Wag,113
+Datsun 710,129
+Hornet 4 Drive,133
+Merc 450SL,93
+Porsche 914-2,98
+Pontiac Firebird,107
+Volvo 142E,95
+Porsche 914-2,115
+Dodge Challenger,103
+Camaro Z28,131
+Merc 280C,145
+Honda Civic,146
+Volvo 142E,98
+Pontiac Firebird,107
+Volvo 142E,100
+Merc 450SL,87
+Mazda RX4 Wag,101
+Volvo 142E,84
+Hornet 4 Drive,143
+Camaro Z28,161
+Merc 240D,118
+Pontiac Firebird,115
+Merc 230,124
+Pontiac Firebird,103
+Dodge Challenger,98
+Valiant,102
+Honda Civic,127
+Maserati Bora,118
+Ferrari Dino,120
+Camaro Z28,154
+Honda Civic,141
+Honda Civic,122
+Pontiac Firebird,113
+Toyota Corona,119
+Honda Civic,132
+Dodge Challenger,93
+Cadillac Fleetwood,122
+Hornet 4 Drive,124
+Mazda RX4 Wag,92
+Duster 360,132
+Merc 230,115
+Maserati Bora,122
+Cadillac Fleetwood,130
+Mazda RX4 Wag,114
+Merc 240D,131
+Merc 280C,124
+Chrysler Imperial,115
+Lotus Europa,105
+Volvo 142E,101
+Volvo 142E,90
+Fiat X1-9,90
+Maserati Bora,139
+Merc 450SE,162
+Hornet 4 Drive,138
+Volvo 142E,108
+Hornet 4 Drive,114
+Fiat X1-9,135
+Valiant,70
+Ferrari Dino,137
+Merc 280,145
+Duster 360,135
+Mazda RX4 Wag,118
+Merc 450SL,96
+Valiant,106
+Merc 230,124
+AMC Javelin,155
+Toyota Corona,86
+Dodge Challenger,109
+Merc 280,131
+Volvo 142E,85
+Toyota Corolla,113
+Merc 280C,146
+Merc 240D,145
+Honda Civic,145
+AMC Javelin,152
+Lotus Europa,98
+Mazda RX4 Wag,103
+Datsun 710,130
+Merc 280,162
+Duster 360,119
+Volvo 142E,72
+Camaro Z28,158
+Hornet 4 Drive,131
+Ferrari Dino,148
+Duster 360,119
+Honda Civic,141
+Lincoln Continental,149
+Cadillac Fleetwood,131
+Ferrari Dino,139
+Camaro Z28,141
+Merc 280,147
+Camaro Z28,140
+Porsche 914-2,109
+Mazda RX4 Wag,110
+Ford Pantera L,86
+Mazda RX4 Wag,108
+Merc 450SLC,129
+Honda Civic,131
+Honda Civic,124
+Ferrari Dino,131
+Hornet 4 Drive,149
+Lincoln Continental,147
+AMC Javelin,150
+Hornet Sportabout,134
+Maserati Bora,110
+Merc 240D,125
+Toyota Corolla,107
+Ford Pantera L,90
+Honda Civic,132
+Valiant,102
+Merc 280,148
+Fiat 128,106
+Merc 450SL,100
+Pontiac Firebird,110
+Volvo 142E,99
+Valiant,97
+Valiant,95
+Ford Pantera L,84
+Pontiac Firebird,117
+Merc 450SLC,121
+Merc 280,136
+Lotus Europa,94
+Merc 450SLC,114
+Merc 450SLC,110
+Volvo 142E,93
+Merc 450SE,138
+Camaro Z28,155
+Camaro Z28,159
+Dodge Challenger,103
+Merc 450SE,134
+Honda Civic,143
+Cadillac Fleetwood,129
+Dodge Challenger,126
+Dodge Challenger,113
+Merc 240D,144
+Cadillac Fleetwood,135
+Merc 450SE,141
+Merc 450SLC,116
+Ford Pantera L,100
+Merc 230,114
+Merc 450SLC,120
+Cadillac Fleetwood,132
+Camaro Z28,152
+Hornet Sportabout,138
+Mazda RX4 Wag,102
+Duster 360,143
+Ford Pantera L,90
+Merc 450SLC,109
+Merc 230,111
+Merc 450SE,128
+Pontiac Firebird,115
+Hornet Sportabout,142
+Volvo 142E,89
+Cadillac Fleetwood,136
+Camaro Z28,147
+Valiant,101
+Hornet 4 Drive,156
+Merc 230,109
+Lotus Europa,127
+Merc 240D,143
+Toyota Corona,84
+Toyota Corona,96
+Maserati Bora,134
+Lincoln Continental,158
+Merc 450SE,153
+Merc 450SE,136
+Ferrari Dino,147
+Toyota Corona,111
+Pontiac Firebird,111
+Mazda RX4 Wag,111
+Hornet 4 Drive,127
+Merc 450SE,144
+Chrysler Imperial,144
+Datsun 710,140
+Merc 450SL,103
+Lincoln Continental,154
+AMC Javelin,159
+Duster 360,150
+Lotus Europa,107
+Duster 360,120
+Lotus Europa,123
+Merc 280,130
+Porsche 914-2,98
+Toyota Corolla,102
+Fiat X1-9,101
+Merc 230,121
+Dodge Challenger,109
+Merc 230,126
+Datsun 710,120
+Fiat X1-9,97
+Maserati Bora,131
+Ferrari Dino,139
+Ford Pantera L,100
+Fiat X1-9,120
+Hornet Sportabout,134
+Merc 450SE,131
+Valiant,91
+Honda Civic,142
+Honda Civic,136
+Honda Civic,127
+Pontiac Firebird,112
+Volvo 142E,106
+Fiat X1-9,131
+Toyota Corona,96
+Mazda RX4 Wag,112
+Valiant,89
+Dodge Challenger,116
+Dodge Challenger,102
+Cadillac Fleetwood,134
+Merc 450SLC,118
+Hornet Sportabout,121
+Mazda RX4 Wag,113
+Ferrari Dino,138
+Mazda RX4 Wag,97
+Merc 450SL,84
+Ford Pantera L,103
+Merc 450SL,99
+Datsun 710,122
+Maserati Bora,121
+Fiat 128,84
+Merc 280C,158
+Lincoln Continental,111
+Chrysler Imperial,128
+Cadillac Fleetwood,143
+Ford Pantera L,82
+Merc 230,138
+Merc 450SL,93
+Merc 280,128
+Ferrari Dino,132
+Toyota Corolla,92
+Merc 450SLC,126
+Valiant,112
+Merc 450SL,88
+Valiant,108
+Lotus Europa,105
+Valiant,107
+Ferrari Dino,143
+Merc 230,129
+Porsche 914-2,100
+Merc 230,141
+Duster 360,135
+Fiat 128,83
+Merc 450SLC,122
+Honda Civic,137
+Merc 450SLC,128
+Valiant,98
+Merc 280,135
+Honda Civic,138
+Merc 280,130
+Valiant,97
+Fiat 128,107
+Merc 450SLC,130
+Honda Civic,125
+Datsun 710,147
+Datsun 710,139
+Duster 360,130
+Fiat X1-9,108
+Merc 240D,125
+Merc 280,150
+Lotus Europa,102
+Merc 280,131
+Honda Civic,145
+Merc 450SLC,126
+Fiat 128,102
+Merc 450SL,96
+Hornet 4 Drive,129
+Valiant,116
+Duster 360,134
+Merc 230,125
+Volvo 142E,111
+Camaro Z28,146
+Honda Civic,152
+Porsche 914-2,79
+Hornet 4 Drive,129
+Pontiac Firebird,124
+Fiat X1-9,94
+Ford Pantera L,80
+Cadillac Fleetwood,123
+Honda Civic,140
+Datsun 710,111
+Maserati Bora,124
+Mazda RX4 Wag,102
+Cadillac Fleetwood,133
+Hornet Sportabout,136
+Merc 450SLC,108
+Merc 280,132
+Dodge Challenger,101
+Ford Pantera L,87
+Merc 450SL,117
+Ford Pantera L,72
+Dodge Challenger,124
+Merc 280,142
+Fiat X1-9,132
+Toyota Corolla,111
+Merc 450SL,99
+Mazda RX4 Wag,78
+Lotus Europa,129
+Datsun 710,134
+Lotus Europa,98
+Duster 360,141
+Datsun 710,136
+Toyota Corolla,119
+Merc 450SE,152
+Lincoln Continental,128
+Merc 450SE,140
+Mazda RX4 Wag,95
+AMC Javelin,145
+Merc 450SE,137
+Hornet Sportabout,137
+Merc 280,142
+Camaro Z28,135
+Maserati Bora,143
+Lotus Europa,107
+Volvo 142E,96
+Hornet Sportabout,129
+Pontiac Firebird,120
+Maserati Bora,117
+Lotus Europa,90
+Merc 450SL,99
+Merc 230,130
+Hornet 4 Drive,132
+AMC Javelin,155
+Pontiac Firebird,127
+Honda Civic,128
+Merc 450SLC,110
+Merc 450SE,132
+Ferrari Dino,140
+Lotus Europa,125
+Fiat X1-9,129
+Fiat X1-9,101
+Lotus Europa,121
+Honda Civic,137
+Merc 280C,141
+Datsun 710,137
+Merc 280C,138
+Mazda RX4 Wag,96
+Valiant,92
+Honda Civic,152
+Maserati Bora,120
+Merc 450SLC,131
+Dodge Challenger,110
+Merc 450SE,129
+Pontiac Firebird,114
+Merc 230,125
+Lotus Europa,102
+Dodge Challenger,107
+AMC Javelin,140
+Merc 450SLC,121
+Ferrari Dino,146
+Volvo 142E,86
+Fiat 128,106
+Merc 230,128
+Honda Civic,137
+AMC Javelin,165
+Lotus Europa,118
+Pontiac Firebird,125
+Camaro Z28,149
+AMC Javelin,125
+Valiant,101
+Pontiac Firebird,118
+Datsun 710,128
+Pontiac Firebird,105
+Valiant,94
+AMC Javelin,136
+Pontiac Firebird,136
+Lincoln Continental,132
+Datsun 710,143
+Merc 230,132
+Hornet 4 Drive,128
+Merc 450SL,109
+Hornet 4 Drive,137
+Pontiac Firebird,127
+Pontiac Firebird,129
+Merc 280C,136
+Honda Civic,125
+Toyota Corona,100
+Valiant,106
+Chrysler Imperial,140
+Volvo 142E,90
+Merc 280C,138
+Fiat X1-9,114
+Valiant,98
+Hornet 4 Drive,132
+Dodge Challenger,94
+Honda Civic,141
+Dodge Challenger,103
+Hornet Sportabout,135
+Merc 450SL,93
+Datsun 710,133
+Ferrari Dino,145
+AMC Javelin,136
+Merc 450SE,136
+Honda Civic,138
+Fiat 128,95
+Lotus Europa,107
+Ferrari Dino,126
+Hornet Sportabout,134
+Merc 450SE,134
+Dodge Challenger,103
+Mazda RX4 Wag,111
+Ferrari Dino,151
+Merc 280C,160
+Merc 450SLC,135
+Dodge Challenger,91
+Datsun 710,143
+Ford Pantera L,88
+Datsun 710,122
+Datsun 710,112
+Valiant,118
+Hornet Sportabout,136
+Mazda RX4 Wag,97
+Toyota Corona,107
+Fiat X1-9,118
+Hornet 4 Drive,121
+Merc 450SE,141
+Fiat 128,81
+Mazda RX4 Wag,106
+Merc 450SE,154
+Honda Civic,119
+Fiat X1-9,114
+Merc 450SE,134
+Volvo 142E,95
+Camaro Z28,128
+Hornet 4 Drive,125
+AMC Javelin,146
+Lotus Europa,92
+Pontiac Firebird,126
+Honda Civic,131
+Pontiac Firebird,127
+Merc 450SLC,115
+Merc 230,136
+Dodge Challenger,103
+Merc 280,160
+Mazda RX4 Wag,116
+Porsche 914-2,124
+Merc 280,152
+Camaro Z28,148
+Honda Civic,149
+Merc 450SE,148
+Mazda RX4 Wag,119
+Camaro Z28,138
+Mazda RX4 Wag,126
+Datsun 710,118
+Valiant,107
+Valiant,88
+Merc 450SLC,118
+Fiat 128,96
+Merc 240D,130
+Ford Pantera L,77
+Volvo 142E,87
+Merc 450SLC,123
+Merc 280C,136
+Hornet Sportabout,146
+Merc 280C,169
+Dodge Challenger,89
+Toyota Corona,116
+Volvo 142E,68
+Cadillac Fleetwood,148
+Pontiac Firebird,121
+Toyota Corona,107
+Merc 240D,165
+Duster 360,149
+Merc 450SLC,119
+Fiat 128,83
+Chrysler Imperial,151
+Merc 450SLC,129
+Duster 360,129
+Hornet Sportabout,129
+Datsun 710,128
+Lincoln Continental,144
+Camaro Z28,147
+Honda Civic,126
+Hornet 4 Drive,131
+Duster 360,125
+Cadillac Fleetwood,137
+Honda Civic,141
+Porsche 914-2,92
+Merc 280C,126
+Merc 240D,147
+Merc 230,128
+Merc 450SLC,128
+Ferrari Dino,127
+Hornet 4 Drive,146
+Hornet Sportabout,128
+Honda Civic,133
+Merc 230,127
+Cadillac Fleetwood,117
+Camaro Z28,130
+Porsche 914-2,101
+Datsun 710,126
+Ferrari Dino,134
+Datsun 710,128
+Merc 450SLC,142
+Ford Pantera L,71
+Merc 280C,136
+Volvo 142E,98
+Ford Pantera L,73
+Duster 360,135
+Mazda RX4 Wag,98
+Ferrari Dino,125
+Fiat X1-9,115
+Camaro Z28,163
+Fiat 128,103
+Dodge Challenger,98
+Lotus Europa,82
+Camaro Z28,138
+Valiant,112
+Ford Pantera L,90
+Valiant,102
+Merc 280C,152
+Valiant,108
+Merc 450SLC,122
+Cadillac Fleetwood,144
+Merc 280C,145
+Valiant,96
+Merc 280C,131
+Hornet Sportabout,136
+Valiant,97
+Merc 450SE,122
+Merc 230,124
+AMC Javelin,164
+Hornet Sportabout,149
+Toyota Corona,95
+Merc 280,133
+Hornet Sportabout,134
+Merc 230,116
+Cadillac Fleetwood,133
+Cadillac Fleetwood,148
+Mazda RX4 Wag,86
+Merc 450SL,96
+AMC Javelin,144
+Camaro Z28,138
+Merc 450SE,140
+Hornet Sportabout,154
+Cadillac Fleetwood,135
+Pontiac Firebird,102
+Pontiac Firebird,123
+Valiant,92
+Pontiac Firebird,122
+Chrysler Imperial,155
+Camaro Z28,151
+Camaro Z28,145
+Camaro Z28,124
+Merc 450SE,137
+Datsun 710,139
+Toyota Corolla,108
+Mazda RX4 Wag,90
+Merc 280,148
+Merc 450SL,94
+Ferrari Dino,137
+Duster 360,111
+Merc 280C,154
+Mazda RX4 Wag,116
+Mazda RX4 Wag,106
+Hornet 4 Drive,142
+Dodge Challenger,107
+Hornet 4 Drive,108
+Merc 240D,140
+Volvo 142E,86
+Merc 230,134
+Merc 280,143
+Merc 280C,151
+Hornet Sportabout,151
+Merc 280,133
+Cadillac Fleetwood,132
+Toyota Corona,80
+Merc 230,118
+Volvo 142E,97
+Pontiac Firebird,115
+Duster 360,125
+Merc 280C,150
+Hornet 4 Drive,127
+Valiant,92
+Merc 280,148
+Volvo 142E,78
+Duster 360,135
+Toyota Corona,94
+Camaro Z28,147
+Fiat X1-9,116
+Merc 230,125
+Fiat 128,116
+Volvo 142E,87
+Merc 280,139
+Merc 450SLC,114
+Merc 280,136
+Merc 280,140
+Hornet Sportabout,129
+Merc 280,142
+Hornet 4 Drive,137
+Fiat X1-9,112
+Merc 450SE,144
+Merc 230,117
+Merc 450SE,159
+Dodge Challenger,103
+Dodge Challenger,100
+AMC Javelin,153
+Porsche 914-2,91
+Datsun 710,137
+Merc 280C,144
+Porsche 914-2,112
+Dodge Challenger,107
+Pontiac Firebird,113
+Fiat 128,96
+Valiant,101
+Duster 360,133
+Fiat 128,114
+Merc 280,142
+Dodge Challenger,107
+Maserati Bora,126
+Merc 280,132
+Merc 450SE,151
+Toyota Corona,93
+Datsun 710,130
+Honda Civic,135
+Valiant,93
+Volvo 142E,90
+Maserati Bora,124
+Lotus Europa,108
+Fiat X1-9,127
+Pontiac Firebird,114
+Datsun 710,116
+Toyota Corona,103
+Merc 450SLC,108
+Hornet Sportabout,129
+Merc 230,111
+Merc 450SLC,108
+Merc 450SE,151
+Volvo 142E,94
+Valiant,106
+Chrysler Imperial,127
+Lotus Europa,107
+Hornet Sportabout,143
+Hornet Sportabout,143
+Hornet Sportabout,118
+Valiant,94
+Dodge Challenger,104
+Datsun 710,148
+Pontiac Firebird,135
+Merc 280,126
+Duster 360,135
+Merc 450SLC,123
+Mazda RX4 Wag,97
+Volvo 142E,98
+Fiat 128,100
+Toyota Corona,94
+Pontiac Firebird,126
+Honda Civic,144
+Ford Pantera L,112
+Fiat 128,107
+Porsche 914-2,126
+Hornet 4 Drive,125
+Toyota Corolla,100
+Pontiac Firebird,134
+Cadillac Fleetwood,139
+Merc 450SLC,123
+Honda Civic,153
+Merc 280,158
+Valiant,110
+Toyota Corolla,91
+Volvo 142E,104
+Lotus Europa,105
+Toyota Corona,90
+Maserati Bora,124
+Toyota Corolla,117
+Merc 230,117
+Valiant,98
+Valiant,85
+Honda Civic,131
+Camaro Z28,148
+Valiant,97
+Toyota Corona,90
+Valiant,104
+Mazda RX4 Wag,104
+Merc 230,128
+Duster 360,147
+Hornet Sportabout,131
+Porsche 914-2,100
+Merc 280C,137
+Merc 450SE,153
+Duster 360,118
+Duster 360,147
+Maserati Bora,133
+Volvo 142E,91
+Volvo 142E,95
+Honda Civic,134
+Pontiac Firebird,110
+Merc 280,138
+Datsun 710,124
+Valiant,86
+Hornet Sportabout,156
+Toyota Corolla,84
+Pontiac Firebird,129
+Cadillac Fleetwood,131
+Porsche 914-2,117
+Merc 230,142
+Porsche 914-2,100
+Honda Civic,126
+Valiant,89
+Porsche 914-2,112
+Mazda RX4 Wag,76
+Ferrari Dino,134
+Ford Pantera L,106
+Valiant,104
+Ford Pantera L,77
+Hornet 4 Drive,115
+Volvo 142E,74
+Dodge Challenger,102
+Lotus Europa,90
+Merc 280,135
+Maserati Bora,122
+Merc 240D,138
+Lotus Europa,92
+Honda Civic,131
+Honda Civic,140
+AMC Javelin,150
+Valiant,111
+Merc 450SE,160
+Merc 280,129
+Fiat X1-9,130
+Pontiac Firebird,112
+Datsun 710,150
+Merc 450SLC,113
+Fiat X1-9,124
+Valiant,83
+Merc 230,122
+Merc 450SL,106
+Lincoln Continental,154
+Volvo 142E,88
+Dodge Challenger,105
+Merc 450SL,95
+Fiat X1-9,102
+Merc 450SLC,131
+Cadillac Fleetwood,130
+Merc 450SE,144
+Duster 360,134
+Chrysler Imperial,134
+Merc 280,151
+Merc 240D,130
+Merc 450SE,144
+Hornet Sportabout,140
+Merc 280C,132
+Merc 280C,140
+Lotus Europa,102
+Hornet 4 Drive,143
+Mazda RX4 Wag,120
+Lotus Europa,96
+Porsche 914-2,96
+Merc 450SE,136
+Mazda RX4 Wag,110
+Merc 450SLC,123
+Camaro Z28,154
+Ferrari Dino,153
+Hornet 4 Drive,126
+Valiant,86
+Hornet Sportabout,141
+Hornet Sportabout,134
+Merc 450SE,141
+Merc 450SLC,107
+Toyota Corona,66
+Pontiac Firebird,110
+Merc 240D,144
+Duster 360,129
+Ferrari Dino,116
+Valiant,91
+Merc 280,142
+Camaro Z28,145
+Camaro Z28,146
+Fiat 128,91
+Merc 450SLC,133
+Merc 450SL,93
+Hornet Sportabout,142
+Ferrari Dino,152
+Merc 230,115
+Honda Civic,123
+Honda Civic,130
+AMC Javelin,148
+Toyota Corona,92
+Fiat X1-9,94
+Volvo 142E,74
+Honda Civic,141
+Datsun 710,155
+AMC Javelin,155
+Merc 230,130
+Fiat X1-9,130
+Camaro Z28,149
+Merc 230,139
+Fiat 128,111
+Ford Pantera L,93
+Toyota Corolla,91
+Toyota Corolla,89
+Merc 280,136
+Merc 450SLC,115
+Hornet 4 Drive,136
+Merc 280,152
+Merc 230,149
+AMC Javelin,139
+Merc 280,143
+Toyota Corona,76
+Lotus Europa,102
+Merc 230,132
+Pontiac Firebird,123
+Fiat X1-9,124
+Mazda RX4 Wag,79
+Maserati Bora,153
+Merc 280,145
+Toyota Corona,109
+Toyota Corolla,104
+Hornet Sportabout,122
+AMC Javelin,144
+Dodge Challenger,103
+Lotus Europa,112
+AMC Javelin,147
+Merc 450SE,145
+Cadillac Fleetwood,140
+Toyota Corona,102
+Ferrari Dino,153
+Duster 360,136
+Ford Pantera L,96
+Hornet Sportabout,128
+Volvo 142E,88
+Dodge Challenger,121
+Merc 450SLC,135
+Merc 280,131
+Chrysler Imperial,120
+Lotus Europa,93
+Hornet 4 Drive,120
+Maserati Bora,130
+Honda Civic,123
+Toyota Corona,92
+Dodge Challenger,115
+Merc 240D,145
+Ferrari Dino,121
+Cadillac Fleetwood,144
+Lotus Europa,112
+Merc 450SE,137
+Merc 450SE,133
+Merc 280,131
+Merc 450SE,119
+Valiant,94
+Honda Civic,120
+Hornet Sportabout,136
+Duster 360,141
+Merc 450SE,139
+Dodge Challenger,106
+Mazda RX4 Wag,87
+Datsun 710,139
+Hornet Sportabout,153
+Toyota Corona,99
+Duster 360,136
+Datsun 710,162
+Merc 280C,157
+Hornet 4 Drive,116
+Fiat X1-9,123
+Camaro Z28,140
+Merc 280,128
+Camaro Z28,146
+Fiat X1-9,126
+Ford Pantera L,96
+Merc 450SL,97
+Ford Pantera L,81
+Dodge Challenger,103
+Honda Civic,131
+Merc 280C,150
+Datsun 710,150
+Dodge Challenger,105
+Camaro Z28,140
+Valiant,94
+Merc 280,139
+Honda Civic,139
+Fiat X1-9,110
+Merc 280,154
+Merc 450SLC,126
+Mazda RX4 Wag,111
+Ford Pantera L,117
+Pontiac Firebird,132
+Honda Civic,139
+Hornet Sportabout,148
+Cadillac Fleetwood,134
+Porsche 914-2,96
+AMC Javelin,137
+Merc 450SE,141
+Dodge Challenger,89
+Lotus Europa,102
+Dodge Challenger,97
+Merc 230,132
+Valiant,126
+Hornet 4 Drive,133
+Camaro Z28,143
+Valiant,94
+Merc 280C,159
+AMC Javelin,148
+Merc 450SLC,125
+AMC Javelin,166
+Camaro Z28,165
+Hornet Sportabout,136
+Merc 450SE,146
+Merc 240D,132
+Ford Pantera L,102
+Pontiac Firebird,116
+Camaro Z28,140
+Volvo 142E,78
+Merc 450SE,128
+Merc 280C,127
+Fiat X1-9,116
+Merc 450SLC,105
+Honda Civic,130
+Fiat X1-9,112
+Camaro Z28,155
+Maserati Bora,120
+Chrysler Imperial,150
+Merc 240D,150
+Mazda RX4 Wag,118
+Merc 450SE,140
+Ferrari Dino,132
+Merc 450SLC,109
+Pontiac Firebird,104
+Merc 450SL,108
+Pontiac Firebird,107
+Volvo 142E,106
+Porsche 914-2,108
+Dodge Challenger,92
+Fiat 128,87
+Hornet 4 Drive,140
+Lotus Europa,116
+Merc 230,140
+Dodge Challenger,116
+Merc 240D,142
+Mazda RX4 Wag,109
+Lotus Europa,111
+Hornet 4 Drive,136
+Merc 450SE,141
+Hornet 4 Drive,129
+Honda Civic,127
+Ford Pantera L,92
+Merc 230,113
+Merc 450SLC,109
+Ford Pantera L,96
+Valiant,87
+Dodge Challenger,108
+Honda Civic,129
+Valiant,103
+Lotus Europa,95
+Merc 450SE,145
+Datsun 710,133
+Toyota Corona,112
+Valiant,97
+Fiat X1-9,124
+Lotus Europa,99
+Merc 230,132
+Merc 450SL,81
+Pontiac Firebird,123
+Datsun 710,122
+Porsche 914-2,108
+Toyota Corona,87
+Datsun 710,134
+Merc 230,105
+Hornet Sportabout,138
+Hornet 4 Drive,130
+Valiant,86
+Fiat 128,96
+Volvo 142E,104
+Ford Pantera L,98
+Valiant,97
+Hornet Sportabout,137
+Honda Civic,139
+Merc 450SL,90
+Fiat X1-9,99
+Camaro Z28,144
+Lotus Europa,102
+Honda Civic,130
+Mazda RX4 Wag,106
+Ferrari Dino,117
+Porsche 914-2,114
+Hornet 4 Drive,120
+Maserati Bora,124
+Duster 360,132
+Cadillac Fleetwood,127
+Ferrari Dino,150
+Hornet Sportabout,145
+Merc 280C,137
+Merc 450SE,139
+Duster 360,119
+Merc 450SE,138
+Camaro Z28,156
+Lotus Europa,87
+Toyota Corona,113
+Hornet 4 Drive,144
+Merc 450SE,135
+Toyota Corolla,95
+Camaro Z28,155
+Valiant,102
+Hornet 4 Drive,120
+Valiant,126
+Merc 450SE,154
+Lincoln Continental,157
+Merc 280,114
+Merc 450SL,106
+Merc 280,128
+Merc 450SE,151
+Duster 360,140
+Porsche 914-2,105
+Volvo 142E,83
+Camaro Z28,147
+Pontiac Firebird,102
+Dodge Challenger,119
+Lincoln Continental,147
+Lotus Europa,87
+Hornet Sportabout,158
+Dodge Challenger,86
+Dodge Challenger,113
+Pontiac Firebird,113
+Volvo 142E,91
+Maserati Bora,130
+Lotus Europa,100
+Valiant,104
+Lotus Europa,106
+Pontiac Firebird,128
+Ferrari Dino,152
+Volvo 142E,102
+Hornet 4 Drive,121
+Camaro Z28,161
+Chrysler Imperial,129
+Honda Civic,127
+Maserati Bora,122
+Duster 360,133
+Chrysler Imperial,139
+Porsche 914-2,92
+Hornet Sportabout,150
+Merc 450SE,136
+Dodge Challenger,106
+Ferrari Dino,152
+Mazda RX4 Wag,96
+Maserati Bora,121
+Merc 450SLC,102
+Valiant,83
+Merc 450SLC,117
+Lotus Europa,87
+Hornet Sportabout,100
+Merc 280C,122
+Camaro Z28,157
+Duster 360,136
+Merc 240D,129
+Duster 360,132
+Merc 450SLC,130
+Ferrari Dino,131
+Dodge Challenger,101
+Toyota Corolla,113
+Volvo 142E,83
+Valiant,98
+Hornet 4 Drive,139
+Honda Civic,151
+Pontiac Firebird,115
+Dodge Challenger,95
+Camaro Z28,146
+Pontiac Firebird,129
+Merc 450SL,85
+Hornet Sportabout,147
+Hornet Sportabout,134
+Mazda RX4 Wag,108
+Merc 450SE,162
+Mazda RX4 Wag,106
+Cadillac Fleetwood,142
+Merc 450SE,144
+Porsche 914-2,104
+Merc 450SLC,118
+Merc 450SE,134
+Volvo 142E,94
+Honda Civic,135
+Camaro Z28,150
+Valiant,99
+Maserati Bora,145
+Mazda RX4 Wag,105
+Merc 280C,133
+Datsun 710,119
+Merc 280C,155
+Hornet 4 Drive,123
+Merc 230,111
+Ferrari Dino,114
+Merc 280,145
+Camaro Z28,162
+Hornet Sportabout,129
+AMC Javelin,167
+Merc 240D,135
+Ferrari Dino,133
+Merc 450SE,154
+Duster 360,132
+Hornet 4 Drive,113
+Valiant,99
+Ferrari Dino,120
+Ford Pantera L,103
+Honda Civic,125
+Camaro Z28,146
+Valiant,87
+Fiat X1-9,115
+Hornet 4 Drive,145
+Valiant,96
+Porsche 914-2,94
+Datsun 710,141
+Valiant,106
+Merc 280,151
+Porsche 914-2,120
+Fiat X1-9,97
+Valiant,96
+Volvo 142E,95
+Pontiac Firebird,131
+Dodge Challenger,103
+Hornet 4 Drive,130
+Datsun 710,137
+Lincoln Continental,169
+Merc 450SLC,98
+Datsun 710,144
+Camaro Z28,137
+AMC Javelin,150
+Honda Civic,128
+Honda Civic,121
+Merc 450SE,155
+Merc 280C,151
+Toyota Corona,93
+Camaro Z28,137
+Merc 280C,135
+Dodge Challenger,106
+Merc 450SLC,119
+Hornet 4 Drive,139
+Mazda RX4 Wag,98
+Merc 450SLC,121
+Merc 230,124
+Merc 450SL,80
+Honda Civic,135
+Toyota Corona,96
+Hornet Sportabout,159
+Hornet Sportabout,136
+Toyota Corolla,92
+Cadillac Fleetwood,133
+Datsun 710,140
+Merc 450SE,113
+Honda Civic,134
+Volvo 142E,99
+Toyota Corolla,103
+Ferrari Dino,133
+Merc 280,135
+Merc 450SLC,140
+AMC Javelin,145
+Honda Civic,152
+Camaro Z28,146
+Hornet 4 Drive,130
+Mazda RX4 Wag,108
+Dodge Challenger,114
+Maserati Bora,138
+Lotus Europa,124
+Duster 360,129
+Duster 360,132
+Merc 230,132
+Datsun 710,132
+Hornet 4 Drive,127
+Valiant,109
+Porsche 914-2,104
+AMC Javelin,158
+Dodge Challenger,96
+Honda Civic,147
+AMC Javelin,146
+Datsun 710,137
+Volvo 142E,78
+Porsche 914-2,117
+Camaro Z28,143
+Merc 280,148
+Valiant,92
+Fiat X1-9,101
+Camaro Z28,146
+Fiat 128,88
+AMC Javelin,143
+Fiat X1-9,101
+Mazda RX4 Wag,96
+Fiat X1-9,109
+Ford Pantera L,84
+Merc 230,129
+Fiat 128,100
+Volvo 142E,96
+Toyota Corolla,84
+Volvo 142E,81
+Duster 360,152
+Pontiac Firebird,113
+Ford Pantera L,112
+Merc 450SLC,110
+Merc 280,142
+Mazda RX4 Wag,103
+Merc 450SL,101
+AMC Javelin,145
+Duster 360,123
+Camaro Z28,133
+Pontiac Firebird,112
+Merc 450SL,92
+Merc 450SLC,134
+Fiat X1-9,113
+Honda Civic,145
+Merc 280C,147
+Hornet 4 Drive,135
+Fiat X1-9,113
+Porsche 914-2,99
+Valiant,98
+Merc 230,134
+Cadillac Fleetwood,125
+Porsche 914-2,100
+Merc 280,138
+Duster 360,139
+Merc 450SL,78
+Honda Civic,120
+Ferrari Dino,138
+Toyota Corolla,92
+Merc 230,119
+Hornet Sportabout,143
+Valiant,112
+Duster 360,123
+Duster 360,138
+Volvo 142E,92
+Duster 360,136
+Merc 450SLC,119
+Valiant,95
+Chrysler Imperial,123
+Mazda RX4 Wag,107
+Merc 280C,149
+Porsche 914-2,106
+Valiant,113
+Merc 230,133
+Lincoln Continental,133
+Hornet 4 Drive,136
+Cadillac Fleetwood,120
+Merc 280C,137
+Maserati Bora,129
+Porsche 914-2,111
+Merc 450SE,150
+Pontiac Firebird,126
+Hornet 4 Drive,137
+Merc 280,153
+Pontiac Firebird,114
+Porsche 914-2,116
+Fiat 128,94
+Merc 450SLC,116
+Honda Civic,126
+Ferrari Dino,119
+Honda Civic,132
+Camaro Z28,140
+Mazda RX4 Wag,94
+Merc 450SL,87
+Valiant,82
+Fiat X1-9,82
+Toyota Corona,101
+Maserati Bora,106
+Valiant,118
+Pontiac Firebird,126
+Datsun 710,151
+Mazda RX4 Wag,104
+Merc 280,121
+Ford Pantera L,103
+Pontiac Firebird,116
+Maserati Bora,115
+Pontiac Firebird,105
+Duster 360,119
+Merc 240D,114
+Fiat X1-9,98
+Lotus Europa,101
+Merc 450SL,115
+Camaro Z28,154
+Maserati Bora,133
+Datsun 710,136
+Ford Pantera L,107
+Hornet 4 Drive,149
+Toyota Corona,86
+Merc 280,155
+Camaro Z28,165
+Merc 450SLC,132
+Merc 450SE,137
+Duster 360,133
+Merc 230,127
+Lotus Europa,110
+Merc 450SE,161
+Merc 280C,156
+Merc 450SLC,118
+Lotus Europa,102
+Toyota Corona,85
+Merc 280C,152
+Pontiac Firebird,102
+Valiant,116
+Merc 230,115
+Honda Civic,125
+AMC Javelin,139
+Ferrari Dino,134
+Volvo 142E,94
+AMC Javelin,145
+Merc 450SLC,101
+Toyota Corona,93
+Pontiac Firebird,139
+Merc 280C,159
+Merc 450SE,135
+Fiat 128,100
+AMC Javelin,156
+Duster 360,140
+Hornet 4 Drive,141
+Toyota Corolla,112
+AMC Javelin,149
+Cadillac Fleetwood,135
+Porsche 914-2,109
+Merc 240D,132
+Chrysler Imperial,143
+Merc 230,111
+Merc 450SLC,118
+Maserati Bora,126
+Cadillac Fleetwood,147
+Pontiac Firebird,95
+Duster 360,117
+Hornet Sportabout,131
+Hornet Sportabout,142
+Pontiac Firebird,126
+Volvo 142E,92
+Merc 450SE,155
+Maserati Bora,137
+Honda Civic,131
+Dodge Challenger,97
+Ford Pantera L,87
+Duster 360,129
+Pontiac Firebird,129
+Ferrari Dino,138
+Dodge Challenger,104
+Merc 280C,137
+Porsche 914-2,129
+AMC Javelin,141
+Lotus Europa,88
+Hornet Sportabout,141
+Merc 450SL,107
+Hornet Sportabout,128
+Lotus Europa,81
+Ferrari Dino,144
+Camaro Z28,154
+Hornet 4 Drive,142
+Ford Pantera L,81
+Volvo 142E,92
+Honda Civic,125
+Merc 280C,142
+Merc 280C,135
+Porsche 914-2,83
+Volvo 142E,93
+Merc 450SE,145
+Volvo 142E,108
+Merc 450SL,107
+Duster 360,138
+Lincoln Continental,126
+Maserati Bora,140
+Merc 280C,150
+Porsche 914-2,112
+AMC Javelin,164
+Datsun 710,132
+Datsun 710,134
+Merc 450SE,139
+Lotus Europa,99
+AMC Javelin,144
+Merc 230,108
+Merc 240D,143
+Hornet Sportabout,153
+Merc 450SLC,112
+Honda Civic,130
+Cadillac Fleetwood,137
+Hornet Sportabout,142
+AMC Javelin,140
+Valiant,97
+Volvo 142E,90
+Merc 450SE,132
+Merc 240D,132
+Toyota Corona,88
+Duster 360,137
+Volvo 142E,101
+Hornet 4 Drive,119
+Valiant,106
+Volvo 142E,92
+Chrysler Imperial,134
+Hornet Sportabout,135
+Duster 360,119
+Duster 360,135
+Hornet 4 Drive,129
+Porsche 914-2,107
+Datsun 710,125
+Merc 230,134
+Datsun 710,142
+Ford Pantera L,95
+Hornet Sportabout,138
+Ford Pantera L,100
+Duster 360,145
+Porsche 914-2,115
+Hornet Sportabout,137
+Fiat X1-9,94
+Merc 450SE,142
+Merc 280,147
+Fiat 128,92
+Porsche 914-2,107
+Ferrari Dino,141
+Hornet Sportabout,150
+Fiat X1-9,118
+Merc 280,142
+Duster 360,129
+Volvo 142E,86
+Lotus Europa,98
+Ford Pantera L,90
+Merc 450SLC,116
+Lotus Europa,111
+Datsun 710,119
+Toyota Corolla,118
+Volvo 142E,95
+Camaro Z28,150
+Volvo 142E,94
+Merc 240D,113
+Hornet 4 Drive,128
+Hornet 4 Drive,138
+Merc 450SE,146
+Merc 450SE,151
+Merc 450SL,112
+Hornet Sportabout,137
+Pontiac Firebird,127
+Mazda RX4 Wag,116
+Merc 240D,142
+AMC Javelin,162
+Porsche 914-2,121
+Dodge Challenger,85
+Datsun 710,152
+Maserati Bora,142
+Ford Pantera L,107
+Duster 360,131
+Fiat X1-9,120
+Fiat X1-9,129
+Lotus Europa,98
+Ferrari Dino,147
+Merc 450SE,144
+Merc 280C,132
+Merc 450SL,98
+Fiat 128,100
+Merc 230,121
+Porsche 914-2,115
+Merc 450SL,97
+Hornet Sportabout,145
+Merc 280,141
+Lotus Europa,109
+Lincoln Continental,145
+Camaro Z28,151
+Merc 450SL,107
+Merc 230,132
+Merc 230,121
+Merc 450SL,89
+Maserati Bora,136
+Volvo 142E,99
+Merc 450SE,140
+Toyota Corolla,107
+Merc 450SL,100
+Merc 450SLC,118
+Merc 450SLC,122
+Merc 280,136
+Merc 240D,136
+Merc 450SL,92
+Pontiac Firebird,135
+Valiant,108
+Ford Pantera L,83
+Ford Pantera L,89
+Hornet 4 Drive,124
+Honda Civic,129
+Valiant,101
+Valiant,105
+Dodge Challenger,106
+Ferrari Dino,128
+Ferrari Dino,143
+Chrysler Imperial,158
+Duster 360,146
+Hornet Sportabout,145
+AMC Javelin,149
+Merc 450SE,144
+Merc 280C,139
+Datsun 710,138
+Porsche 914-2,106
+Cadillac Fleetwood,128
+Merc 230,126
+Merc 280C,131
+Merc 240D,140
+Fiat X1-9,146
+Camaro Z28,131
+Lotus Europa,107
+Pontiac Firebird,125
+Valiant,109
+Lotus Europa,109
+Merc 450SL,99
+Merc 450SLC,109
+Merc 450SE,120
+Volvo 142E,97
+Hornet 4 Drive,127
+Valiant,84
+Merc 280,142
+Merc 230,129
+Merc 230,150
+Toyota Corolla,94
+Merc 450SL,97
+Hornet 4 Drive,133
+Fiat X1-9,126
+Pontiac Firebird,113
+Merc 230,101
+Merc 450SE,136
+Hornet Sportabout,134
+Merc 450SE,130
+Merc 230,130
+Fiat X1-9,99
+Pontiac Firebird,111
+Duster 360,136
+Duster 360,123
+Merc 240D,140
+Pontiac Firebird,116
+Mazda RX4 Wag,99
+Lincoln Continental,133
+Merc 450SLC,116
+Valiant,101
+AMC Javelin,153
+Cadillac Fleetwood,141
+Merc 450SE,142
+Camaro Z28,162
+Merc 450SLC,136
+Hornet 4 Drive,131
+Merc 230,124
+Fiat 128,110
+Toyota Corona,85
+Ferrari Dino,149
+Honda Civic,139
+Merc 280,128
+Merc 230,127
+Merc 450SLC,135
+Ferrari Dino,149
+Mazda RX4 Wag,106
+Merc 450SE,144
+Merc 450SLC,116
+Fiat 128,97
+Merc 450SL,87
+Mazda RX4 Wag,100
+Merc 450SLC,101
+Toyota Corolla,124
+Merc 280C,141
+Chrysler Imperial,122
+Volvo 142E,89
+Dodge Challenger,103
+Pontiac Firebird,131
+Volvo 142E,99
+Lotus Europa,99
+Merc 450SLC,112
+Hornet 4 Drive,128
+Cadillac Fleetwood,132
+Dodge Challenger,118
+Hornet Sportabout,129
+Merc 280C,144
+Chrysler Imperial,130
+Dodge Challenger,110
+Volvo 142E,86
+Datsun 710,131
+Merc 280C,151
+Volvo 142E,85
+Honda Civic,121
+Fiat X1-9,114
+Maserati Bora,142
+Fiat X1-9,128
+Chrysler Imperial,136
+Toyota Corona,109
+Toyota Corolla,115
+Merc 230,130
+Ferrari Dino,139
+Merc 240D,140
+AMC Javelin,140
+Merc 280C,152
+Merc 450SLC,114
+Merc 450SL,75
+Ford Pantera L,99
+Porsche 914-2,116
+Porsche 914-2,105
+Honda Civic,139
+Maserati Bora,140
+AMC Javelin,141
+Hornet Sportabout,139
+AMC Javelin,143
+Valiant,97
+Maserati Bora,131
+Hornet Sportabout,139
+Hornet Sportabout,135
+Valiant,95
+Merc 450SLC,105
+Hornet 4 Drive,126
+Camaro Z28,143
+Fiat 128,99
+Dodge Challenger,87
+Camaro Z28,147
+Ford Pantera L,109
+Volvo 142E,90
+Duster 360,133
+Cadillac Fleetwood,120
+Merc 450SL,91
+Ferrari Dino,146
+Lincoln Continental,122
+Datsun 710,140
+Volvo 142E,86
+Merc 240D,144
+Merc 240D,131
+Lotus Europa,95
+Volvo 142E,111
+Merc 230,148
+Fiat X1-9,114
+Merc 450SLC,107
+Pontiac Firebird,131
+Merc 450SLC,96
+Pontiac Firebird,106
+Lincoln Continental,149
+Merc 450SE,130
+Toyota Corona,98
+Merc 280,112
+Lincoln Continental,141
+Merc 280,137
+Lotus Europa,112
+Duster 360,150
+Lotus Europa,72
+Hornet 4 Drive,136
+Merc 450SLC,128
+Dodge Challenger,92
+Camaro Z28,148
+Merc 450SLC,98
+Toyota Corolla,116
+Cadillac Fleetwood,116
+Merc 450SL,113
+Duster 360,144
+Lotus Europa,111
+Datsun 710,149
+Camaro Z28,160
+Camaro Z28,144
+Dodge Challenger,115
+Pontiac Firebird,121
+Merc 230,130
+Merc 280C,132
+Maserati Bora,129
+Dodge Challenger,109
+Ford Pantera L,98
+Honda Civic,131
+Pontiac Firebird,134
+Camaro Z28,149
+Merc 280C,132
+Merc 280C,134
+Ford Pantera L,101
+AMC Javelin,154
+Merc 450SE,137
+Toyota Corona,78
+Hornet Sportabout,120
+Merc 230,125
+Merc 280,139
+Camaro Z28,141
+Valiant,99
+Lincoln Continental,137
+Hornet 4 Drive,120
+Duster 360,133
+Porsche 914-2,106
+Merc 450SLC,130
+Merc 240D,147
+Volvo 142E,96
+Merc 280C,143
+Camaro Z28,134
+Dodge Challenger,110
+Lincoln Continental,157
+Merc 230,131
+Hornet Sportabout,133
+Merc 450SE,128
+Mazda RX4 Wag,99
+Hornet 4 Drive,120
+Duster 360,125
+Merc 240D,132
+Volvo 142E,77
+Merc 450SE,155
+Datsun 710,118
+Hornet Sportabout,139
+Hornet 4 Drive,130
+Ferrari Dino,139
+Honda Civic,135
+Volvo 142E,91
+AMC Javelin,165
+Honda Civic,150
+Cadillac Fleetwood,145
+Datsun 710,135
+Volvo 142E,80
+Duster 360,154
+Merc 230,132
+Ferrari Dino,143
+Cadillac Fleetwood,121
+Merc 450SLC,104
+Merc 280C,153
+Fiat X1-9,87
+Valiant,99
+Toyota Corona,90
+Merc 450SLC,122
+Fiat 128,98
+Merc 230,122
+Mazda RX4 Wag,106
+Duster 360,158
+Chrysler Imperial,117
+Merc 450SLC,116
+Merc 230,123
+Merc 450SE,143
+Hornet 4 Drive,139
+Merc 230,105
+Merc 450SE,145
+Merc 450SE,149
+Maserati Bora,95
+Mazda RX4 Wag,94
+Merc 280C,155
+Duster 360,135
+Hornet 4 Drive,118
+Pontiac Firebird,120
+Ford Pantera L,90
+Toyota Corolla,117
+Merc 240D,133
+Valiant,92
+Mazda RX4 Wag,93
+Fiat 128,102
+Pontiac Firebird,112
+Merc 240D,125
+Merc 240D,128
+Valiant,90
+Camaro Z28,155
+Camaro Z28,147
+Hornet Sportabout,130
+Porsche 914-2,104
+Merc 450SE,149
+Duster 360,132
+Merc 450SL,85
+Hornet Sportabout,147
+Merc 240D,142
+Fiat X1-9,92
+Honda Civic,126
+Merc 450SLC,117
+Honda Civic,138
+Honda Civic,134
+Duster 360,136
+Honda Civic,123
+Merc 230,137
+Fiat 128,96
+Lincoln Continental,126
+Fiat X1-9,101
+Cadillac Fleetwood,134
+Merc 450SLC,129
+Pontiac Firebird,108
+Honda Civic,139
+Ford Pantera L,108
+Maserati Bora,124
+Porsche 914-2,125
+Ferrari Dino,140
+Pontiac Firebird,125
+Pontiac Firebird,115
+Pontiac Firebird,97
+Merc 450SLC,108
+Mazda RX4 Wag,108
+Pontiac Firebird,109
+Volvo 142E,97
+Pontiac Firebird,122
+Merc 450SLC,130
+Valiant,93
+Merc 230,142
+Merc 280,130
+Merc 450SL,105
+AMC Javelin,141
+Merc 240D,129
+Valiant,96
+Honda Civic,145
+Pontiac Firebird,111
+Honda Civic,149
+Pontiac Firebird,109
+Hornet Sportabout,130
+Camaro Z28,140
+Toyota Corolla,113
+Datsun 710,133
+Pontiac Firebird,104
+Datsun 710,137
+Volvo 142E,99
+Hornet 4 Drive,141
+Pontiac Firebird,129
+Merc 450SL,101
+Toyota Corona,95
+Valiant,110
+Datsun 710,126
+Ferrari Dino,130
+Valiant,106
+Fiat X1-9,110
+Merc 280C,146
+Mazda RX4 Wag,112
+Hornet Sportabout,125
+Merc 240D,136
+Merc 450SL,106
+Cadillac Fleetwood,130
+Cadillac Fleetwood,142
+Pontiac Firebird,127
+Fiat X1-9,110
+Merc 280,164
+Ferrari Dino,136
+Pontiac Firebird,132
+Fiat 128,92
+Ferrari Dino,159
+Merc 280C,135
+Merc 280,142
+Toyota Corona,92
+Lincoln Continental,158
+Merc 450SLC,116
+Ferrari Dino,139
+Ferrari Dino,126
+Merc 230,121
+Merc 450SLC,129
+Porsche 914-2,106
+Merc 280,133
+Valiant,115
+Mazda RX4 Wag,107
+Merc 450SL,110
+Volvo 142E,87
+Merc 280,125
+Hornet Sportabout,149
+Merc 450SLC,128
+Fiat X1-9,108
+Merc 280,138
+Duster 360,136
+Merc 450SLC,145
+Valiant,104
+Valiant,105
+Honda Civic,135
+Ferrari Dino,127
+Merc 450SLC,112
+Lotus Europa,93
+Pontiac Firebird,118
+Merc 450SE,145
+Valiant,91
+Ferrari Dino,123
+Merc 280,133
+Merc 450SE,136
+Mazda RX4 Wag,111
+Merc 450SLC,122
+Honda Civic,158
+Merc 450SE,147
+Hornet 4 Drive,139
+Cadillac Fleetwood,141
+Honda Civic,159
+Merc 280,142
+Ford Pantera L,93
+Merc 450SLC,112
+Duster 360,136
+Merc 280,131
+Camaro Z28,123
+Merc 280,127
+Toyota Corolla,122
+Maserati Bora,124
+Volvo 142E,118
+Volvo 142E,91
+Ferrari Dino,132
+Merc 240D,139
+Maserati Bora,129
+Duster 360,126
+Merc 240D,143
+Fiat 128,107
+Merc 450SLC,119
+Merc 450SE,144
+Honda Civic,146
+Porsche 914-2,106
+Merc 450SLC,113
+Porsche 914-2,97
+Merc 280C,139
+Lotus Europa,89
+Merc 450SE,158
+Merc 280,148
+Pontiac Firebird,129
+Camaro Z28,157
+Lotus Europa,99
+Merc 450SLC,106
+Hornet Sportabout,136
+AMC Javelin,158
+Mazda RX4 Wag,111
+Porsche 914-2,94
+Valiant,100
+Merc 280,136
+Honda Civic,123
+Merc 450SE,132
+Merc 230,121
+Lincoln Continental,165
+Toyota Corolla,119
+Volvo 142E,66
+Hornet Sportabout,150
+Duster 360,134
+Porsche 914-2,117
+Duster 360,119
+Lincoln Continental,158
+Cadillac Fleetwood,122
+Merc 450SLC,122
+Merc 450SE,151
+Merc 230,126
+Volvo 142E,88
+Merc 450SE,151
+Lotus Europa,89
+Honda Civic,138
+Hornet Sportabout,143
+Lotus Europa,104
+Ford Pantera L,96
+Honda Civic,125
+Merc 450SLC,126
+Valiant,115
+Datsun 710,134
+Pontiac Firebird,117
+Cadillac Fleetwood,116
+Merc 280C,147
+Hornet 4 Drive,132
+Honda Civic,138
+Hornet Sportabout,141
+Ford Pantera L,92
+Volvo 142E,88
+Duster 360,128
+Hornet Sportabout,154
+Volvo 142E,81
+Datsun 710,143
+Merc 450SE,135
+Hornet 4 Drive,145
+Fiat X1-9,112
+Volvo 142E,105
+Pontiac Firebird,112
+Pontiac Firebird,120
+Valiant,94
+Cadillac Fleetwood,129
+Mazda RX4 Wag,108
+Merc 230,127
+Volvo 142E,99
+Merc 230,130
+Merc 280C,132
+Valiant,91
+AMC Javelin,161
+Hornet Sportabout,140
+AMC Javelin,147
+Camaro Z28,169
+Ferrari Dino,136
+Toyota Corona,83
+Lotus Europa,75
+Merc 280,141
+Merc 450SLC,126
+Merc 450SLC,116
+Merc 450SLC,104
+Merc 240D,139
+Hornet 4 Drive,153
+Chrysler Imperial,139
+Ford Pantera L,81
+Merc 280,132
+Datsun 710,115
+Hornet 4 Drive,124
+Honda Civic,131
+Merc 450SE,142
+Merc 240D,110
+Merc 280C,160
+Merc 280C,145
+Volvo 142E,97
+Camaro Z28,152
+Merc 450SLC,113
+Hornet 4 Drive,121
+Lincoln Continental,127
+Merc 240D,138
+Fiat 128,111
+Merc 230,119
+Dodge Challenger,100
+Ford Pantera L,75
+Fiat X1-9,125
+Merc 230,124
+Fiat X1-9,120
+Merc 280C,142
+Pontiac Firebird,118
+Toyota Corona,104
+AMC Javelin,142
+Fiat 128,121
+Ferrari Dino,135
+Volvo 142E,81
+Volvo 142E,79
+Valiant,88
+Mazda RX4 Wag,99
+AMC Javelin,144
+Valiant,99
+AMC Javelin,147
+Merc 450SL,106
+Fiat 128,97
+Hornet Sportabout,149
+Merc 240D,143
+Mazda RX4 Wag,113
+Merc 450SE,143
+Merc 450SLC,126
+Datsun 710,131
+Merc 230,116
+Volvo 142E,87
+Valiant,107
+Mazda RX4 Wag,118
+Pontiac Firebird,128
+Toyota Corona,91
+Merc 450SL,79
+Camaro Z28,155
+Lotus Europa,89
+Ford Pantera L,65
+Datsun 710,130
+Merc 280C,141
+AMC Javelin,146
+Merc 450SLC,123
+AMC Javelin,146
+Fiat X1-9,110
+Merc 450SL,102
+Maserati Bora,119
+Merc 280C,142
+Fiat X1-9,109
+Duster 360,139
+Camaro Z28,161
+Merc 450SE,141
+Merc 450SE,140
+Ferrari Dino,131
+Merc 280,140
+Cadillac Fleetwood,121
+Ford Pantera L,84
+Ford Pantera L,93
+Toyota Corolla,104
+Porsche 914-2,99
+Hornet 4 Drive,152
+Datsun 710,146
+Fiat X1-9,106
+Camaro Z28,152
+Merc 240D,121
+Valiant,105
+Mazda RX4 Wag,107
+Volvo 142E,96
+Hornet Sportabout,142
+Merc 230,135
+Honda Civic,138
+Fiat X1-9,119
+Datsun 710,125
+Fiat X1-9,120
+Merc 450SL,100
+Hornet Sportabout,142
+AMC Javelin,143
+Chrysler Imperial,146
+Merc 450SLC,123
+Hornet 4 Drive,131
+Duster 360,133
+Duster 360,139
+Merc 450SLC,127
+Merc 280C,154
+Valiant,93
+Lotus Europa,84
+Merc 230,134
+Lincoln Continental,161
+Merc 450SE,136
+Toyota Corona,91
+Toyota Corolla,115
+Mazda RX4 Wag,104
+Pontiac Firebird,129
+Merc 280C,146
+Merc 280C,152
+Toyota Corona,91
+Datsun 710,143
+Fiat X1-9,115
+Maserati Bora,140
+Merc 450SLC,132
+Mazda RX4 Wag,101
+Hornet Sportabout,130
+Toyota Corolla,100
+Fiat X1-9,118
+Merc 450SLC,109
+Merc 450SLC,117
+Ford Pantera L,87
+Toyota Corona,86
+Camaro Z28,143
+Datsun 710,138
+AMC Javelin,156
+Merc 280,148
+AMC Javelin,160
+Pontiac Firebird,116
+Dodge Challenger,106
+Dodge Challenger,118
+Merc 230,119
+Mazda RX4 Wag,112
+Merc 280,132
+Camaro Z28,147
+Duster 360,114
+Merc 450SE,156
+Merc 280,132
+Mazda RX4 Wag,107
+Lotus Europa,104
+Toyota Corona,97
+Cadillac Fleetwood,129
+Maserati Bora,122
+Pontiac Firebird,116
+Cadillac Fleetwood,137
+Merc 280C,140
+Pontiac Firebird,106
+Hornet Sportabout,137
+Fiat X1-9,109
+Merc 240D,133
+Fiat 128,95
+Chrysler Imperial,143
+Cadillac Fleetwood,131
+Merc 280C,140
+Toyota Corona,86
+Merc 450SE,157
+Pontiac Firebird,123
+Toyota Corolla,107
+Cadillac Fleetwood,131
+Volvo 142E,91
+Merc 280,146
+Mazda RX4 Wag,93
+Merc 240D,126
+Volvo 142E,74
+Merc 280C,145
+Maserati Bora,127
+AMC Javelin,156
+Hornet 4 Drive,121
+Merc 450SL,89
+Duster 360,123
+Camaro Z28,160
+Fiat 128,130
+Pontiac Firebird,130
+Merc 280,163
+Honda Civic,131
+Fiat 128,107
+Merc 230,119
+Honda Civic,126
+Merc 280,124
+Porsche 914-2,109
+Hornet Sportabout,143
+Pontiac Firebird,133
+Merc 280,137
+Toyota Corona,98
+Hornet 4 Drive,146
+Hornet Sportabout,134
+Honda Civic,127
+Pontiac Firebird,124
+Merc 280,146
+Honda Civic,122
+Fiat 128,107
+Hornet Sportabout,148
+Merc 450SE,140
+Pontiac Firebird,117
+Ford Pantera L,77
+Duster 360,139
+Ferrari Dino,138
+Valiant,111
+Merc 280C,151
+Volvo 142E,116
+Duster 360,138
+Camaro Z28,177
+Datsun 710,126
+Ford Pantera L,89
+Merc 230,123
+Merc 280,151
+Merc 230,119
+Camaro Z28,155
+Dodge Challenger,101
+Fiat 128,107
+Merc 450SE,153
+Honda Civic,140
+Datsun 710,156
+Merc 450SLC,123
+Merc 280C,131
+Pontiac Firebird,126
+Maserati Bora,133
+Cadillac Fleetwood,126
+Pontiac Firebird,131
+Merc 450SE,135
+AMC Javelin,146
+Valiant,99
+Ford Pantera L,83
+Dodge Challenger,122
+Toyota Corona,89
+Honda Civic,138
+Pontiac Firebird,121
+Honda Civic,139
+Lincoln Continental,141
+Merc 450SLC,106
+Hornet Sportabout,150
+Camaro Z28,147
+Ferrari Dino,125
+Chrysler Imperial,121
+Merc 230,134
+Merc 280,142
+Hornet Sportabout,121
+Camaro Z28,128
+Pontiac Firebird,128
+Cadillac Fleetwood,124
+Pontiac Firebird,139
+Lotus Europa,111
+Toyota Corona,109
+Pontiac Firebird,123
+Datsun 710,139
+Datsun 710,129
+Valiant,96
+Valiant,98
+Mazda RX4 Wag,86
+Lincoln Continental,142
+Chrysler Imperial,112
+Hornet 4 Drive,123
+Merc 450SE,145
+Camaro Z28,156
+Merc 280,148
+Duster 360,141
+Maserati Bora,112
+Merc 450SL,84
+Honda Civic,145
+Lotus Europa,112
+Cadillac Fleetwood,130
+Valiant,104
+Porsche 914-2,103
+Mazda RX4 Wag,102
+Pontiac Firebird,113
+Honda Civic,140
+Merc 280,149
+Duster 360,130
+Merc 280,133
+Volvo 142E,94
+Valiant,108
+Duster 360,136
+Mazda RX4 Wag,101
+Merc 280,154
+Camaro Z28,142
+Honda Civic,134
+Ford Pantera L,98
+Merc 230,141
+Duster 360,142
+Ferrari Dino,135
+Camaro Z28,160
+Porsche 914-2,110
+Lincoln Continental,132
+Duster 360,113
+Merc 230,118
+Ford Pantera L,120
+Datsun 710,138
+AMC Javelin,147
+Honda Civic,140
+Duster 360,122
+Maserati Bora,114
+Fiat X1-9,118
+Lotus Europa,99
+Honda Civic,129
+Camaro Z28,131
+Cadillac Fleetwood,141
+Chrysler Imperial,151
+Duster 360,127
+Pontiac Firebird,108
+Hornet Sportabout,145
+Valiant,107
+Maserati Bora,132
+Ford Pantera L,101
+Datsun 710,136
+Cadillac Fleetwood,124
+Pontiac Firebird,109
+Pontiac Firebird,133
+Fiat 128,95
+Hornet Sportabout,136
+Porsche 914-2,109
+Merc 280C,141
+Lotus Europa,98
+Camaro Z28,150
+Merc 280C,145
+Merc 450SLC,125
+Ford Pantera L,96
+Fiat 128,88
+Dodge Challenger,101
+Pontiac Firebird,125
+Merc 230,130
+Maserati Bora,133
+Toyota Corolla,99
+Hornet Sportabout,139
+Lincoln Continental,133
+Merc 450SE,143
+Volvo 142E,77
+Volvo 142E,97
+Porsche 914-2,110
+Toyota Corona,111
+Cadillac Fleetwood,135
+Hornet Sportabout,152
+Honda Civic,134
+Honda Civic,140
+Merc 230,103
+Merc 450SLC,119
+Merc 450SE,152
+Merc 450SE,139
+Datsun 710,135
+Toyota Corona,92
+Datsun 710,135
+Duster 360,124
+Merc 450SLC,141
+Fiat X1-9,117
+Hornet 4 Drive,141
+Lotus Europa,97
+Merc 450SE,163
+Hornet Sportabout,139
+Merc 280,143
+Porsche 914-2,104
+Fiat X1-9,107
+Merc 450SLC,104
+Merc 240D,142
+Fiat 128,107
+Merc 280,145
+Fiat 128,94
+Fiat X1-9,105
+Lotus Europa,107
+Hornet 4 Drive,129
+Fiat X1-9,129
+Fiat X1-9,106
+Valiant,92
+AMC Javelin,161
+Merc 240D,125
+Mazda RX4 Wag,117
+Pontiac Firebird,124
+Hornet Sportabout,147
+Valiant,109
+Merc 280,163
+Ferrari Dino,124
+Porsche 914-2,99
+Duster 360,120
+Cadillac Fleetwood,131
+Cadillac Fleetwood,123
+Volvo 142E,89
+AMC Javelin,136
+Chrysler Imperial,126
+Fiat X1-9,117
+Ferrari Dino,116
+Fiat 128,87
+Merc 450SE,143
+Volvo 142E,107
+Merc 280,141
+Duster 360,119
+Lotus Europa,102
+Hornet Sportabout,134
+Valiant,101
+Merc 450SL,116
+Merc 450SLC,127
+Fiat X1-9,125
+Merc 240D,141
+Fiat X1-9,102
+Dodge Challenger,109
+Duster 360,131
+Chrysler Imperial,131
+Duster 360,148
+Merc 450SLC,131
+Cadillac Fleetwood,128
+Fiat X1-9,100
+Merc 230,124
+Datsun 710,133
+Ford Pantera L,85
+Cadillac Fleetwood,141
+Lotus Europa,112
+Merc 280,175
+Valiant,102
+Cadillac Fleetwood,123
+Lotus Europa,86
+Duster 360,125
+Hornet Sportabout,130
+Datsun 710,133
+Pontiac Firebird,120
+Ford Pantera L,92
+Fiat X1-9,122
+Hornet Sportabout,129
+Ferrari Dino,142
+Hornet 4 Drive,139
+Camaro Z28,152
+Pontiac Firebird,125
+Merc 280C,160
+Merc 280,139
+Toyota Corona,97
+AMC Javelin,151
+Lincoln Continental,145
+Porsche 914-2,102
+Pontiac Firebird,111
+Merc 280,145
+Hornet 4 Drive,132
+Lincoln Continental,127
+Toyota Corolla,113
+Camaro Z28,146
+Honda Civic,123
+Lotus Europa,80
+Merc 450SE,149
+Duster 360,148
+Toyota Corona,96
+Mazda RX4 Wag,95
+Merc 450SLC,124
+AMC Javelin,137
+Duster 360,138
+Toyota Corolla,89
+Valiant,101
+Volvo 142E,102
+Pontiac Firebird,115
+AMC Javelin,146
+Merc 450SE,154
+Merc 280,152
+Ford Pantera L,90
+Merc 230,132
+Cadillac Fleetwood,142
+Pontiac Firebird,123
+Valiant,106
+Camaro Z28,149
+Ferrari Dino,122
+AMC Javelin,149
+Camaro Z28,155
+Merc 450SE,156
+Volvo 142E,96
+Duster 360,142
+Valiant,98
+Mazda RX4 Wag,107
+Datsun 710,134
+Lotus Europa,99
+Merc 450SE,162
+Merc 450SLC,126
+Fiat X1-9,118
+Datsun 710,133
+Duster 360,147
+Duster 360,126
+Fiat 128,70
+Hornet Sportabout,132
+Hornet 4 Drive,127
+Merc 450SE,150
+Lotus Europa,105
+Volvo 142E,95
+Hornet Sportabout,143
+Ford Pantera L,108
+Chrysler Imperial,142
+Merc 240D,144
+Hornet 4 Drive,127
+Duster 360,146
+AMC Javelin,159
+Merc 280,148
+Merc 280C,134
+Ferrari Dino,127
+Camaro Z28,142
+AMC Javelin,148
+Hornet Sportabout,120
+Ferrari Dino,136
+Cadillac Fleetwood,143
+Toyota Corona,93
+Fiat 128,89
+Ferrari Dino,127
+Volvo 142E,94
+Volvo 142E,92
+Volvo 142E,88
+Porsche 914-2,87
+Camaro Z28,160
+Duster 360,118
+Merc 230,124
+Lincoln Continental,105
+Ford Pantera L,96
+Merc 230,109
+Mazda RX4 Wag,112
+Hornet Sportabout,128
+Toyota Corona,99
+Toyota Corolla,94
+Valiant,96
+Toyota Corona,84
+Ferrari Dino,131
+Fiat X1-9,108
+Valiant,93
+Toyota Corolla,118
+Pontiac Firebird,113
+Ferrari Dino,154
+Hornet 4 Drive,131
+AMC Javelin,154
+Volvo 142E,101
+Volvo 142E,84
+Ford Pantera L,96
+Valiant,89
+Mazda RX4 Wag,116
+Merc 280,136
+Ford Pantera L,95
+Duster 360,134
+Cadillac Fleetwood,130
+Merc 450SLC,137
+Toyota Corolla,111
+Mazda RX4 Wag,83
+Fiat 128,108
+Merc 450SL,89
+Fiat 128,83
+Volvo 142E,102
+Hornet 4 Drive,121
+Cadillac Fleetwood,129
+Merc 280C,148
+Merc 280,134
+Honda Civic,136
+Merc 450SLC,130
+Valiant,114
+Hornet Sportabout,150
+Cadillac Fleetwood,135
+Cadillac Fleetwood,131
+Ferrari Dino,142
+Camaro Z28,154
+Hornet Sportabout,151
+Valiant,119
+Merc 240D,150
+Datsun 710,131
+Merc 280,144
+Duster 360,124
+Pontiac Firebird,126
+Fiat 128,115
+Merc 230,110
+Duster 360,141
+Hornet 4 Drive,125
+AMC Javelin,174
+Merc 280C,157
+Pontiac Firebird,136
+Maserati Bora,114
+Merc 450SE,160
+AMC Javelin,154
+Maserati Bora,125
+Hornet 4 Drive,122
+Lincoln Continental,120
+Chrysler Imperial,143
+Camaro Z28,162
+Duster 360,150
+Merc 240D,129
+Ford Pantera L,100
+Merc 230,131
+Ferrari Dino,137
+Ferrari Dino,128
+Honda Civic,137
+Merc 280C,128
+Toyota Corolla,114
+Merc 450SLC,134
+Merc 280,143
+Ferrari Dino,149
+Valiant,96
+Hornet Sportabout,139
+Merc 230,128
+Cadillac Fleetwood,142
+Porsche 914-2,113
+Honda Civic,114
+Camaro Z28,140
+Ferrari Dino,137
+Porsche 914-2,116
+Lotus Europa,103
+Cadillac Fleetwood,151
+Merc 450SE,157
+Merc 280,142
+Lotus Europa,97
+Dodge Challenger,106
+Valiant,101
+Maserati Bora,124
+Datsun 710,148
+Pontiac Firebird,106
+Volvo 142E,89
+Merc 450SLC,120
+Camaro Z28,138
+Merc 450SLC,112
+AMC Javelin,164
+Volvo 142E,96
+Volvo 142E,91
+Fiat X1-9,102
+Ford Pantera L,99
+Hornet Sportabout,120
+AMC Javelin,155
+Hornet Sportabout,157
+Honda Civic,134
+Merc 450SE,135
+Hornet 4 Drive,156
+Ford Pantera L,86
+Mazda RX4 Wag,97
+Dodge Challenger,105
+Valiant,93
+Honda Civic,145
+Hornet Sportabout,132
+Merc 450SE,150
+Merc 450SE,130
+Valiant,107
+Valiant,101
+Datsun 710,122
+Toyota Corona,93
+Volvo 142E,100
+Lincoln Continental,121
+Duster 360,118
+Honda Civic,124
+Fiat 128,101
+Duster 360,145
+Valiant,94
+Honda Civic,143
+Fiat X1-9,126
+Merc 280,143
+Duster 360,127
+Merc 450SE,145
+Merc 450SE,133
+Duster 360,118
+Merc 280C,121
+Mazda RX4 Wag,95
+Duster 360,119
+Datsun 710,141
+Ford Pantera L,83
+Valiant,104
+Hornet Sportabout,133
+Hornet 4 Drive,127
+Valiant,97
+Camaro Z28,147
+Cadillac Fleetwood,147
+Porsche 914-2,88
+Porsche 914-2,96
+Camaro Z28,154
+Merc 280C,127
+Lincoln Continental,150
+Fiat 128,102
+Volvo 142E,90
+Maserati Bora,149
+Dodge Challenger,109
+Volvo 142E,95
+Porsche 914-2,92
+Maserati Bora,142
+Merc 450SE,147
+Porsche 914-2,114
+Mazda RX4 Wag,109
+Ford Pantera L,77
+Honda Civic,121
+Volvo 142E,82
+Camaro Z28,136
+Porsche 914-2,106
+Camaro Z28,147
+Volvo 142E,100
+Merc 280,162
+Toyota Corolla,106
+Lotus Europa,94
+Camaro Z28,131
+Porsche 914-2,113
+Ferrari Dino,134
+Pontiac Firebird,112
+Pontiac Firebird,115
+Ford Pantera L,76
+Dodge Challenger,110
+Merc 280,144
+Merc 280,146
+Dodge Challenger,118
+Fiat X1-9,111
+Merc 450SE,141
+Merc 280,134
+Merc 280,141
+Maserati Bora,130
+Lotus Europa,92
+Valiant,99
+AMC Javelin,137
+Volvo 142E,110
+Porsche 914-2,104
+Toyota Corolla,116
+Valiant,102
+Valiant,112
+Merc 280,144
+Dodge Challenger,112
+Ford Pantera L,72
+Merc 450SE,145
+Porsche 914-2,113
+Duster 360,135
+Lotus Europa,94
+Hornet Sportabout,125
+Valiant,105
+Ferrari Dino,137
+Volvo 142E,101
+Hornet Sportabout,141
+Cadillac Fleetwood,136
+Merc 450SE,146
+Camaro Z28,133
+Fiat X1-9,98
+Maserati Bora,140
+Merc 280,150
+Fiat X1-9,98
+Chrysler Imperial,126
+Merc 450SL,96
+Hornet Sportabout,137
+Volvo 142E,100
+Mazda RX4 Wag,85
+Datsun 710,146
+Valiant,81
+Datsun 710,129
+Duster 360,139
+Merc 450SE,140
+Merc 450SE,154
+Merc 450SLC,121
+Hornet 4 Drive,131
+Ferrari Dino,127
+Hornet Sportabout,135
+Merc 280,138
+Fiat 128,96
+Valiant,100
+Hornet Sportabout,138
+Honda Civic,129
+Merc 280,126
+Hornet Sportabout,154
+Porsche 914-2,106
+Datsun 710,136
+Mazda RX4 Wag,96
+Merc 280,134
+Merc 450SE,130
+Camaro Z28,155
+Hornet 4 Drive,120
+Fiat X1-9,131
+Merc 450SE,143
+Duster 360,154
+Merc 450SE,153
+Pontiac Firebird,118
+Cadillac Fleetwood,122
+Ferrari Dino,128
+Fiat X1-9,108
+Porsche 914-2,100
+Ford Pantera L,86
+Lotus Europa,109
+Mazda RX4 Wag,111
+Merc 230,120
+Duster 360,139
+Toyota Corolla,102
+Maserati Bora,126
+Dodge Challenger,107
+Pontiac Firebird,126
+Pontiac Firebird,109
+Honda Civic,150
+Hornet Sportabout,132
+Merc 450SLC,119
+Merc 280C,157
+Volvo 142E,92
+Merc 450SLC,138
+Duster 360,127
+Lincoln Continental,140
+Camaro Z28,135
+Merc 280,127
+Toyota Corona,102
+Honda Civic,150
+Ford Pantera L,106
+Merc 450SLC,123
+Valiant,112
+Hornet 4 Drive,128
+Lotus Europa,95
+Merc 450SL,98
+Lotus Europa,96
+Lincoln Continental,138
+Valiant,123
+Maserati Bora,122
+Merc 230,138
+Hornet Sportabout,132
+Duster 360,134
+Merc 240D,118
+Dodge Challenger,109
+Duster 360,132
+Merc 230,128
+Pontiac Firebird,127
+Merc 280,146
+Hornet Sportabout,125
+Maserati Bora,106
+Camaro Z28,147
+Lotus Europa,100
+Pontiac Firebird,124
+AMC Javelin,151
+Mazda RX4 Wag,96
+Honda Civic,122
+Ford Pantera L,88
+Lotus Europa,96
+Merc 450SL,91
+Merc 450SE,149
+Mazda RX4 Wag,80
+Merc 230,123
+Porsche 914-2,113
+Porsche 914-2,99
+Duster 360,142
+Datsun 710,140
+Honda Civic,135
+Merc 280C,131
+Camaro Z28,143
+Hornet 4 Drive,134
+Pontiac Firebird,123
+Valiant,87
+Lotus Europa,108
+AMC Javelin,155
+Ferrari Dino,128
+Dodge Challenger,98
+Hornet Sportabout,138
+Mazda RX4 Wag,111
+Merc 230,121
+Valiant,112
+Hornet 4 Drive,144
+Porsche 914-2,110
+Ford Pantera L,82
+Maserati Bora,127
+Merc 450SE,151
+Ford Pantera L,98
+Camaro Z28,130
+Honda Civic,126
+Ferrari Dino,129
+Hornet 4 Drive,125
+Dodge Challenger,94
+Merc 280,137
+Pontiac Firebird,121
+Merc 450SL,98
+Hornet 4 Drive,113
+Merc 450SE,136
+Ford Pantera L,86
+Merc 450SE,126
+Merc 450SE,155
+Hornet Sportabout,140
+Hornet Sportabout,148
+Maserati Bora,133
+Merc 450SE,156
+Pontiac Firebird,105
+Volvo 142E,84
+Datsun 710,134
+Toyota Corona,95
+Volvo 142E,101
+Dodge Challenger,101
+Merc 240D,149
+Merc 230,126
+Merc 280,143
+Merc 450SLC,133
+Toyota Corona,103
+Honda Civic,132
+Hornet Sportabout,143
+Datsun 710,154
+Lotus Europa,88
+Duster 360,112
+Fiat X1-9,115
+Datsun 710,130
+Hornet Sportabout,146
+Ford Pantera L,85
+Valiant,103
+Merc 280C,143
+Merc 280,142
+Hornet Sportabout,147
+Camaro Z28,155
+Lotus Europa,106
+Honda Civic,143
+Merc 280C,144
+Porsche 914-2,92
+Camaro Z28,143
+Pontiac Firebird,132
+Valiant,85
+Duster 360,129
+Pontiac Firebird,112
+Merc 450SE,140
+AMC Javelin,169
+Pontiac Firebird,119
+Volvo 142E,90
+Merc 280C,131
+AMC Javelin,158
+Merc 280C,134
+Porsche 914-2,106
+Ferrari Dino,127
+Lotus Europa,104
+Merc 450SE,139
+Lotus Europa,96
+Merc 240D,145
+Maserati Bora,140
+Ford Pantera L,89
+Lotus Europa,87
+Fiat X1-9,105
+Merc 450SE,146
+Merc 280C,141
+Merc 230,133
+Mazda RX4 Wag,100
+Toyota Corolla,115
+Fiat 128,87
+Volvo 142E,89
+Porsche 914-2,102
+Volvo 142E,98
+Merc 230,131
+Merc 240D,129
+Merc 450SE,143
+AMC Javelin,157
+Honda Civic,128
+Mazda RX4 Wag,129
+Cadillac Fleetwood,140
+Merc 450SE,127
+Pontiac Firebird,124
+Lincoln Continental,125
+Merc 450SL,103
+Datsun 710,129
+Volvo 142E,85
+Chrysler Imperial,149
+Merc 280,147
+Merc 280,141
+Merc 450SLC,120
+Datsun 710,140
+Pontiac Firebird,124
+Merc 280C,152
+Hornet Sportabout,164
+Valiant,93
+Merc 450SE,133
+Camaro Z28,155
+Merc 280C,141
+Cadillac Fleetwood,143
+Merc 280,140
+Mazda RX4 Wag,117
+Toyota Corona,107
+Volvo 142E,112
+Merc 450SLC,117
+Lotus Europa,98
+Camaro Z28,153
+Pontiac Firebird,127
+AMC Javelin,152
+Merc 450SE,155
+Mazda RX4 Wag,86
+Cadillac Fleetwood,133
+Merc 240D,127
+Porsche 914-2,94
+Volvo 142E,100
+Pontiac Firebird,114
+Valiant,115
+Honda Civic,124
+Merc 450SLC,117
+Merc 280C,130
+Merc 240D,159
+Duster 360,141
+Mazda RX4 Wag,110
+Mazda RX4 Wag,112
+Honda Civic,126
+Toyota Corona,114
+AMC Javelin,160
+Pontiac Firebird,113
+Merc 450SLC,129
+Valiant,106
+Cadillac Fleetwood,124
+Ferrari Dino,118
+Porsche 914-2,124
+Merc 280,136
+Ford Pantera L,95
+Camaro Z28,151
+Ford Pantera L,94
+Merc 450SL,80
+Merc 280C,135
+Merc 450SE,135
+Merc 450SLC,117
+Ferrari Dino,131
+Fiat 128,98
+Valiant,102
+Datsun 710,153
+Merc 230,118
+Honda Civic,147
+Merc 280,142
+Maserati Bora,127
+Dodge Challenger,109
+Lotus Europa,102
+Duster 360,140
+Honda Civic,127
+Valiant,94
+Merc 450SE,135
+Merc 240D,133
+Merc 450SE,152
+Pontiac Firebird,142
+Dodge Challenger,107
+Chrysler Imperial,124
+Chrysler Imperial,139
+Lotus Europa,102
+Valiant,95
+Ferrari Dino,131
+Toyota Corona,101
+Merc 450SLC,112
+Camaro Z28,130
+Duster 360,133
+Toyota Corona,101
+AMC Javelin,154
+Chrysler Imperial,135
+Camaro Z28,140
+Pontiac Firebird,123
+Toyota Corona,106
+Volvo 142E,117
+Camaro Z28,139
+Ford Pantera L,90
+Merc 280C,139
+Porsche 914-2,115
+Dodge Challenger,117
+Ferrari Dino,131
+Fiat X1-9,119
+Chrysler Imperial,118
+Valiant,101
+Merc 450SE,148
+Hornet 4 Drive,122
+Fiat 128,88
+Fiat X1-9,98
+Merc 280C,135
+Merc 450SLC,112
+Ferrari Dino,137
+Duster 360,128
+Duster 360,127
+Mazda RX4 Wag,101
+Volvo 142E,106
+AMC Javelin,169
+Merc 230,133
+Merc 230,115
+Valiant,89
+Chrysler Imperial,152
+Merc 240D,138
+Honda Civic,143
+Dodge Challenger,84
+Duster 360,134
+Merc 450SLC,125
+Pontiac Firebird,104
+Porsche 914-2,97
+Merc 240D,151
+Hornet Sportabout,143
+Merc 450SE,155
+Hornet Sportabout,126
+Merc 280C,155
+Hornet Sportabout,145
+Lotus Europa,117
+Pontiac Firebird,108
+Merc 450SLC,143
+Merc 230,130
+Toyota Corona,101
+AMC Javelin,130
+Toyota Corolla,104
+Merc 450SL,98
+Duster 360,127
+AMC Javelin,152
+Hornet Sportabout,133
+Ford Pantera L,96
+Porsche 914-2,107
+Cadillac Fleetwood,116
+Volvo 142E,122
+Valiant,100
+Fiat 128,111
+Merc 280,147
+Fiat X1-9,125
+Merc 240D,129
+Merc 450SE,157
+Merc 280C,143
+Merc 230,109
+Merc 280C,143
+Merc 450SL,103
+Merc 280,142
+Merc 280C,155
+Merc 280C,155
+Pontiac Firebird,120
+Dodge Challenger,99
+Duster 360,128
+Merc 230,115
+Hornet 4 Drive,132
+Merc 450SL,101
+Porsche 914-2,102
+Porsche 914-2,94
+Honda Civic,141
+AMC Javelin,161
+Mazda RX4 Wag,106
+Maserati Bora,138
+Ferrari Dino,145
+Mazda RX4 Wag,104
+Merc 280C,160
+Porsche 914-2,125
+Hornet 4 Drive,128
+Porsche 914-2,123
+Pontiac Firebird,122
+Ferrari Dino,144
+Merc 450SL,95
+Merc 450SE,144
+Volvo 142E,106
+Duster 360,133
+Cadillac Fleetwood,141
+Maserati Bora,139
+Honda Civic,124
+Camaro Z28,157
+Lincoln Continental,143
+Honda Civic,140
+Camaro Z28,144
+Camaro Z28,151
+Mazda RX4 Wag,105
+Valiant,98
+Fiat X1-9,125
+AMC Javelin,135
+Hornet Sportabout,133
+Valiant,93
+Hornet Sportabout,146
+Merc 450SLC,123
+Ferrari Dino,142
+Merc 230,123
+Datsun 710,126
+Dodge Challenger,98
+Maserati Bora,133
+Merc 280,145
+Ferrari Dino,136
+AMC Javelin,131
+Fiat X1-9,116
+Ferrari Dino,123
+Merc 230,135
+Valiant,106
+Honda Civic,145
+Mazda RX4 Wag,104
+Ford Pantera L,86
+Merc 280,136
+Merc 450SLC,141
+Toyota Corona,96
+Datsun 710,136
+Hornet Sportabout,141
+Merc 450SLC,118
+Duster 360,130
+Volvo 142E,87
+Valiant,98
+Hornet 4 Drive,120
+Dodge Challenger,99
+Volvo 142E,76
+Valiant,91
+Pontiac Firebird,121
+Pontiac Firebird,141
+Hornet 4 Drive,128
+Lotus Europa,85
+Merc 280,137
+Mazda RX4 Wag,106
+Merc 450SE,140
+Fiat X1-9,101
+Dodge Challenger,111
+Duster 360,148
+Valiant,93
+Camaro Z28,154
+Pontiac Firebird,124
+Toyota Corona,95
+Camaro Z28,130
+Duster 360,150
+Lotus Europa,90
+Merc 280C,147
+Hornet 4 Drive,140
+Ford Pantera L,86
+Merc 280,132
+Merc 240D,134
+Merc 280,144
+Merc 240D,150
+Mazda RX4 Wag,94
+Merc 240D,134
+Cadillac Fleetwood,141
+Pontiac Firebird,120
+Datsun 710,144
+Merc 450SLC,123
+AMC Javelin,150
+Volvo 142E,98
+Lotus Europa,88
+Valiant,99
+Pontiac Firebird,125
+Chrysler Imperial,107
+Camaro Z28,136
+Toyota Corona,100
+Volvo 142E,88
+Porsche 914-2,112
+Volvo 142E,89
+Lotus Europa,106
+Merc 280,131
+Porsche 914-2,106
+Dodge Challenger,99
+Valiant,117
+Fiat X1-9,112
+Merc 450SLC,137
+AMC Javelin,162
+AMC Javelin,158
+Ferrari Dino,135
+Merc 450SLC,121
+Porsche 914-2,107
+Fiat 128,88
+Toyota Corolla,97
+Merc 450SLC,114
+Hornet Sportabout,127
+Merc 450SE,142
+Volvo 142E,84
+Fiat X1-9,123
+Merc 230,129
+Merc 450SE,156
+Fiat 128,110
+Volvo 142E,92
+Maserati Bora,124
+Duster 360,131
+Merc 280,152
+Camaro Z28,143
+Volvo 142E,101
+Volvo 142E,72
+Camaro Z28,149
+Chrysler Imperial,139
+Fiat X1-9,115
+Cadillac Fleetwood,139
+Porsche 914-2,108
+Honda Civic,114
+Porsche 914-2,120
+Lotus Europa,91
+Datsun 710,140
+Cadillac Fleetwood,136
+Hornet Sportabout,128
+AMC Javelin,132
+Fiat X1-9,119
+Fiat 128,91
+Merc 280,141
+Merc 450SL,102
+Porsche 914-2,89
+Volvo 142E,97
+Datsun 710,119
+Merc 450SLC,135
+Dodge Challenger,96
+Merc 280,137
+Hornet Sportabout,154
+Merc 450SE,145
+Mazda RX4 Wag,105
+Datsun 710,155
+Pontiac Firebird,126
+Merc 230,121
+Ford Pantera L,98
+Camaro Z28,130
+Fiat X1-9,107
+Honda Civic,133
+Merc 450SL,96
+Camaro Z28,130
+Volvo 142E,100
+Honda Civic,127
+Merc 230,109
+Ferrari Dino,137
+Mazda RX4 Wag,108
+Merc 280,132
+Volvo 142E,89
+Porsche 914-2,105
+Honda Civic,127
+Merc 230,118
+Porsche 914-2,110
+Hornet Sportabout,145
+Ferrari Dino,148
+Ferrari Dino,124
+Merc 280C,145
+Datsun 710,137
+Honda Civic,133
+Hornet Sportabout,131
+Duster 360,143
+Pontiac Firebird,115
+Camaro Z28,153
+Mazda RX4 Wag,103
+Honda Civic,130
+Hornet 4 Drive,138
+Merc 230,111
+Merc 450SL,88
+Merc 450SE,144
+Toyota Corona,90
+Maserati Bora,128
+Cadillac Fleetwood,117
+Datsun 710,130
+Merc 230,128
+Maserati Bora,124
+Hornet 4 Drive,148
+Merc 450SE,160
+Honda Civic,157
+Camaro Z28,127
+Merc 450SL,87
+Camaro Z28,160
+Merc 230,140
+Mazda RX4 Wag,107
+Merc 280,134
+Honda Civic,120
